@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2",
+    "preceptor": "ADRIAN TORRES",
+    "informes": {
+      "informe1": {
+        "materias": {
+          "PLG": "TEA, 10, ",
+          "EAR": "TEA, 10, ",
+          "CCD": "TEP, 8, ",
+          "EFI": "TEA, 10, ",
+          "CNT": "TEA, 10, ",
+          "CSC": "TEP, 10, ",
+          "MTM": "TEP, 10, ",
+          "IGS": "TEA, 10, "
+        },
+        "asistencia": {
+          "Inasistencias": "7",
+          "Hábiles": "0"
+        }
+      }
+    },
+    "curso": "2°2°",
+    "nombre": "GATO",
+    "dni": "2",
+    "turno": "TM"
+  }
+]
