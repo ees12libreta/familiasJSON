@@ -1,70 +1,70 @@
 [
   {
     "id": "2",
-    "dni": "2",
-    "nombre": "GATO",
     "turno": "TM",
-    "curso": "2°2°",
     "preceptor": "ADRIAN TORRES",
     "informes": {
-      "informe2": {
-        "materias": {
-          "PLG": "TEP, 4, ",
-          "CSC": "TEP, 4, ",
-          "IGS": "TEP, 4, ",
-          "MTM": "TEP, 4, ",
-          "CCD": "TEP, 4, ",
-          "CNT": "TEP, 4, ",
-          "EAR": "TEP, 4, ",
-          "EFI": "TEP, 4, "
-        },
-        "asistencia": {
-          "Hábiles": "23",
-          "Inasistencias": "12"
-        }
-      },
       "informe3": {
         "materias": {
-          "MTM": "TEA, 1, ",
           "IGS": "TEA, 1, ",
-          "EFI": "TEA, 1, ",
           "EAR": "TEA, 1, ",
           "CSC": "TEA, 1, ",
           "PLG": "TEA, 7, ",
-          "CNT": "TEA, 2, ",
-          "CCD": "TEA, 9, "
+          "MTM": "TEA, 1, ",
+          "CCD": "TEA, 9, ",
+          "EFI": "TEA, 1, ",
+          "CNT": "TEA, 2, "
         },
         "asistencia": {
           "Inasistencias": "5",
           "Hábiles": "0"
         }
+      },
+      "informe2": {
+        "materias": {
+          "EFI": "TEP, 4, ",
+          "CSC": "TEP, 4, ",
+          "EAR": "TEP, 4, ",
+          "PLG": "TEP, 4, ",
+          "CNT": "TEP, 4, ",
+          "MTM": "TEP, 4, ",
+          "IGS": "TEP, 4, ",
+          "CCD": "TEP, 4, "
+        },
+        "asistencia": {
+          "Inasistencias": "12",
+          "Hábiles": "23"
+        }
       }
-    }
+    },
+    "curso": "2°2°",
+    "dni": "2",
+    "nombre": "GATO"
   },
   {
     "id": "4",
+    "turno": "TM",
+    "curso": "2°2°",
     "dni": "4",
     "preceptor": "ADRIAN TORRES",
-    "curso": "2°2°",
-    "nombre": "POPO",
-    "turno": "TM",
     "informes": {
       "informe1": {
         "materias": {
-          "CCD": "TED, 1, ",
-          "CNT": "TED, 1, ",
-          "EAR": "TED, 1, ",
-          "PLG": "TED, 1, ",
-          "CSC": "TED, 1, ",
+          "EFI": "TED, 1, ",
           "IGS": "TED, 1, ",
           "MTM": "TED, 1, ",
-          "EFI": "TED, 1, "
+          "PLG": "TED, 1, ",
+          "CNT": "TED, 1, ",
+          "EAR": "TED, 1, ",
+          "CCD": "TED, 1, ",
+          "CSC": "TED, 1, "
         },
         "asistencia": {
-          "Inasistencias": "0",
-          "Hábiles": "0"
+          "Hábiles": "0",
+          "Inasistencias": "0"
         }
       }
-    }
+    },
+    "nombre": "POPO"
   }
 ]
