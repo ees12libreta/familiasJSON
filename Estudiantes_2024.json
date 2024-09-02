@@ -1,10 +1,10 @@
 [
   {
     "id": "2",
-    "preceptor": "ADRIAN TORRES",
     "dni": "2",
     "curso": "2°2°",
     "nombre": "GATO",
+    "preceptor": "ADRIAN TORRES",
     "turno": "TM"
   },
   {
