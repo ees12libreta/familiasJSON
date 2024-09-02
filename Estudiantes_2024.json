@@ -1,9 +1,8 @@
 [
   {
     "id": "2",
-    "turno": "TM",
+    "curso": "2°2°",
     "dni": "2",
-    "nombre": "GATO",
     "informes": {
       "informe1": {
         "asistencia": {
@@ -11,26 +10,27 @@
           "Inasistencias": "7"
         },
         "materias": {
-          "PLG": "TED, 10, ",
-          "EAR": "TED, 10, ",
-          "CSC": "TED, 10, ",
-          "IGS": "TED, 10, ",
-          "CNT": "TED, 10, ",
-          "MTM": "TED, 10, ",
           "CCD": "TED, 8, ",
-          "EFI": "TED, 10, "
+          "CNT": "TED, 10, ",
+          "CSC": "TED, 10, ",
+          "EAR": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "PLG": "TED, 10, "
         }
       }
     },
-    "curso": "2°2°",
-    "preceptor": "ADRIAN TORRES"
+    "nombre": "GATO",
+    "preceptor": "ADRIAN TORRES",
+    "turno": "TM"
   },
   {
     "id": "4",
     "preceptor": "ADRIAN TORRES",
-    "nombre": "POPO",
     "curso": "2°2°",
     "dni": "4",
-    "turno": "TM"
+    "turno": "TM",
+    "nombre": "POPO"
   }
 ]
