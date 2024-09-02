@@ -1,68 +1,36 @@
 [
   {
     "id": "2",
+    "turno": "TM",
+    "nombre": "GATO",
+    "dni": "2",
     "informes": {
-      "informe3": {
-        "materias": {
-          "MTM": "TEA, 1, ",
-          "CSC": "TEA, 1, ",
-          "IGS": "TEA, 1, ",
-          "EAR": "TEA, 1, ",
-          "PLG": "TEA, 7, ",
-          "CCD": "TEA, 9, ",
-          "CNT": "TEA, 2, ",
-          "EFI": "TEA, 1, "
-        },
-        "asistencia": {
-          "Inasistencias": "5",
-          "Hábiles": "0"
-        }
-      },
-      "informe1": {
-        "materias": {
-          "PLG": "TED, 10, ",
-          "CNT": "TED, 10, ",
-          "IGS": "TED, 10, ",
-          "CSC": "TED, 10, ",
-          "CCD": "TED, 8, ",
-          "MTM": "TED, 10, ",
-          "EFI": "TED, 10, ",
-          "EAR": "TED, 10, "
-        },
-        "asistencia": {
-          "Hábiles": "0",
-          "Inasistencias": "7"
-        }
-      },
       "informe2": {
+        "asistencia": {
+          "Inasistencias": "12",
+          "Hábiles": "23"
+        },
         "materias": {
+          "CNT": "TEA, 4, ",
+          "MTM": "TEP, 4, ",
+          "CSC": "TEP, 4, ",
           "EAR": "TEP, 4, ",
           "IGS": "TEP, 4, ",
+          "EFI": "TEP, 4, ",
           "CCD": "TEP, 4, ",
-          "MTM": "TEP, 4, ",
-          "PLG": "TEP, 4, ",
-          "CNT": "TEA, 4, ",
-          "CSC": "TEP, 4, ",
-          "EFI": "TEP, 4, "
-        },
-        "asistencia": {
-          "Hábiles": "23",
-          "Inasistencias": "12"
+          "PLG": "TEP, 4, "
         }
       }
     },
-    "curso": "2°2°",
     "preceptor": "ADRIAN TORRES",
-    "turno": "TM",
-    "nombre": "GATO",
-    "dni": "2"
+    "curso": "2°2°"
   },
   {
     "id": "4",
-    "preceptor": "ADRIAN TORRES",
-    "nombre": "POPO",
-    "dni": "4",
     "curso": "2°2°",
-    "turno": "TM"
+    "turno": "TM",
+    "dni": "4",
+    "preceptor": "ADRIAN TORRES",
+    "nombre": "POPO"
   }
 ]
