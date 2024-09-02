@@ -1,22 +1,21 @@
 [
   {
     "id": "2",
-    "preceptor": "ADRIAN TORRES",
     "informes": {
       "informe3": {
         "materias": {
-          "MTM": "TEA, 1, ",
-          "EFI": "TEA, 1, ",
-          "CNT": "TEA, 2, ",
-          "EAR": "TEA, 1, ",
-          "CSC": "TEA, 1, ",
           "IGS": "TEA, 1, ",
+          "CCD": "TEA, 9, ",
+          "EAR": "TEA, 1, ",
           "PLG": "TEA, 7, ",
-          "CCD": "TEA, 9, "
+          "EFI": "TEA, 1, ",
+          "MTM": "TEA, 1, ",
+          "CSC": "TEA, 1, ",
+          "CNT": "TEA, 2, "
         },
         "asistencia": {
-          "Hábiles": "0",
-          "Inasistencias": "5"
+          "Inasistencias": "5",
+          "Hábiles": "0"
         }
       },
       "informe2": {
@@ -25,44 +24,45 @@
           "Inasistencias": "12"
         },
         "materias": {
-          "CCD": "TEP, 4, ",
-          "IGS": "TEP, 4, ",
+          "PLG": "TEP, 4, ",
           "CSC": "TEP, 4, ",
           "EAR": "TEP, 4, ",
-          "EFI": "TEP, 4, ",
-          "CNT": "TEA, 4, ",
           "MTM": "TEP, 4, ",
-          "PLG": "TEP, 4, "
+          "EFI": "TEP, 4, ",
+          "CCD": "TEP, 4, ",
+          "IGS": "TEP, 4, ",
+          "CNT": "TEA, 4, "
         }
       },
       "informe1": {
         "asistencia": {
-          "Inasistencias": "7",
-          "Hábiles": "0"
+          "Hábiles": "0",
+          "Inasistencias": "7"
         },
         "materias": {
+          "CCD": "TED, 8, ",
+          "CNT": "TED, 10, ",
           "CSC": "TED, 10, ",
-          "IGS": "TED, 10, ",
           "EAR": "TED, 10, ",
           "EFI": "TED, 10, ",
+          "IGS": "TED, 10, ",
           "MTM": "TED, 10, ",
-          "CNT": "TED, 10, ",
-          "CCD": "TED, 8, ",
           "PLG": "TED, 10, "
         }
       }
     },
-    "turno": "TM",
     "nombre": "GATO",
+    "preceptor": "ADRIAN TORRES",
+    "dni": "2",
     "curso": "2°2°",
-    "dni": "2"
+    "turno": "TM"
   },
   {
     "id": "4",
     "curso": "2°2°",
+    "nombre": "POPO",
     "turno": "TM",
     "dni": "4",
-    "nombre": "POPO",
     "preceptor": "ADRIAN TORRES"
   }
 ]
