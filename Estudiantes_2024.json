@@ -1,29 +1,11 @@
 [
   {
     "id": "2",
-    "preceptor": "ADRIAN TORRES",
-    "nombre": "GATO",
-    "dni": "2",
-    "curso": "2°2°",
     "turno": "TM",
-    "informes": {
-      "informe1": {
-        "asistencia": {
-          "Hábiles": "0",
-          "Inasistencias": "7"
-        },
-        "materias": {
-          "PLG": "TED, 10, ",
-          "CSC": "TED, 10, ",
-          "CCD": "TED, 10, ",
-          "EAR": "TED, 10, ",
-          "IGS": "TED, 10, ",
-          "MTM": "TED, 10, ",
-          "CNT": "TED, 10, ",
-          "EFI": "TED, 10, "
-        }
-      }
-    }
+    "curso": "2°2°",
+    "dni": "2",
+    "preceptor": "ADRIAN TORRES",
+    "nombre": "GATO"
   },
   {
     "id": "4",
