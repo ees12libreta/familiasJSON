@@ -5,7 +5,25 @@
     "dni": "2",
     "curso": "2°2°",
     "preceptor": "ADRIAN TORRES",
-    "nombre": "GATO"
+    "nombre": "GATO",
+    "informes": {
+      "informe1": {
+        "asistencia": {
+          "Hábiles": "0",
+          "Inasistencias": "7"
+        },
+        "materias": {
+          "CCD": "TED, 10, ",
+          "CNT": "TED, 10, ",
+          "CSC": "TED, 10, ",
+          "EAR": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "PLG": "TED, 10, "
+        }
+      }
+    }
   },
   {
     "id": "4",
