@@ -1,36 +1,36 @@
 [
   {
     "id": "2",
-    "preceptor": "ADRIAN TORRES",
+    "curso": "2Â°2Â°",
     "turno": "TM",
-    "dni": "2",
     "informes": {
       "informe1": {
-        "asistencia": {
-          "Inasistencias": "7",
-          "Hábiles": "0"
-        },
         "materias": {
-          "CCD": "TED, 10, ",
-          "PLG": "TED, 10, ",
-          "IGS": "TED, 10, ",
-          "MTM": "TED, 10, ",
-          "EFI": "TED, 10, ",
           "CNT": "TED, 10, ",
-          "EAR": "TED, 10, ",
-          "CSC": "TED, 10, "
+          "CCD": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "CSC": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "PLG": "TED, 10, ",
+          "EAR": "TED, 10, "
+        },
+        "asistencia": {
+          "HÃ¡biles": "0",
+          "Inasistencias": "7"
         }
       }
     },
-    "curso": "2°2°",
-    "nombre": "GATO"
+    "nombre": "GATO",
+    "preceptor": "ADRIAN TORRES",
+    "dni": "2"
   },
   {
     "id": "4",
-    "nombre": "POPO",
-    "curso": "2°2°",
-    "preceptor": "ADRIAN TORRES",
+    "turno": "TM",
     "dni": "4",
-    "turno": "TM"
+    "curso": "2Â°2Â°",
+    "preceptor": "ADRIAN TORRES",
+    "nombre": "POPO"
   }
 ]
