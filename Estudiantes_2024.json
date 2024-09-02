@@ -9,10 +9,10 @@
   },
   {
     "id": "4",
+    "nombre": "POPO",
     "preceptor": "ADRIAN TORRES",
-    "curso": "2°2°",
     "turno": "TM",
-    "dni": "4",
-    "nombre": "POPO"
+    "curso": "2°2°",
+    "dni": "4"
   }
 ]
