@@ -32,5 +32,73 @@
     "curso": "2°2°",
     "preceptor": "ADRIAN TORRES",
     "turno": "TM"
+  },
+  {
+    "id": "2",
+    "informes": {
+      "informe1": {
+        "materias": {
+          "MTM": "TED, 10, ",
+          "EAR": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "CCD": "TED, 8, ",
+          "PLG": "TED, 10, ",
+          "CSC": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "CNT": "TED, 10, "
+        },
+        "asistencia": {
+          "Hábiles": "0",
+          "Inasistencias": "7"
+        }
+      }
+    },
+    "turno": "TM",
+    "nombre": "GATO",
+    "preceptor": "ADRIAN TORRES",
+    "curso": "2°2°",
+    "dni": "2"
+  },
+  {
+    "id": "4",
+    "dni": "4",
+    "preceptor": "ADRIAN TORRES",
+    "nombre": "POPO",
+    "curso": "2°2°",
+    "turno": "TM"
+  },
+  {
+    "id": "2",
+    "preceptor": "ADRIAN TORRES",
+    "dni": "2",
+    "turno": "TM",
+    "curso": "2°2°",
+    "informes": {
+      "informe1": {
+        "materias": {
+          "CCD": "TED, 8, ",
+          "CNT": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "CSC": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "PLG": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "EAR": "TED, 10, "
+        },
+        "asistencia": {
+          "Hábiles": "0",
+          "Inasistencias": "7"
+        }
+      }
+    },
+    "nombre": "GATO"
+  },
+  {
+    "id": "4",
+    "turno": "TM",
+    "nombre": "POPO",
+    "preceptor": "ADRIAN TORRES",
+    "dni": "4",
+    "curso": "2°2°"
   }
 ]
