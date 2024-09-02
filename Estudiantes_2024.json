@@ -1,18 +1,18 @@
 [
   {
     "id": "2",
-    "preceptor": "ADRIAN TORRES",
     "turno": "TM",
     "dni": "2",
+    "preceptor": "ADRIAN TORRES",
     "nombre": "GATO",
     "curso": "2°2°"
   },
   {
     "id": "4",
-    "dni": "4",
     "nombre": "POPO",
-    "curso": "2°2°",
+    "turno": "TM",
     "preceptor": "ADRIAN TORRES",
-    "turno": "TM"
+    "dni": "4",
+    "curso": "2°2°"
   }
 ]
