@@ -4,15 +4,15 @@
     "curso": "2°2°",
     "nombre": "GATO",
     "preceptor": "ADRIAN TORRES",
-    "turno": "TM",
-    "dni": "2"
+    "dni": "2",
+    "turno": "TM"
   },
   {
     "id": "4",
-    "curso": "2°2°",
-    "turno": "TM",
-    "dni": "4",
     "nombre": "POPO",
-    "preceptor": "ADRIAN TORRES"
+    "dni": "4",
+    "preceptor": "ADRIAN TORRES",
+    "turno": "TM",
+    "curso": "2°2°"
   }
 ]
