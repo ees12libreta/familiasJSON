@@ -1,8 +1,9 @@
 [
   {
     "id": "2",
+    "nombre": "GATO",
     "curso": "2°2°",
-    "dni": "2",
+    "turno": "TM",
     "informes": {
       "informe2": {
         "asistencia": {
@@ -10,27 +11,26 @@
           "Inasistencias": "12"
         },
         "materias": {
-          "CCD": "TEP, 4, ",
-          "CNT": "TEA, 4, ",
-          "CSC": "TEP, 4, ",
-          "EAR": "TEP, 4, ",
-          "EFI": "TEP, 4, ",
           "IGS": "TEP, 4, ",
+          "EAR": "TEP, 4, ",
           "MTM": "TEP, 4, ",
-          "PLG": "TEP, 4, "
+          "EFI": "TEP, 4, ",
+          "CSC": "TEP, 4, ",
+          "CCD": "TEP, 4, ",
+          "PLG": "TEP, 4, ",
+          "CNT": "TEA, 4, "
         }
       }
     },
-    "nombre": "GATO",
     "preceptor": "ADRIAN TORRES",
-    "turno": "TM"
+    "dni": "2"
   },
   {
     "id": "4",
-    "preceptor": "ADRIAN TORRES",
-    "nombre": "POPO",
-    "dni": "4",
     "curso": "2°2°",
-    "turno": "TM"
+    "dni": "4",
+    "nombre": "POPO",
+    "turno": "TM",
+    "preceptor": "ADRIAN TORRES"
   }
 ]
