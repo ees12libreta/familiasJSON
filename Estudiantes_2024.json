@@ -32,5 +32,39 @@
     "nombre": "POPO",
     "preceptor": "ADRIAN TORRES",
     "curso": "2°2°"
+  },
+  {
+    "id": "2",
+    "preceptor": "ADRIAN TORRES",
+    "curso": "2°2°",
+    "turno": "TM",
+    "nombre": "GATO",
+    "dni": "2",
+    "informes": {
+      "informe1": {
+        "asistencia": {
+          "Hábiles": "0",
+          "Inasistencias": "7"
+        },
+        "materias": {
+          "CSC": "TED, 10, ",
+          "CNT": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "PLG": "TED, 10, ",
+          "CCD": "TED, 10, ",
+          "EAR": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "EFI": "TED, 10, "
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "nombre": "POPO",
+    "preceptor": "ADRIAN TORRES",
+    "curso": "2°2°",
+    "dni": "4",
+    "turno": "TM"
   }
 ]
