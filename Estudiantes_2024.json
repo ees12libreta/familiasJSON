@@ -1,24 +1,22 @@
 [
   {
     "id": "2",
-    "curso": "2°2°",
-    "dni": "2",
     "preceptor": "ADRIAN TORRES",
     "informes": {
-      "informe1": {
+      "informe3": {
         "materias": {
-          "MTM": "TED, 10, ",
-          "EAR": "TED, 10, ",
-          "CCD": "TED, 8, ",
-          "PLG": "TED, 10, ",
-          "EFI": "TED, 10, ",
-          "CNT": "TED, 10, ",
-          "IGS": "TED, 10, ",
-          "CSC": "TED, 10, "
+          "MTM": "TEA, 1, ",
+          "EFI": "TEA, 1, ",
+          "CNT": "TEA, 2, ",
+          "EAR": "TEA, 1, ",
+          "CSC": "TEA, 1, ",
+          "IGS": "TEA, 1, ",
+          "PLG": "TEA, 7, ",
+          "CCD": "TEA, 9, "
         },
         "asistencia": {
           "Hábiles": "0",
-          "Inasistencias": "7"
+          "Inasistencias": "5"
         }
       },
       "informe2": {
@@ -28,41 +26,43 @@
         },
         "materias": {
           "CCD": "TEP, 4, ",
-          "CSC": "TEP, 4, ",
-          "EFI": "TEP, 4, ",
-          "EAR": "TEP, 4, ",
-          "MTM": "TEP, 4, ",
           "IGS": "TEP, 4, ",
+          "CSC": "TEP, 4, ",
+          "EAR": "TEP, 4, ",
+          "EFI": "TEP, 4, ",
           "CNT": "TEA, 4, ",
+          "MTM": "TEP, 4, ",
           "PLG": "TEP, 4, "
         }
       },
-      "informe3": {
+      "informe1": {
         "asistencia": {
-          "Hábiles": "0",
-          "Inasistencias": "5"
+          "Inasistencias": "7",
+          "Hábiles": "0"
         },
         "materias": {
-          "CCD": "TEA, 9, ",
-          "CNT": "TEA, 2, ",
-          "CSC": "TEA, 1, ",
-          "EAR": "TEA, 1, ",
-          "EFI": "TEA, 1, ",
-          "IGS": "TEA, 1, ",
-          "MTM": "TEA, 1, ",
-          "PLG": "TEA, 7, "
+          "CSC": "TED, 10, ",
+          "IGS": "TED, 10, ",
+          "EAR": "TED, 10, ",
+          "EFI": "TED, 10, ",
+          "MTM": "TED, 10, ",
+          "CNT": "TED, 10, ",
+          "CCD": "TED, 8, ",
+          "PLG": "TED, 10, "
         }
       }
     },
     "turno": "TM",
-    "nombre": "GATO"
+    "nombre": "GATO",
+    "curso": "2°2°",
+    "dni": "2"
   },
   {
     "id": "4",
     "curso": "2°2°",
-    "dni": "4",
     "turno": "TM",
-    "preceptor": "ADRIAN TORRES",
-    "nombre": "POPO"
+    "dni": "4",
+    "nombre": "POPO",
+    "preceptor": "ADRIAN TORRES"
   }
 ]
