@@ -1,155 +1,121 @@
 {
   "id": "2",
+  "preceptor": "ADRIAN TORRES",
+  "turno": "TM",
+  "nombre": "GATO",
+  "dni": "2",
   "Pendientes": {
     "Adeuda": [
       {
+        "id": 1,
         "materia": "LIT",
-        "curso": "5°1°",
-        "id": 1
+        "curso": "5°1°"
       },
       {
+        "id": 2,
         "curso": "5°1°",
-        "materia": "LIT",
-        "id": 2
+        "materia": "LIT"
       },
       {
-        "materia": "LIT",
         "curso": "6°3°",
-        "id": 3
+        "id": 3,
+        "materia": "LIT"
       },
       {
-        "curso": "1°1°",
+        "materia": "EAR",
         "id": 4,
-        "materia": "EAR"
+        "curso": "1°1°"
       },
       {
+        "curso": "1°2°",
         "id": 5,
-        "materia": "CNT",
-        "curso": "1°2°"
+        "materia": "CNT"
       },
       {
-        "id": 6,
         "curso": "3°4°",
+        "id": 6,
         "materia": "CNT"
       },
       {
         "materia": "CNT",
-        "id": 7,
-        "curso": "3°3°"
+        "curso": "3°3°",
+        "id": 7
       }
     ],
     "Aprobadas": [
       {
+        "curso": "5°4°",
         "folio": "111111",
-        "materia": "LIT",
-        "calificacion": "10",
         "fecha": "20/08/2024",
         "id": 1,
+        "materia": "LIT",
         "libro": "1",
-        "curso": "5°4°"
+        "calificacion": "10"
       },
       {
-        "fecha": "21/08/2024",
+        "curso": "5°1°",
+        "folio": "111111",
         "materia": "LIT",
         "libro": "123455",
-        "curso": "5°1°",
         "calificacion": "5",
         "id": 2,
-        "folio": "111111"
+        "fecha": "21/08/2024"
       },
       {
-        "libro": "123455",
-        "calificacion": "4",
         "materia": "LIT",
-        "folio": "111111",
         "curso": "4°2°",
+        "fecha": "31/07/2024",
+        "libro": "123455",
+        "folio": "111111",
         "id": 3,
-        "fecha": "31/07/2024"
+        "calificacion": "4"
       },
       {
+        "curso": "4°4°",
+        "calificacion": "4",
         "libro": "1",
         "fecha": "31/07/2024",
-        "curso": "4°4°",
-        "materia": "LIT",
-        "calificacion": "4",
         "id": 4,
+        "materia": "LIT",
         "folio": "111111"
       },
       {
         "materia": "LIT",
         "id": 5,
-        "folio": "111111",
-        "curso": "5°1°",
         "fecha": "31/07/2024",
+        "calificacion": "4",
+        "folio": "111111",
         "libro": "1",
-        "calificacion": "4"
+        "curso": "5°1°"
       },
       {
+        "calificacion": "4",
+        "curso": "1°1°",
         "fecha": "31/07/2024",
         "materia": "CNT",
         "folio": "1",
         "id": 6,
-        "curso": "1°1°",
-        "calificacion": "4",
         "libro": "1"
       },
       {
-        "id": 7,
         "folio": "111111",
-        "calificacion": "4",
         "fecha": "08/08/2024",
-        "libro": "1",
+        "calificacion": "4",
         "curso": "1°1°",
-        "materia": "CNT"
+        "libro": "1",
+        "materia": "CNT",
+        "id": 7
       },
       {
-        "curso": "1°1°",
-        "fecha": "31/07/2024",
-        "id": 8,
-        "libro": "1",
-        "folio": "111111",
         "materia": "CNT",
-        "calificacion": "5"
+        "fecha": "31/07/2024",
+        "calificacion": "5",
+        "folio": "111111",
+        "libro": "1",
+        "id": 8,
+        "curso": "1°1°"
       }
     ]
   },
-  "preceptor": "ADRIAN TORRES",
-  "nombre": "GATO",
-  "informes": {
-    "informe2": {
-      "asistencia": {
-        "Hábiles": "23",
-        "Inasistencias": "12"
-      },
-      "materias": {
-        "CSC": "TEP, 4, ",
-        "EFI": "TEP, 4, ",
-        "IGS": "TEP, 4, ",
-        "PLG": "TEP, 4, ",
-        "EAR": "TEP, 4, ",
-        "MTM": "TEP, 4, ",
-        "CCD": "TEP, 4, ",
-        "CNT": "TEA, 4, "
-      }
-    },
-    "informe3": {
-      "asistencia": {
-        "Hábiles": "1",
-        "Inasistencias": "1"
-      },
-      "materias": {
-        "EAR": "TED, 1, ",
-        "PLG": "TED, 1, ",
-        "MTM": "TED, 1, ",
-        "EFI": "TED, 1, ",
-        "CCD": "TED, 1, ",
-        "CNT": "TED, 1, ",
-        "CSC": "TED, 1, ",
-        "IGS": "TED, 1, "
-      }
-    }
-  },
-  "curso": "2°2°",
-  "dni": "2",
-  "turno": "TM"
+  "curso": "2°2°"
 }
