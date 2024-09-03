@@ -1,0 +1,26 @@
+{
+  "id": "4",
+  "nombre": "POPO",
+  "turno": "TM",
+  "preceptor": "ADRIAN TORRES",
+  "curso": "2°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CSC": "TED, 1, ",
+        "EFI": "TED, 1, ",
+        "MTM": "TED, 1, ",
+        "PLG": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "IGS": "TED, 1, ",
+        "CCD": "TED, 1, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "dni": "4"
+}
