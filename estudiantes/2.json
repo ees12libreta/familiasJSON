@@ -1,8 +1,8 @@
 {
   "id": "2",
-  "preceptor": "ADRIAN TORRES",
-  "curso": "2°2°",
   "turno": "TM",
+  "nombre": "GATO",
+  "curso": "2°2°",
   "dni": "2",
-  "nombre": "GATO"
+  "preceptor": "ADRIAN TORRES"
 }
