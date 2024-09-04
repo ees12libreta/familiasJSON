@@ -1,0 +1,171 @@
+{
+  "id": "2",
+  "dni": "2",
+  "curso": "2°2°",
+  "turno": "TM",
+  "nombre": "GATO",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "LIT",
+        "curso": "5°1°"
+      },
+      {
+        "materia": "LIT",
+        "curso": "5°1°",
+        "id": 2
+      },
+      {
+        "materia": "LIT",
+        "id": 3,
+        "curso": "6°3°"
+      },
+      {
+        "curso": "1°1°",
+        "materia": "EAR",
+        "id": 4
+      },
+      {
+        "curso": "1°2°",
+        "materia": "CNT",
+        "id": 5
+      },
+      {
+        "id": 6,
+        "materia": "CNT",
+        "curso": "3°4°"
+      },
+      {
+        "materia": "CNT",
+        "curso": "3°3°",
+        "id": 7
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "111111",
+        "materia": "LIT",
+        "calificacion": "10",
+        "fecha": "20/08/2024",
+        "libro": "1",
+        "id": 1,
+        "curso": "5°4°"
+      },
+      {
+        "curso": "5°1°",
+        "folio": "111111",
+        "calificacion": "5",
+        "materia": "LIT",
+        "libro": "123455",
+        "fecha": "21/08/2024",
+        "id": 2
+      },
+      {
+        "curso": "4°2°",
+        "materia": "LIT",
+        "libro": "123455",
+        "fecha": "31/07/2024",
+        "folio": "111111",
+        "id": 3,
+        "calificacion": "4"
+      },
+      {
+        "libro": "1",
+        "folio": "111111",
+        "fecha": "31/07/2024",
+        "curso": "4°4°",
+        "calificacion": "4",
+        "id": 4,
+        "materia": "LIT"
+      },
+      {
+        "id": 5,
+        "materia": "LIT",
+        "calificacion": "4",
+        "folio": "111111",
+        "libro": "1",
+        "fecha": "31/07/2024",
+        "curso": "5°1°"
+      },
+      {
+        "libro": "1",
+        "folio": "1",
+        "fecha": "31/07/2024",
+        "id": 6,
+        "materia": "CNT",
+        "curso": "1°1°",
+        "calificacion": "4"
+      },
+      {
+        "calificacion": "4",
+        "curso": "1°1°",
+        "folio": "111111",
+        "materia": "CNT",
+        "fecha": "08/08/2024",
+        "libro": "1",
+        "id": 7
+      },
+      {
+        "fecha": "31/07/2024",
+        "id": 8,
+        "folio": "111111",
+        "calificacion": "5",
+        "libro": "1",
+        "curso": "1°1°",
+        "materia": "CNT"
+      }
+    ]
+  },
+  "preceptor": "ADRIAN TORRES",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TED, 10, ",
+        "IGS": "TED, 10, ",
+        "CNT": "TED, 10, ",
+        "CCD": "TED, 10, ",
+        "EFI": "TED, 10, ",
+        "CSC": "TED, 10, ",
+        "PLG": "TED, 10, ",
+        "EAR": "TED, 10, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "23"
+      },
+      "materias": {
+        "EAR": "TEP, 4, ",
+        "CNT": "TEA, 4, ",
+        "EFI": "TEP, 4, ",
+        "CSC": "TEP, 4, ",
+        "CCD": "TEP, 4, ",
+        "IGS": "TEP, 4, ",
+        "MTM": "TEP, 4, ",
+        "PLG": "TEP, 4, "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "1"
+      },
+      "materias": {
+        "PLG": "TED, 1, ",
+        "IGS": "TED, 1, ",
+        "CSC": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "EFI": "TED, 1, ",
+        "CCD": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "MTM": "TED, 1, "
+      }
+    }
+  }
+}
