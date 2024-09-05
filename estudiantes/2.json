@@ -1,0 +1,58 @@
+{
+  "id": "2",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "PLG": "TED, 10, ",
+        "MTM": "TED, 10, ",
+        "EFI": "TED, 10, ",
+        "CSC": "TED, 10, ",
+        "EAR": "TED, 10, ",
+        "CCD": "TED, 10, ",
+        "CNT": "TED, 10, ",
+        "IGS": "TED, 10, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, 4, ",
+        "EFI": "TEP, 4, ",
+        "MTM": "TEP, 4, ",
+        "CNT": "TEA, 4, ",
+        "EAR": "TEP, 4, ",
+        "CCD": "TEP, 4, ",
+        "CSC": "TEP, 4, ",
+        "PLG": "TEP, 4, "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "23"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "1"
+      },
+      "materias": {
+        "CSC": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "EFI": "TED, 1, ",
+        "MTM": "TED, 1, ",
+        "PLG": "TED, 1, ",
+        "CCD": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "IGS": "TED, 1, "
+      }
+    }
+  },
+  "curso": "2°2°",
+  "nombre": "GATO",
+  "dni": "2",
+  "turno": "TM",
+  "preceptor": "ADRIAN TORRES"
+}
