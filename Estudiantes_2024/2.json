@@ -1,0 +1,171 @@
+{
+  "id": "2",
+  "dni": "2",
+  "nombre": "GATO",
+  "preceptor": "ADRIAN TORRES",
+  "curso": "2°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "10",
+        "folio": "111111",
+        "libro": "1",
+        "curso": "5°4°",
+        "fecha": "20/08/2024",
+        "id": 1,
+        "materia": "LIT"
+      },
+      {
+        "folio": "111111",
+        "curso": "5°1°",
+        "materia": "LIT",
+        "libro": "123455",
+        "id": 2,
+        "fecha": "21/08/2024",
+        "calificacion": "5"
+      },
+      {
+        "libro": "123455",
+        "materia": "LIT",
+        "fecha": "31/07/2024",
+        "id": 3,
+        "calificacion": "4",
+        "curso": "4°2°",
+        "folio": "111111"
+      },
+      {
+        "curso": "4°4°",
+        "fecha": "31/07/2024",
+        "materia": "LIT",
+        "libro": "1",
+        "id": 4,
+        "calificacion": "4",
+        "folio": "111111"
+      },
+      {
+        "id": 5,
+        "libro": "1",
+        "curso": "5°1°",
+        "materia": "LIT",
+        "fecha": "31/07/2024",
+        "folio": "111111",
+        "calificacion": "4"
+      },
+      {
+        "libro": "1",
+        "folio": "1",
+        "id": 6,
+        "fecha": "31/07/2024",
+        "calificacion": "4",
+        "curso": "1°1°",
+        "materia": "CNT"
+      },
+      {
+        "id": 7,
+        "libro": "1",
+        "calificacion": "4",
+        "curso": "1°1°",
+        "materia": "CNT",
+        "folio": "111111",
+        "fecha": "08/08/2024"
+      },
+      {
+        "folio": "111111",
+        "libro": "1",
+        "materia": "CNT",
+        "curso": "1°1°",
+        "calificacion": "5",
+        "id": 8,
+        "fecha": "31/07/2024"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "LIT",
+        "id": 1,
+        "curso": "5°1°"
+      },
+      {
+        "curso": "5°1°",
+        "id": 2,
+        "materia": "LIT"
+      },
+      {
+        "materia": "LIT",
+        "curso": "6°3°",
+        "id": 3
+      },
+      {
+        "id": 4,
+        "materia": "EAR",
+        "curso": "1°1°"
+      },
+      {
+        "curso": "1°2°",
+        "id": 5,
+        "materia": "CNT"
+      },
+      {
+        "curso": "3°4°",
+        "id": 6,
+        "materia": "CNT"
+      },
+      {
+        "materia": "CNT",
+        "id": 7,
+        "curso": "3°3°"
+      }
+    ]
+  },
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "IGS": "TED, 10, ",
+        "CNT": "TED, 10, ",
+        "MTM": "TED, 10, ",
+        "CCD": "TED, 10, ",
+        "CSC": "TED, 10, ",
+        "PLG": "TED, 10, ",
+        "EFI": "TED, 10, ",
+        "EAR": "TED, 10, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "23",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "EFI": "TEP, 4, ",
+        "PLG": "TEP, 4, ",
+        "CSC": "TEP, 4, ",
+        "CCD": "TEP, 4, ",
+        "EAR": "TEP, 4, ",
+        "IGS": "TEP, 4, ",
+        "MTM": "TEP, 4, ",
+        "CNT": "TEA, 4, "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "1"
+      },
+      "materias": {
+        "PLG": "TED, 1, ",
+        "IGS": "TED, 1, ",
+        "CCD": "TED, 1, ",
+        "CSC": "TED, 1, ",
+        "MTM": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "EFI": "TED, 1, "
+      }
+    }
+  }
+}
