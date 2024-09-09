@@ -1,0 +1,26 @@
+{
+  "id": "3",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "EFI": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "IGS": "TED, 1, ",
+        "CCD": "TEA, 1, ",
+        "PLG": "TED, 1, ",
+        "CSC": "TED, 1, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "dni": "3",
+  "preceptor": "ADRIAN TORRES",
+  "curso": "2°2°",
+  "nombre": "POLLO",
+  "turno": "TM"
+}
