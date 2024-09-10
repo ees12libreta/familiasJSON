@@ -1,0 +1,79 @@
+{
+  "id": "3",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "fecha": "24/09/2024",
+        "folio": "1",
+        "libro": "1",
+        "curso": "4°3°",
+        "materia": "LIT",
+        "calificacion": "4",
+        "id": 1
+      },
+      {
+        "fecha": "10/09/2024",
+        "curso": "4°2°",
+        "materia": "LIT",
+        "folio": "1",
+        "calificacion": "4",
+        "libro": "1",
+        "id": 2
+      },
+      {
+        "materia": "CNT",
+        "curso": "1°2°",
+        "libro": "1",
+        "id": 3,
+        "fecha": "10/09/2024",
+        "calificacion": "5",
+        "folio": "1"
+      }
+    ],
+    "Adeuda": [
+      {
+        "curso": "4°1°",
+        "id": 1,
+        "materia": "LIT"
+      }
+    ]
+  },
+  "nombre": "POLLO",
+  "curso": "2°2°",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "PLG": "TEP, 3, ",
+        "EAR": "TEP, 3, ",
+        "CNT": "TEP, 3, ",
+        "IGS": "TEP, 3, ",
+        "CSC": "TEP, 3, ",
+        "EFI": "TEP, 3, ",
+        "CCD": "TEP, 3, ",
+        "MTM": "TEP, 3, "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CNT": "TEA, 10, excelente",
+        "EFI": "TEA, 10, excelente",
+        "CSC": "TEA, 10, excelente",
+        "PLG": "TEA, 10, ",
+        "IGS": "TEA, 10, excelente",
+        "MTM": "TEA, 10, ",
+        "EAR": "TEA, 10, excelente"
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "dni": "3",
+  "preceptor": "ADRIAN TORRES"
+}
