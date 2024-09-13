@@ -1,0 +1,52 @@
+{
+  "id": "2",
+  "curso": "2°2°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "dni": "2",
+  "nombre": "GATO",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MTM": "TED, 1, ",
+        "IGS": "TED, 1, ",
+        "CNT": "TED, 1, ",
+        "CSC": "TED, 1, ",
+        "EFI": "TED, 1, ",
+        "CCD": "TED, 1, ",
+        "EAR": "TED, 1, ",
+        "PLG": "TED, 1, "
+      },
+      "asistencia": {
+        "Hábiles": "1",
+        "Inasistencias": "1"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CSC": "TEP, 4, ",
+        "CCD": "TEP, 4, ",
+        "PLG": "TEP, 4, ",
+        "EFI": "TEP, 4, ",
+        "CNT": "TEA, 4, ",
+        "MTM": "TEP, 4, ",
+        "EAR": "TEP, 4, ",
+        "IGS": "TEP, 4, "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "23"
+      }
+    }
+  },
+  "preceptor": "ADRIAN TORRES"
+}
