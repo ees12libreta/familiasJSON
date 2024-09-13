@@ -1,0 +1,67 @@
+{
+  "id": "3",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "preceptor": "ADRIAN TORRES",
+  "nombre": "POLLO",
+  "curso": "2°2°",
+  "dni": "3",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, 4, cuatro",
+        "EAR": "TED, 3, tres",
+        "CCD": "TEP, 8, ocho",
+        "PLG": "TEA, 7, siete",
+        "CNT": "TEA, 1, uno",
+        "MTM": "TED, 6, seis",
+        "CSC": "TEP, 2, dos",
+        "IGS": "TEP, 5, cinco"
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CNT": "TEA, 10, excelente",
+        "CSC": "TEA, 10, excelente",
+        "IGS": "TEA, 10, excelente",
+        "EAR": "TEA, 10, excelente",
+        "MTM": "TEA, 10, ",
+        "PLG": "TEA, 10, ",
+        "EFI": "TEA, 10, excelente"
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEP, 3, bien",
+        "EAR": "TEP, 3, ",
+        "IGS": "TEP, 3, ",
+        "CCD": "TEP, 3, ",
+        "CNT": "TEP, 3, bien",
+        "MTM": "TEP, 3, ",
+        "PLG": "TEP, 3, bien",
+        "CSC": "TEP, 3, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  }
+}
