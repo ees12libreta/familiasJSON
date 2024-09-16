@@ -1,0 +1,42 @@
+{
+  "id": "1111",
+  "turno": "TM",
+  "nombre": "JUAN",
+  "preceptor": "ADRIAN TORRES",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "SYA": "TEA, 10, ",
+        "PSI": "TEA, 10, ",
+        "NTI": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "IAF": "TEA, 10, ",
+        "MCS": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 10, "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "dni": "1111",
+  "curso": "4°1°"
+}
