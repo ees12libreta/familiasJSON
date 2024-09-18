@@ -1,0 +1,85 @@
+{
+  "id": "1111",
+  "preceptor": "ADRIAN TORRES",
+  "dni": "1111",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "BLG": "TEP, 5, cinco"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, 10, ",
+        "LIT": "TEA, 10, uno",
+        "SYA": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "PSI": "TEA, 10, tres",
+        "EFI": "TEA, 10, dos",
+        "MCS": "TEA, 10, ",
+        "IAF": "TEA, 10, ",
+        "NTI": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "GGF": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, 10, cuatro"
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "curso": "4°1°",
+  "nombre": "JUAN",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "CNT",
+        "id": 1,
+        "curso": "2°2°"
+      },
+      {
+        "id": 2,
+        "materia": "CNT",
+        "curso": "3°3°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "456",
+        "fecha": "16/09/2024",
+        "materia": "CNT",
+        "id": 1,
+        "libro": "123",
+        "curso": "2°3°",
+        "calificacion": "5"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ]
+}
