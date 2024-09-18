@@ -1,0 +1,104 @@
+{
+  "id": "3",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "1",
+        "fecha": "24/09/2024",
+        "id": 1,
+        "calificacion": "4",
+        "curso": "4°3°",
+        "folio": "1",
+        "materia": "LIT"
+      },
+      {
+        "libro": "1",
+        "calificacion": "4",
+        "folio": "1",
+        "fecha": "10/09/2024",
+        "curso": "4°2°",
+        "materia": "LIT",
+        "id": 2
+      },
+      {
+        "calificacion": "5",
+        "materia": "CNT",
+        "folio": "1",
+        "fecha": "10/09/2024",
+        "id": 3,
+        "libro": "1",
+        "curso": "1°2°"
+      }
+    ],
+    "Adeuda": [
+      {
+        "curso": "4°1°",
+        "materia": "LIT",
+        "id": 1
+      }
+    ]
+  },
+  "nombre": "POLLO",
+  "preceptor": "ADRIAN TORRES",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 10, excelente",
+        "PLG": "TEA, 10, ",
+        "EFI": "TEA, 10, excelente",
+        "CSC": "TEA, 10, excelente",
+        "CNT": "TEA, 10, excelente",
+        "IGS": "TEA, 10, excelente",
+        "MTM": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEP, 3, ",
+        "IGS": "TEP, 3, ",
+        "EAR": "TEP, 3, ",
+        "CNT": "TEP, 3, bien",
+        "EFI": "TEP, 3, bien",
+        "PLG": "TEP, 3, bien",
+        "CSC": "TEP, 3, ",
+        "CCD": "TEP, 3, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TED, 3, ",
+        "CCD": "TEP, 8, ocho",
+        "CNT": ", 1, unounounounounounounounounounounounounounounounoun",
+        "PLG": "TEA, 7, siete",
+        "IGS": "TEP, 5, cinco",
+        "EFI": "TEA, 4, cuatro",
+        "CSC": "TEP, , dos"
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "dni": "3",
+  "curso": "2°2°"
+}
