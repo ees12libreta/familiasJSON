@@ -1,0 +1,98 @@
+{
+  "id": "1111",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "folio": "111111",
+        "fecha": "21/09/2024",
+        "id": 1,
+        "calificacion": "10",
+        "libro": "12345",
+        "materia": "LIT",
+        "curso": "5°2°"
+      },
+      {
+        "curso": "5°3°",
+        "id": 2,
+        "libro": "12345",
+        "folio": "111111",
+        "materia": "LIT",
+        "fecha": "11/09/2024",
+        "calificacion": "9"
+      },
+      {
+        "fecha": "28/08/2024",
+        "materia": "CNT",
+        "folio": "111111",
+        "id": 3,
+        "curso": "2°2°",
+        "libro": "1",
+        "calificacion": "4"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "CCD",
+        "id": 1,
+        "curso": "2°1°"
+      }
+    ]
+  },
+  "dni": "1111",
+  "curso": "4°1°",
+  "nombre": "JUAN",
+  "preceptor": "ADRIAN TORRES",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "3",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "IGS": "TEA, 10, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IAF": "TEA, 10, ",
+        "MCS": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "SYA": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "PSI": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "NTI": "TEA, 10, ",
+        "GGF": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "1"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "BLG": "TEP, 5, "
+      }
+    }
+  },
+  "turno": "TM"
+}
