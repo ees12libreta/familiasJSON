@@ -1,0 +1,118 @@
+{
+  "id": "1111",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "CCD",
+        "curso": "2°1°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "fecha": "21/09/2024",
+        "curso": "5°2°",
+        "materia": "LIT",
+        "calificacion": "10",
+        "folio": "111111",
+        "id": 1,
+        "libro": "12345"
+      },
+      {
+        "fecha": "11/09/2024",
+        "calificacion": "9",
+        "libro": "12345",
+        "materia": "LIT",
+        "curso": "5°3°",
+        "folio": "111111",
+        "id": 2
+      },
+      {
+        "id": 3,
+        "libro": "1",
+        "fecha": "28/08/2024",
+        "folio": "111111",
+        "curso": "2°2°",
+        "calificacion": "4",
+        "materia": "CNT"
+      }
+    ]
+  },
+  "preceptor": "ADRIAN TORRES",
+  "curso": "4°1°",
+  "nombre": "JUAN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "dni": "1111",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": ", , 3333",
+        "EFI": ", , 333",
+        "SYA": ", , 3333",
+        "IAF": ", , 3333",
+        "MCS": ", , 3333",
+        "IGS": ", , 333",
+        "NTI": ", , 3333",
+        "HTR": ", , 3333",
+        "PSI": ", , 3333",
+        "BLG": "TEP, 5, 3333",
+        "GGF": ", , 3333"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "3"
+      },
+      "materias": {
+        "BLG": ", , 2222",
+        "EFI": ", , 222",
+        "IAF": ", , 2222",
+        "GGF": ", , 222",
+        "PSI": ", , 222",
+        "HTR": ", , 2222",
+        "IGS": "TEA, 10, 2222",
+        "MCS": ", , 2222",
+        "SYA": ", , 222",
+        "LIT": ", , 222",
+        "NTI": ", , 222"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "1"
+      },
+      "materias": {
+        "MCS": "TEA, 10, 111",
+        "EFI": "TEA, 10, 111",
+        "SYA": "TEA, 10, 1111",
+        "LIT": "TEA, 10, ",
+        "GGF": "TEA, 10, 1111",
+        "HTR": "TEA, 10, 1111",
+        "BLG": "TEA, 10, 1111",
+        "IGS": "TEA, 10, 1111",
+        "NTI": "TEA, 10, 1111",
+        "PSI": "TEA, 10, 11111",
+        "IAF": "TEA, 10, 11111"
+      }
+    }
+  }
+}
