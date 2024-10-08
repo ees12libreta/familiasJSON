@@ -1,0 +1,51 @@
+{
+  "id": "52138684",
+  "preceptor": "ADRIAN TORRES",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "Pendientes": {},
+  "turno": "TM",
+  "curso": "1°1°",
+  "dni": "52138684",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "79",
+        "Inasistencias": "5"
+      },
+      "materias": {
+        "CNT": "TEP, 9, bien"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CNT": "TEP, 9, bien",
+        "CSC": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "CNT": "TEP, 9, bien",
+        "CSC": "TEA, , "
+      }
+    }
+  },
+  "nombre": "AVILA VALENTINO"
+}
