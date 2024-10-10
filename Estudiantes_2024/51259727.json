@@ -1,0 +1,47 @@
+{
+  "id": "51259727",
+  "Pendientes": {},
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "GOR",
+    "CNT",
+    "CSC",
+    "EAR",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "ACEVEDO SANTIAGO FEDERICO",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "73",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "curso": "1°3°",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "51259727"
+}
