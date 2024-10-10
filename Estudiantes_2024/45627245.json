@@ -1,0 +1,54 @@
+{
+  "id": "45627245",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "LIT",
+        "curso": "4°4°"
+      },
+      {
+        "id": 2,
+        "curso": "5°4°",
+        "materia": "LIT"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "turno": "TT",
+  "curso": "6°4°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TED, , ",
+        "TYC": "TEP, , ",
+        "PIC": "TEP, , ",
+        "FIL": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "RTE": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "preceptor": "PERASSI MARIO",
+  "nombre": "OLGUIN LUCIANA BELEN",
+  "dni": "45627245"
+}
