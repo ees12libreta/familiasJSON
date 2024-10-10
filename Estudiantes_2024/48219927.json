@@ -1,0 +1,50 @@
+{
+  "id": "48219927",
+  "turno": "TT",
+  "preceptor": "LODEIRO LAURA",
+  "curso": "5°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "73",
+        "Inasistencias": "8"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "EMM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SOC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GOR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEA, , ",
+        "DER": "TEA, , "
+      }
+    }
+  },
+  "dni": "48219927",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "nombre": "BAEZ THIAGO HERNAN"
+}
