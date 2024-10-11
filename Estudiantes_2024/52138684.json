@@ -1,0 +1,28 @@
+{
+  "id": "52138684",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {},
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "79"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "nombre": "AVILA VALENTINO",
+  "Pendientes": {},
+  "dni": "52138684"
+}
