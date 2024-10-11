@@ -1,0 +1,37 @@
+{
+  "id": "52438151",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "Pendientes": {},
+  "turno": "TT",
+  "nombre": "BRECHT AMAYA TICIANO ZAMIEL",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  },
+  "curso": "1°2°",
+  "dni": "52438151"
+}
