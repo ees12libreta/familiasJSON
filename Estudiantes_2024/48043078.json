@@ -1,0 +1,31 @@
+{
+  "id": "48043078",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "MORGULIS LAMURA IÑAKI",
+  "turno": "TM",
+  "dni": "48043078",
+  "curso": "6°1°"
+}
