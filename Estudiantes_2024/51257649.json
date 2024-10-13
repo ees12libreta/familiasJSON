@@ -1,0 +1,29 @@
+{
+  "id": "51257649",
+  "turno": "TM",
+  "curso": "1°1°",
+  "preceptor": "SILVELA DANIELA",
+  "nombre": "TULA JUSTINIANO TIZIANO GABRIEL",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "dni": "51257649",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  }
+}
