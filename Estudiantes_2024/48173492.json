@@ -1,0 +1,45 @@
+{
+  "id": "48173492",
+  "dni": "48173492",
+  "nombre": "BRUNI MADELAINE NAHIARA",
+  "curso": "5°4°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SOC": "TEA, , ",
+        "CCS": "TEP, , ",
+        "EMM": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GOR": "TEA, , ",
+        "DER": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "LODEIRO LAURA",
+  "turno": "TT"
+}
