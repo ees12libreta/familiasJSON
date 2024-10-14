@@ -1,0 +1,60 @@
+{
+  "id": "46810806",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "nombre": "TORRES DE SANTOS JUAN MANUEL",
+  "preceptor": "LODEIRO LAURA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GOR": "TEA, , ",
+        "LIT": "TEP, , ",
+        "PYC": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SOC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "DER": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EMM": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SIC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "73"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°3°",
+        "id": 1,
+        "materia": "CNT"
+      },
+      {
+        "curso": "2°4°",
+        "materia": "BLG",
+        "id": 2
+      }
+    ]
+  },
+  "dni": "46810806",
+  "curso": "5°4°",
+  "turno": "TT"
+}
