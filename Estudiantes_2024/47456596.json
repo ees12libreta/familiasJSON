@@ -1,0 +1,50 @@
+{
+  "id": "47456596",
+  "turno": "TT",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "5°4°",
+        "id": 1,
+        "materia": "MCS"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TYC": "TEA, , ",
+        "RTE": "TEP, , ",
+        "MCS": "TEP, , ",
+        "PRO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "EPO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FIL": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "PERASSI MARIO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL",
+    "GGF",
+    "HTR",
+    "PIC"
+  ],
+  "dni": "47456596",
+  "curso": "6°3°",
+  "nombre": "CABALLERO POLICASTRO ALEXIA"
+}
