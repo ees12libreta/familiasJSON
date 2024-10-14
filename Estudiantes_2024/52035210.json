@@ -1,0 +1,36 @@
+{
+  "id": "52035210",
+  "nombre": "BRITO ALAHI MIA",
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "52035210",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CSC": "TEP, , ",
+        "CNT": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEP, , "
+      }
+    }
+  },
+  "curso": "1°3°"
+}
