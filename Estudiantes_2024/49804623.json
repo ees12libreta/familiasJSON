@@ -1,0 +1,36 @@
+{
+  "id": "49804623",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "50",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "CCD": "TEP, , ",
+        "CSC": "TED, , ",
+        "PLG": "TED, , ",
+        "IGS": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEP, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "dni": "49804623",
+  "turno": "TT",
+  "curso": "1°3°",
+  "nombre": "BALLEJO EZEQUIEL RAMIRO",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
