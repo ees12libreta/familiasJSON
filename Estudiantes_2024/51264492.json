@@ -1,0 +1,36 @@
+{
+  "id": "51264492",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "51264492",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , "
+      }
+    }
+  },
+  "curso": "1°2°",
+  "nombre": "PAEZ NAHIARA ZOE YAZMIN",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT"
+}
