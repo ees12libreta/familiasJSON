@@ -1,0 +1,38 @@
+{
+  "id": "47691064",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "FIL": "TEA, , ",
+        "RTE": "TEP, , ",
+        "LIT": "TEA, , ",
+        "EPO": "TEA, , ",
+        "TYC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "PRO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      }
+    }
+  },
+  "turno": "TT",
+  "preceptor": "PERASSI MARIO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°3°",
+  "dni": "47691064",
+  "nombre": "AVEGGIO MILENA CELESTE"
+}
