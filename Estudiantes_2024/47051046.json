@@ -1,0 +1,38 @@
+{
+  "id": "47051046",
+  "dni": "47051046",
+  "curso": "6°3°",
+  "nombre": "MACHADO FRANCO URIEL",
+  "preceptor": "PERASSI MARIO",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PRO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "RTE": "TEP, , ",
+        "EPO": "TEA, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ]
+}
