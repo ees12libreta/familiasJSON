@@ -1,0 +1,38 @@
+{
+  "id": "47277515",
+  "dni": "47277515",
+  "turno": "TT",
+  "nombre": "FARINA RODRIGO NICOLAS",
+  "curso": "6°3°",
+  "preceptor": "PERASSI MARIO",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PRO": "TEA, , ",
+        "EPO": "TEA, , ",
+        "RTE": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ]
+}
