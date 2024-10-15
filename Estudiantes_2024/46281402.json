@@ -1,0 +1,38 @@
+{
+  "id": "46281402",
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "AREVALO YAEL NATALIA",
+  "dni": "46281402",
+  "preceptor": "PERASSI MARIO",
+  "curso": "6°3°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      },
+      "materias": {
+        "FIL": "TEA, , ",
+        "RTE": "TEP, , ",
+        "EPO": "TEP, , ",
+        "PRO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  }
+}
