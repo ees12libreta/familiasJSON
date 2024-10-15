@@ -1,0 +1,36 @@
+{
+  "id": "51166424",
+  "dni": "51166424",
+  "turno": "TT",
+  "curso": "1°3°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "INSAURRALDE VALLEJOS FACUNDO URIEL",
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
