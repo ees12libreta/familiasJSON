@@ -1,0 +1,36 @@
+{
+  "id": "50103582",
+  "nombre": "NI LUCAS",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEP, , ",
+        "CCD": "TEP, , ",
+        "CSC": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA",
+  "dni": "50103582",
+  "curso": "1°2°"
+}
