@@ -1,0 +1,76 @@
+{
+  "id": "52138684",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "79"
+      }
+    }
+  },
+  "turno": "TM",
+  "curso": "1°1°",
+  "preceptor": "FONZO SANDRA",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "1°1°",
+        "materia": "CNT",
+        "id": 1
+      },
+      {
+        "curso": "6°4°",
+        "id": 2,
+        "materia": "LIT"
+      },
+      {
+        "materia": "LIT",
+        "id": 3,
+        "curso": "6°2°"
+      },
+      {
+        "curso": "5°4°",
+        "id": 4,
+        "materia": "LIT"
+      },
+      {
+        "materia": "LIT",
+        "curso": "4°2°",
+        "id": 5
+      }
+    ],
+    "Aprobadas": [
+      {
+        "fecha": "01/11/2024",
+        "libro": "1",
+        "curso": "4°3°",
+        "id": 1,
+        "calificacion": "8",
+        "materia": "LIT",
+        "folio": "1"
+      }
+    ]
+  },
+  "dni": "52138684",
+  "nombre": "AVILA VALENTINO",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
