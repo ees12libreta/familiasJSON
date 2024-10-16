@@ -1,0 +1,36 @@
+{
+  "id": "51078073",
+  "nombre": "CATALAN MATEO VALENTINO",
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CNT": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CSC": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "curso": "1°2°",
+  "dni": "51078073",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
