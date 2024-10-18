@@ -1,0 +1,36 @@
+{
+  "id": "52030929",
+  "preceptor": "FONZO SANDRA",
+  "dni": "52030929",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "nombre": "BALVIDARES LAURA AGUSTINA"
+}
