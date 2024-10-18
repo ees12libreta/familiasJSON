@@ -1,0 +1,57 @@
+{
+  "id": "47094043",
+  "nombre": "SOTELO FLORENCIA AILEN",
+  "dni": "47094043",
+  "curso": "6°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FIL": "TEA, , ",
+        "PIC": "TEA, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEA, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "RTE": "TEA, , ",
+        "MCS": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "5°4°",
+        "id": 1,
+        "materia": "LIT"
+      },
+      {
+        "materia": "HTR",
+        "curso": "5°4°",
+        "id": 2
+      }
+    ]
+  },
+  "preceptor": "PERASSI MARIO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL",
+    "GGF",
+    "HTR",
+    "PIC"
+  ],
+  "turno": "TT"
+}
