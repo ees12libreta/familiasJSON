@@ -1,0 +1,41 @@
+{
+  "id": "47657016",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL",
+    "GGF",
+    "HTR",
+    "PIC"
+  ],
+  "dni": "47657016",
+  "nombre": "CASTELAO MANUEL ELISEO ANDRES",
+  "turno": "TT",
+  "preceptor": "PERASSI MARIO",
+  "curso": "6°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EPO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PRO": "TEA, , ",
+        "RTE": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    }
+  }
+}
