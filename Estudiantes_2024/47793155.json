@@ -1,0 +1,44 @@
+{
+  "id": "47793155",
+  "dni": "47793155",
+  "turno": "TT",
+  "nombre": "PEREZ TOBIAS BENJAMIN",
+  "curso": "4°3°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEP, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TED, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
