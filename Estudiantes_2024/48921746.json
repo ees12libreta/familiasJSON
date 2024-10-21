@@ -1,0 +1,53 @@
+{
+  "id": "48921746",
+  "nombre": "MARTINEZ MORENA QUIMEY",
+  "dni": "48921746",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "3°4°"
+      }
+    ]
+  },
+  "curso": "4°3°",
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TED, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
