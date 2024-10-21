@@ -1,0 +1,42 @@
+{
+  "id": "49005420",
+  "nombre": "GALEANO GIAN LUCA",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "49005420",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IAF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "SYA": "TED, , ",
+        "PSI": "TEP, , ",
+        "NTI": "TEP, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "curso": "4°1°"
+}
