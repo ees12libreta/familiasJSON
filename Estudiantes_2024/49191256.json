@@ -1,0 +1,53 @@
+{
+  "id": "49191256",
+  "dni": "49191256",
+  "turno": "TT",
+  "curso": "4°3°",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "47",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°4°",
+        "materia": "BLG"
+      }
+    ]
+  },
+  "nombre": "SANCHEZ  MARTINA MAYRA"
+}
