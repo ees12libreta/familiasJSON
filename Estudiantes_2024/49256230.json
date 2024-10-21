@@ -1,0 +1,44 @@
+{
+  "id": "49256230",
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "49256230",
+  "nombre": "CARDOZO FRANCESCA ZARA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      }
+    }
+  }
+}
