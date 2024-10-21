@@ -1,0 +1,64 @@
+{
+  "id": "47461969",
+  "curso": "4°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "materia": "BLG",
+        "fecha": "13/08/2024",
+        "calificacion": "4",
+        "id": 1,
+        "folio": "85",
+        "curso": "3°1°",
+        "libro": "12"
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "HTR"
+      }
+    ]
+  },
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "CASTANO VALENTIN URIEL",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "IAF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "MCS": "TEP, , ",
+        "SYA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "47461969"
+}
