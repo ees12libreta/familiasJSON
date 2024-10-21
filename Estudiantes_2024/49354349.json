@@ -1,0 +1,42 @@
+{
+  "id": "49354349",
+  "turno": "TM",
+  "curso": "4°1°",
+  "dni": "49354349",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PSI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "BRAIOTTA SOFIA KAORI",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ]
+}
