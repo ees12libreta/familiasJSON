@@ -1,0 +1,53 @@
+{
+  "id": "48921746",
+  "curso": "4°3°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "HTR",
+        "curso": "3°4°"
+      }
+    ]
+  },
+  "nombre": "MARTINEZ MORENA QUIMEY",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TED, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "TDO": "TEA, , ",
+        "SYA": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TT",
+  "dni": "48921746",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "SILVELA DANIELA"
+}
