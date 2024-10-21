@@ -1,0 +1,45 @@
+{
+  "id": "49413446",
+  "nombre": "ARAUJO CATALINA PILAR",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEP, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEP, , "
+      }
+    }
+  },
+  "curso": "4°2°",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "49413446"
+}
