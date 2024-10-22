@@ -1,0 +1,36 @@
+{
+  "id": "52022947",
+  "curso": "1°1°",
+  "nombre": "GONZALEZ INDIO ETIENNE",
+  "dni": "52022947",
+  "preceptor": "FONZO SANDRA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "9"
+      }
+    }
+  },
+  "turno": "TM",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
