@@ -1,0 +1,40 @@
+{
+  "id": "50978473",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50978473",
+  "nombre": "GIL BARRERA JESUS",
+  "curso": "2°3°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT"
+}
