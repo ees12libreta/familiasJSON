@@ -1,0 +1,40 @@
+{
+  "id": "51129536",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "curso": "2°3°",
+  "dni": "51129536",
+  "nombre": "DOTTORI CHIARA",
+  "turno": "TT"
+}
