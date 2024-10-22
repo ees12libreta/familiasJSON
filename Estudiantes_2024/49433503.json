@@ -1,0 +1,44 @@
+{
+  "id": "49433503",
+  "dni": "49433503",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "DINICI MATEO",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TM"
+}
