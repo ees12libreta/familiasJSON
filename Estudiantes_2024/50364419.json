@@ -1,0 +1,36 @@
+{
+  "id": "50364419",
+  "dni": "50364419",
+  "preceptor": "FONZO SANDRA",
+  "curso": "1°1°",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "VILLORDO MILAGROS VICTORIA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
