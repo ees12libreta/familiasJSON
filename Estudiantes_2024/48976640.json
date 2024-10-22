@@ -1,0 +1,64 @@
+{
+  "id": "48976640",
+  "dni": "48976640",
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "folio": "11",
+        "fecha": "13/10/2024",
+        "calificacion": "6",
+        "libro": "12",
+        "materia": "IGS",
+        "curso": "2°1°",
+        "id": 1
+      }
+    ],
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "id": 1,
+        "materia": "IGS"
+      }
+    ]
+  },
+  "nombre": "RODRIGUEZ CANO MARIO SAMUEL",
+  "curso": "4°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEP, , ",
+        "TDO": "TEA, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "turno": "TM"
+}
