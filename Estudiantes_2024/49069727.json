@@ -1,0 +1,44 @@
+{
+  "id": "49069727",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "nombre": "LARROQUE TOMAS GABRIEL",
+  "dni": "49069727",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
