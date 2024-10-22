@@ -1,0 +1,36 @@
+{
+  "id": "52398546",
+  "preceptor": "FONZO SANDRA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "VILLALVA MIA ABRIL",
+  "turno": "TM",
+  "dni": "52398546"
+}
