@@ -1,0 +1,36 @@
+{
+  "id": "51257649",
+  "curso": "1°1°",
+  "dni": "51257649",
+  "nombre": "TULA JUSTINIANO TIZIANO GABRIEL",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "FONZO SANDRA",
+  "turno": "TM"
+}
