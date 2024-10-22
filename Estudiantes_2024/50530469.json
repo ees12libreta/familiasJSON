@@ -1,0 +1,40 @@
+{
+  "id": "50530469",
+  "curso": "2°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50530469",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "GROH MARTINA",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "3"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    }
+  },
+  "turno": "TT"
+}
