@@ -1,0 +1,64 @@
+{
+  "id": "48997075",
+  "dni": "48997075",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IAF": "TEP, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "fecha": "07/10/2024",
+        "folio": "88",
+        "materia": "GGF",
+        "curso": "3°1°",
+        "calificacion": "4",
+        "libro": "12",
+        "id": 1
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "3°1°",
+        "id": 1
+      }
+    ]
+  },
+  "turno": "TM",
+  "curso": "4°2°"
+}
