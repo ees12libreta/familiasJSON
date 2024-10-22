@@ -1,0 +1,44 @@
+{
+  "id": "48761264",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "dni": "48761264",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "VELAZQUEZ ROJAS BAUTISTA THIAGO OMAR",
+  "curso": "4°2°",
+  "turno": "TM"
+}
