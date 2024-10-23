@@ -1,0 +1,44 @@
+{
+  "id": "49235880",
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "49235880",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "FREIRE JAZMIN AILEN",
+  "curso": "4°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "SYA": "TEA, , ",
+        "TDO": "TEA, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "1"
+      }
+    }
+  }
+}
