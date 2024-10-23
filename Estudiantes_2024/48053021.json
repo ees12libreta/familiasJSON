@@ -1,0 +1,34 @@
+{
+  "id": "48053021",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "LIT",
+        "curso": "5°1°",
+        "id": 1
+      },
+      {
+        "materia": "IGS",
+        "curso": "5°1°",
+        "id": 2
+      }
+    ]
+  },
+  "curso": "6°1°",
+  "preceptor": "TRENCH ANDREA",
+  "dni": "48053021",
+  "nombre": "PEREZ BENJAMIN LEANDRO",
+  "turno": "TM"
+}
