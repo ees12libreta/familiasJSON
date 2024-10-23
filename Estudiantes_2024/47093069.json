@@ -1,0 +1,40 @@
+{
+  "id": "47093069",
+  "dni": "47093069",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "ARRUIZ BIANCA SOFIA",
+  "curso": "6°1°",
+  "preceptor": "TRENCH ANDREA",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "RTE": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PIC": "TEA, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FIL": "TED, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      }
+    }
+  }
+}
