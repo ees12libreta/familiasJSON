@@ -1,0 +1,40 @@
+{
+  "id": "50359697",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50359697",
+  "nombre": "VECCHIO CONSTANZA",
+  "turno": "TT",
+  "curso": "2°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS"
+}
