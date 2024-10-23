@@ -1,0 +1,50 @@
+{
+  "id": "48580154",
+  "curso": "3°4°",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "EFI": "TED, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "nombre": "COSTA TOMAS CLAUDIO",
+  "dni": "48580154",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MTM",
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  }
+}
