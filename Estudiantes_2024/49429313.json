@@ -1,0 +1,40 @@
+{
+  "id": "49429313",
+  "preceptor": "RYBARCZYK VALERIA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°3°",
+  "nombre": "ACEVEDO AGUSTIN DAMIAN",
+  "turno": "TT",
+  "dni": "49429313"
+}
