@@ -1,0 +1,60 @@
+{
+  "id": "48304432",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°4°",
+        "materia": "PLG"
+      },
+      {
+        "id": 2,
+        "curso": "2°4°",
+        "materia": "HTR"
+      },
+      {
+        "materia": "IGS",
+        "id": 3,
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "turno": "TT",
+  "curso": "3°3°",
+  "dni": "48304432",
+  "nombre": "MARTINEZ DYLAN JUTIEL",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TED, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "RYBARCZYK VALERIA"
+}
