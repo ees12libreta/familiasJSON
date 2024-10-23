@@ -1,0 +1,54 @@
+{
+  "id": "47461909",
+  "nombre": "DE MARCO BENJAMIN J",
+  "dni": "47461909",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "FIL": "TED, , ",
+        "EFI": "TEA, , ",
+        "RTE": "TEA, , ",
+        "TYC": "TEA, , ",
+        "PIC": "TEA, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "materia": "PSI",
+        "calificacion": "6",
+        "folio": "85",
+        "libro": "12",
+        "curso": "4°1°",
+        "fecha": "14/08/2024",
+        "id": 1
+      }
+    ],
+    "Adeuda": []
+  },
+  "preceptor": "TRENCH ANDREA",
+  "turno": "TM",
+  "curso": "6°1°"
+}
