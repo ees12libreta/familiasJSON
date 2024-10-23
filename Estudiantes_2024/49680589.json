@@ -1,0 +1,40 @@
+{
+  "id": "49680589",
+  "nombre": "ASTRAIN TEJEDOR MAXIMO ALEJANDRO",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "dni": "49680589",
+  "curso": "3°3°"
+}
