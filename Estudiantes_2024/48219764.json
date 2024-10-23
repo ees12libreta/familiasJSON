@@ -1,0 +1,59 @@
+{
+  "id": "48219764",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "3°4°"
+      },
+      {
+        "id": 2,
+        "materia": "GGF",
+        "curso": "3°4°"
+      }
+    ]
+  },
+  "preceptor": "SILVELA DANIELA",
+  "dni": "48219764",
+  "nombre": "BOYER DYLAN SAMUEL",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEP, , ",
+        "TDO": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "6"
+      }
+    }
+  },
+  "curso": "4°3°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "turno": "TT"
+}
