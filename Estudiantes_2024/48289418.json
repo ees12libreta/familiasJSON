@@ -1,0 +1,50 @@
+{
+  "id": "48289418",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "95"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , "
+      }
+    }
+  },
+  "nombre": "REQUELME ABRIL LAURA",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "dni": "48289418",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°4°",
+        "materia": "MTM"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°"
+}
