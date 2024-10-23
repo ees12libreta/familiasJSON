@@ -1,0 +1,40 @@
+{
+  "id": "49804838",
+  "curso": "3°4°",
+  "dni": "49804838",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "nombre": "FLEISCHMAN FEDERICA LUDMILA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
