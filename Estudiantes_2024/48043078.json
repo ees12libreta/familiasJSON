@@ -1,0 +1,54 @@
+{
+  "id": "48043078",
+  "curso": "6°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "25"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TED, , ",
+        "HTR": "TEA, , ",
+        "RTE": "TEP, , ",
+        "FIL": "TED, , ",
+        "PIC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "TYC": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "TRENCH ANDREA",
+  "dni": "48043078",
+  "nombre": "MORGULIS LAMURA IÑAKI",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "materia": "EPO",
+        "calificacion": "6",
+        "folio": "63",
+        "curso": "5°1°",
+        "id": 1,
+        "libro": "12",
+        "fecha": "23/04/2024"
+      }
+    ]
+  }
+}
