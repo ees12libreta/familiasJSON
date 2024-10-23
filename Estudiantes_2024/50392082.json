@@ -1,0 +1,40 @@
+{
+  "id": "50392082",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "nombre": "BRITO SANCHEZ ROMANO VALENTINO NAHUEL",
+  "curso": "3°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50392082"
+}
