@@ -1,0 +1,50 @@
+{
+  "id": "48630146",
+  "turno": "TT",
+  "dni": "48630146",
+  "nombre": "RABAGO TOBIAS URIEL",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "HTR",
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "curso": "3°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "95"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA"
+}
