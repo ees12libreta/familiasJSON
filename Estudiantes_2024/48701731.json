@@ -1,0 +1,60 @@
+{
+  "id": "48701731",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "48701731",
+  "preceptor": "RYBARCZYK VALERIA",
+  "curso": "3°4°",
+  "turno": "TT",
+  "nombre": "OTRANTO AMBAR CAMILA",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "BLG",
+        "id": 1,
+        "curso": "2°4°"
+      },
+      {
+        "curso": "2°4°",
+        "id": 2,
+        "materia": "EFI"
+      },
+      {
+        "id": 3,
+        "materia": "FQA",
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "21"
+      }
+    }
+  }
+}
