@@ -1,0 +1,40 @@
+{
+  "id": "49985297",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "dni": "49985297",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "DEANTONIO ZOE AILIN",
+  "curso": "3°4°"
+}
