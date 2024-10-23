@@ -1,0 +1,44 @@
+{
+  "id": "48879679",
+  "curso": "3°3°",
+  "dni": "48879679",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "nombre": "DIAZ LUCIANA VICTORIA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT"
+}
