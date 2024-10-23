@@ -1,0 +1,40 @@
+{
+  "id": "50206095",
+  "curso": "3°4°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "WEIS GONZALO ARIEL",
+  "dni": "50206095",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT"
+}
