@@ -1,0 +1,40 @@
+{
+  "id": "49804911",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEP, , "
+      }
+    }
+  },
+  "nombre": "TABOADA VIOLETA",
+  "curso": "2°3°",
+  "dni": "49804911",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT"
+}
