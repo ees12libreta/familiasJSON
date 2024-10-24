@@ -1,0 +1,38 @@
+{
+  "id": "47478087",
+  "preceptor": "TRENCH ANDREA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PRO": "TEA, , ",
+        "EFI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "TYC": "TEP, , ",
+        "LIT": "TEA, , ",
+        "RTE": "TEA, , ",
+        "FIL": "TED, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "39"
+      }
+    }
+  },
+  "curso": "6°2°",
+  "nombre": "MORALES GUADALUPE AMBAR",
+  "turno": "TM",
+  "dni": "47478087"
+}
