@@ -1,0 +1,36 @@
+{
+  "id": "51455608",
+  "nombre": "MEDINA DYLAN EZEQUIEL",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "16"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "curso": "1°1°",
+  "dni": "51455608"
+}
