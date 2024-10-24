@@ -1,0 +1,54 @@
+{
+  "id": "50226685",
+  "curso": "2°2°",
+  "dni": "50226685",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "PLG",
+        "curso": "1°1°",
+        "id": 1
+      },
+      {
+        "materia": "IGS",
+        "curso": "1°1°",
+        "id": 2
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEP, , ",
+        "CCD": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "MATURANO ALFONSO UMA",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
