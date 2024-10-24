@@ -1,0 +1,40 @@
+{
+  "id": "49761103",
+  "nombre": "ABALOS JOAQUIN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "dni": "49761103",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°"
+}
