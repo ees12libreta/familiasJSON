@@ -1,0 +1,40 @@
+{
+  "id": "50706503",
+  "turno": "TM",
+  "dni": "50706503",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "DINICI SANTINO",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    }
+  }
+}
