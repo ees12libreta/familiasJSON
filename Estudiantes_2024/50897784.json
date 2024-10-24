@@ -1,0 +1,40 @@
+{
+  "id": "50897784",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50897784",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°1°",
+  "nombre": "CORTES AGUSTIN"
+}
