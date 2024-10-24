@@ -1,0 +1,49 @@
+{
+  "id": "46821284",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "IGS",
+        "id": 1,
+        "curso": "5°1°"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°1°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "IGS": "TED, , ",
+        "MCS": "TEA, , ",
+        "RTE": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FIL": "TEP, , ",
+        "EFI": "TEA, , ",
+        "TYC": "TEA, , ",
+        "PIC": "TEA, , ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "BOYER BRIAN DAVID",
+  "turno": "TM",
+  "preceptor": "TRENCH ANDREA",
+  "dni": "46821284"
+}
