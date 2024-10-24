@@ -1,0 +1,40 @@
+{
+  "id": "96157977",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "DE LA TORRE UGARTE TELLO SANTIAGO",
+  "curso": "2°2°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "dni": "96157977",
+  "turno": "TM"
+}
