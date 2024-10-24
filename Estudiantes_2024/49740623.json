@@ -1,0 +1,44 @@
+{
+  "id": "49740623",
+  "turno": "TM",
+  "curso": "3°1°",
+  "dni": "49740623",
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "nombre": "VALDEZ SCHIARITTI MIA SOLEDAD",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "76"
+      }
+    }
+  }
+}
