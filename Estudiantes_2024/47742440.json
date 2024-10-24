@@ -1,0 +1,38 @@
+{
+  "id": "47742440",
+  "nombre": "ALONSO JULIETA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EPO": "TEP, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PRO": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "35"
+      }
+    }
+  },
+  "curso": "6°2°",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "47742440",
+  "preceptor": "TRENCH ANDREA"
+}
