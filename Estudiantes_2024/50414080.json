@@ -1,0 +1,40 @@
+{
+  "id": "50414080",
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "CAMPOYA IAN",
+  "turno": "TM",
+  "dni": "50414080",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA"
+}
