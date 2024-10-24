@@ -1,0 +1,42 @@
+{
+  "id": "49239526",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "dni": "49239526",
+  "turno": "TT",
+  "nombre": "DDELLA MADALENA VALENTIN EZEQUIEL",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "curso": "4°4°"
+}
