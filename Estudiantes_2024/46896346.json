@@ -1,0 +1,38 @@
+{
+  "id": "46896346",
+  "turno": "TM",
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FIL": "TEP, , ",
+        "MCS": "TEP, , ",
+        "PRO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "RTE": "TEA, , ",
+        "TYC": "TEA, , ",
+        "EPO": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "CASTILLO REY PATRICIO",
+  "curso": "6°2°",
+  "dni": "46896346"
+}
