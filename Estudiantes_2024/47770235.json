@@ -1,0 +1,40 @@
+{
+  "id": "47770235",
+  "nombre": "VILLAN CORONEL SANTIAGO AGUSTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "23"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "GGF": "TEP, , ",
+        "TYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , ",
+        "PIC": "TEA, , ",
+        "FIL": "TED, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "dni": "47770235",
+  "curso": "6°1°",
+  "turno": "TM"
+}
