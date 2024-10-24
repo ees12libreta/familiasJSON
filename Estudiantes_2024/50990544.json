@@ -1,0 +1,40 @@
+{
+  "id": "50990544",
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°2°",
+  "dni": "50990544",
+  "nombre": "CARDOZO BARBARA"
+}
