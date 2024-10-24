@@ -1,0 +1,40 @@
+{
+  "id": "50770175",
+  "dni": "50770175",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "RYBARCZYK VALERIA",
+  "curso": "3°4°",
+  "nombre": "AGUDELO MILENA ISABELLA"
+}
