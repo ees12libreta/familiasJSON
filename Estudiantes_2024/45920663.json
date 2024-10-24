@@ -1,0 +1,38 @@
+{
+  "id": "45920663",
+  "dni": "45920663",
+  "preceptor": "TRENCH ANDREA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "NIEVAS LOURDES MICAELA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , ",
+        "EPO": "TEA, , ",
+        "PRO": "TEA, , ",
+        "EFI": "TEP, , ",
+        "TYC": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FIL": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "31"
+      }
+    }
+  },
+  "turno": "TM",
+  "curso": "6°2°"
+}
