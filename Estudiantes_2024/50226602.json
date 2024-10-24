@@ -1,0 +1,40 @@
+{
+  "id": "50226602",
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50226602",
+  "curso": "3°1°",
+  "nombre": "BIUDES THIAGO AGUSTIN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "turno": "TM"
+}
