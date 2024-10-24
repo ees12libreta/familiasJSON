@@ -1,0 +1,36 @@
+{
+  "id": "51443351",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "dni": "51443351",
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "nombre": "DAVANZO MILEA ROCIO"
+}
