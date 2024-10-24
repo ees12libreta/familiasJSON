@@ -1,0 +1,40 @@
+{
+  "id": "50723542",
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "ZERRIZUELA JOAQUIN",
+  "dni": "50723542"
+}
