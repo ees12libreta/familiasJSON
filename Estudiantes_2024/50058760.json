@@ -1,0 +1,55 @@
+{
+  "id": "50058760",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50058760",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MTM",
+        "curso": "1°1°"
+      },
+      {
+        "materia": "PLG",
+        "curso": "1°1°",
+        "id": 2
+      }
+    ]
+  },
+  "nombre": "QUIROGA LIHUEN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    }
+  },
+  "curso": "2°1°",
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM"
+}
