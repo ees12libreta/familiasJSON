@@ -1,0 +1,38 @@
+{
+  "id": "46810891",
+  "dni": "46810891",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°2°",
+  "preceptor": "TRENCH ANDREA",
+  "nombre": "GARCIA MARCANTONIO VALENTINA IARA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EPO": "TEA, , ",
+        "FIL": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEP, , ",
+        "MCS": "TEA, , ",
+        "TYC": "TEA, , ",
+        "PRO": "TEA, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    }
+  },
+  "turno": "TM"
+}
