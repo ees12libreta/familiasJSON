@@ -1,0 +1,50 @@
+{
+  "id": "49374144",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "curso": "3°1°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "5"
+      }
+    }
+  },
+  "dni": "49374144",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "RICARDI UMA AGOSTINA",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "materia": "EFI",
+        "curso": "2°1°",
+        "id": 1
+      }
+    ]
+  }
+}
