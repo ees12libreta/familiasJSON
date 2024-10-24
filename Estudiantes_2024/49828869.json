@@ -1,0 +1,50 @@
+{
+  "id": "49828869",
+  "curso": "3°1°",
+  "nombre": "SOSA JULIETA",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "GGF",
+        "curso": "2°1°"
+      }
+    ]
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "dni": "49828869",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
