@@ -1,0 +1,40 @@
+{
+  "id": "50011631",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "1"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "50011631",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "ARANCIBIA CALVI ZOE SELENE"
+}
