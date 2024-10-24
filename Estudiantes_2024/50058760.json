@@ -1,0 +1,40 @@
+{
+  "id": "50058760",
+  "nombre": "QUIROGA LIHUEN",
+  "dni": "50058760",
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  }
+}
