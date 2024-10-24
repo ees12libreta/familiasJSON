@@ -1,0 +1,60 @@
+{
+  "id": "49380153",
+  "dni": "49380153",
+  "preceptor": "RYBARCZYK VALERIA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEP, , ",
+        "FQA": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "CEJAS BERENICE NOELIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "BLG",
+        "id": 1,
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "12",
+        "curso": "2°4°",
+        "id": 1,
+        "libro": "12",
+        "materia": "BLG",
+        "calificacion": "4",
+        "fecha": "13/10/2024"
+      }
+    ]
+  },
+  "curso": "3°4°"
+}
