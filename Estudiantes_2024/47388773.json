@@ -1,0 +1,38 @@
+{
+  "id": "47388773",
+  "dni": "47388773",
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "343"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "RTE": "TEP, , ",
+        "FIL": "TEP, , ",
+        "PRO": "TEA, , ",
+        "TYC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "EPO": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "turno": "TM",
+  "curso": "6°2°",
+  "nombre": "BARRIONUEVO AGUSTINA CARMELA"
+}
