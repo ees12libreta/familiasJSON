@@ -1,0 +1,40 @@
+{
+  "id": "50703356",
+  "turno": "TM",
+  "dni": "50703356",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°2°",
+  "nombre": "MERLO PRISCILA",
+  "preceptor": "SANDOVAL GILDA"
+}
