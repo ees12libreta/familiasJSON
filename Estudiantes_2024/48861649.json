@@ -1,0 +1,44 @@
+{
+  "id": "48861649",
+  "dni": "48861649",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "WESTDORP ENZO TOMAS",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TDO": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "curso": "4°2°"
+}
