@@ -1,0 +1,52 @@
+{
+  "id": "48037845",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°2°",
+  "nombre": "AGUILERA PASSAMANI BAUTISTA FRANCO",
+  "preceptor": "TRENCH ANDREA",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MCS",
+        "curso": "5°2°"
+      },
+      {
+        "materia": "IGS",
+        "id": 2,
+        "curso": "4°2°"
+      }
+    ]
+  },
+  "dni": "48037845",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "29"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "PRO": "TEA, , ",
+        "TYC": "TEP, , ",
+        "FIL": "TEP, , ",
+        "RTE": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEP, , "
+      }
+    }
+  }
+}
