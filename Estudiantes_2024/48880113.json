@@ -1,0 +1,18 @@
+{
+  "id": "48880113",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "GGF",
+        "curso": "2°1°"
+      }
+    ]
+  },
+  "curso": "3°1°",
+  "nombre": "ADRIEL MILENA SOFIA",
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "dni": "48880113"
+}
