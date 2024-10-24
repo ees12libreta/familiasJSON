@@ -1,0 +1,50 @@
+{
+  "id": "50144414",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "dni": "50144414",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "CACCAMO MENGUAL MICAELA BERENICE",
+  "curso": "3°1°",
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "materia": "GGF",
+        "curso": "2°1°",
+        "id": 1
+      }
+    ]
+  }
+}
