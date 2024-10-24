@@ -1,0 +1,54 @@
+{
+  "id": "51120132",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "51120132",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "folio": "13",
+        "libro": "7",
+        "calificacion": "5",
+        "materia": "PLG",
+        "curso": "2°2°",
+        "id": 1,
+        "fecha": "08/10/2024"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "MARTINEZ RECALDE FRANCO",
+  "curso": "2°2°"
+}
