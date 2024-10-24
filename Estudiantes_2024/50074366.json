@@ -1,0 +1,49 @@
+{
+  "id": "50074366",
+  "turno": "TM",
+  "dni": "50074366",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "curso": "3°1°",
+  "nombre": "JEREZ PRISCILA ABRIL"
+}
