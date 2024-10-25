@@ -1,0 +1,46 @@
+{
+  "id": "48834222",
+  "nombre": "TEVEZ ALCARAZ ALEJO BAUTISTA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "HTR": "TEA, , ",
+        "CCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SOC": "TEA, , ",
+        "PYC": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "17"
+      }
+    }
+  },
+  "dni": "48834222",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "curso": "5°1°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
