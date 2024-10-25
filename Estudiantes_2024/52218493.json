@@ -1,35 +1,5 @@
 {
   "id": "52218493",
-  "preceptor": "VILLAR CRISTIAN",
-  "informes": {
-    "informe1": {
-      "materias": {
-        "IGS": "TEA, , ",
-        "EFI": "TEA, , ",
-        "MCS": "TEA, , ",
-        "GGF": "TEA, , ",
-        "IAQ": "TEA, , ",
-        "SOC": "TEA, , ",
-        "PYC": "TEA, , ",
-        "LIT": "TEA, , ",
-        "CCS": "TEA, , ",
-        "HTR": "TEA, , ",
-        "EPO": "TEA, , "
-      },
-      "asistencia": {
-        "Inasistencias": "7",
-        "Hábiles": "75"
-      }
-    }
-  },
-  "dni": "52218493",
-  "nombre": "SISK FRANCO TOMAS",
-  "curso": "5°1°",
-  "turno": "TM",
-  "Pendientes": {
-    "Aprobadas": [],
-    "Adeuda": []
-  },
   "materias": [
     "LIT",
     "MCS",
@@ -42,5 +12,35 @@
     "CCS",
     "EPO",
     "SOC"
-  ]
+  ],
+  "curso": "5°1°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EPO": "TEA, , ",
+        "PYC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "52218493",
+  "nombre": "SISK FRANCO TOMAS"
 }
