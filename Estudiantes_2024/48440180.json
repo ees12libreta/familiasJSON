@@ -1,0 +1,46 @@
+{
+  "id": "48440180",
+  "turno": "TM",
+  "nombre": "COLANDUONO THIAGO MARTIN",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SOC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EPO": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PYC": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "48440180",
+  "preceptor": "VILLAR CRISTIAN"
+}
