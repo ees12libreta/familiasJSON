@@ -1,0 +1,46 @@
+{
+  "id": "52218493",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "PYC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "CCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EPO": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "52218493",
+  "nombre": "SISK FRANCO TOMAS",
+  "curso": "5°1°",
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ]
+}
