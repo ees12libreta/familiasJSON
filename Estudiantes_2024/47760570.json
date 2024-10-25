@@ -1,0 +1,42 @@
+{
+  "id": "47760570",
+  "dni": "47760570",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "23"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "PYC": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "SOC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , "
+      }
+    }
+  },
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "LAMARI PATRICIO LUCA",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ]
+}
