@@ -1,0 +1,30 @@
+{
+  "id": "49740604",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "nombre": "TERCEROS MELANY",
+  "dni": "49740604",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°2°",
+        "materia": "MTM",
+        "id": 1
+      }
+    ],
+    "Aprobadas": []
+  }
+}
