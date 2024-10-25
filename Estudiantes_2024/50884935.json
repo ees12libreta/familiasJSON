@@ -1,0 +1,40 @@
+{
+  "id": "50884935",
+  "curso": "2°2°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "BOMBARDIERE A THEO",
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50884935",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    }
+  }
+}
