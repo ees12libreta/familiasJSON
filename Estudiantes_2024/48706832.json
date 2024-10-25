@@ -1,0 +1,57 @@
+{
+  "id": "48706832",
+  "turno": "TM",
+  "dni": "48706832",
+  "curso": "5°1°",
+  "nombre": "DAUJOTAS IBANEZ JEREMIAS ELIEL",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "LIT": "TEP, , ",
+        "SOC": "TEA, , ",
+        "EPO": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "HTR"
+      },
+      {
+        "id": 2,
+        "materia": "PSI",
+        "curso": "4°1°"
+      }
+    ]
+  }
+}
