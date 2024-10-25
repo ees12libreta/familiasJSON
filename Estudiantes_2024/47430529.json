@@ -1,0 +1,56 @@
+{
+  "id": "47430529",
+  "turno": "TM",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "47430529",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "materia": "MTM",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "materia": "MCS",
+        "curso": "4°1°"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SOC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PYC": "TEP, , ",
+        "CCS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "PEREZ ELISEO ULISES"
+}
