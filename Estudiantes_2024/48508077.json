@@ -1,0 +1,46 @@
+{
+  "id": "48508077",
+  "turno": "TM",
+  "curso": "5°1°",
+  "nombre": "LOVATTO CAMILA VICTORIA",
+  "dni": "48508077",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "PYC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SOC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , "
+      }
+    }
+  }
+}
