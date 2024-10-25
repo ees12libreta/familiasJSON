@@ -1,0 +1,44 @@
+{
+  "id": "50401425",
+  "curso": "2°1°",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50401425",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ZALAZAR ZOE"
+}
