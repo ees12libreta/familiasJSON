@@ -1,0 +1,41 @@
+{
+  "id": "50485979",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°1°",
+  "Pendientes": {},
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "dni": "50485979",
+  "nombre": "ALLOATTI ANA"
+}
