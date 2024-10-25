@@ -1,0 +1,46 @@
+{
+  "id": "52218492",
+  "nombre": "SISK FRANCO OLIVER",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "LIT": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "52218492"
+}
