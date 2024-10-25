@@ -1,0 +1,42 @@
+{
+  "id": "47235158",
+  "turno": "TM",
+  "nombre": "PALOMBO SANTINO EDGARDO",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "47235158",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "17"
+      }
+    }
+  }
+}
