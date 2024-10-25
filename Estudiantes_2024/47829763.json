@@ -1,0 +1,46 @@
+{
+  "id": "47829763",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EPO": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "dni": "47829763",
+  "turno": "TM",
+  "nombre": "RUIZ MELINA LOURDES MAGALI",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°"
+}
