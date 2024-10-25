@@ -1,0 +1,40 @@
+{
+  "id": "51166719",
+  "dni": "51166719",
+  "preceptor": "SANDOVAL GILDA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "nombre": "SANCHEZ RAMIREZ ESTEFANO",
+  "curso": "2°2°",
+  "turno": "TM"
+}
