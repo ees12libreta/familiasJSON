@@ -1,0 +1,58 @@
+{
+  "id": "50402067",
+  "curso": "2°3°",
+  "dni": "50402067",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TED, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "MENDOZA AMBAR",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
