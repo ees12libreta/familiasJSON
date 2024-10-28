@@ -1,0 +1,58 @@
+{
+  "id": "49697827",
+  "dni": "49697827",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "5"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "nombre": "ESCARIS OROZCO TIZIANA"
+}
