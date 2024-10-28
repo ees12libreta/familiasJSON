@@ -1,0 +1,58 @@
+{
+  "id": "48936940",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ARAUJO DHIAGO",
+  "dni": "48936940",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "curso": "2°3°",
+  "preceptor": "GARCIA JOSE LUIS"
+}
