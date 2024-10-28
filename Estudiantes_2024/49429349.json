@@ -1,0 +1,40 @@
+{
+  "id": "49429349",
+  "curso": "2°4°",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "GONZALEZ ROMAN EZEQUIEL",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49429349"
+}
