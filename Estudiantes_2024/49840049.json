@@ -1,0 +1,49 @@
+{
+  "id": "49840049",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49840049",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "1°3°",
+        "id": 1,
+        "materia": "CSC"
+      }
+    ]
+  },
+  "curso": "2°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ROJAS ELIAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TED, , "
+      }
+    }
+  }
+}
