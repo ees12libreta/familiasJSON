@@ -1,0 +1,58 @@
+{
+  "id": "50717538",
+  "curso": "2°3°",
+  "turno": "TT",
+  "dni": "50717538",
+  "nombre": "MONEZUELAS KIARA",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "19"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
