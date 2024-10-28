@@ -1,0 +1,46 @@
+{
+  "id": "49241610",
+  "dni": "49241610",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "nombre": "BARBOSA MORENO GIULIANA VALENTINA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "turno": "TT",
+  "curso": "2°4°",
+  "preceptor": "GARCIA JOSE LUIS"
+}
