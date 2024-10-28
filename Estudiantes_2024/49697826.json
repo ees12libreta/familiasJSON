@@ -1,0 +1,40 @@
+{
+  "id": "49697826",
+  "curso": "2°4°",
+  "nombre": "ESCARIS OROZCO ROCIO",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49697826",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
