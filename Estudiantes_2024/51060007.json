@@ -1,0 +1,58 @@
+{
+  "id": "51060007",
+  "dni": "51060007",
+  "turno": "TT",
+  "nombre": "BARBOSA MORENO LAUTARO WALTER",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°4°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "10"
+      }
+    }
+  }
+}
