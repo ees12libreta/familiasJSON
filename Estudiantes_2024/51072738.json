@@ -1,0 +1,58 @@
+{
+  "id": "51072738",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "EFI": "TED, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "curso": "2°3°",
+  "nombre": "PAVON EMMA",
+  "dni": "51072738",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
