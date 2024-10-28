@@ -1,0 +1,58 @@
+{
+  "id": "49599279",
+  "curso": "2°4°",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "SALINAS NAHIARA AZUL",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    }
+  },
+  "dni": "49599279"
+}
