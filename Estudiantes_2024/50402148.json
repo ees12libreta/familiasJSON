@@ -1,0 +1,58 @@
+{
+  "id": "50402148",
+  "dni": "50402148",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TED, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "2°3°",
+  "nombre": "GAVIERO ZOE"
+}
