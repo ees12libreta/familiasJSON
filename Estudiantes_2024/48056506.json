@@ -1,0 +1,61 @@
+{
+  "id": "48056506",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PSI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "PSI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "4°4°",
+  "dni": "48056506",
+  "turno": "TT",
+  "nombre": "INSAURRALDE VALLEJOS LUDMILA SOLEDAD"
+}
