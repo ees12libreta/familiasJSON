@@ -1,0 +1,57 @@
+{
+  "id": "48496587",
+  "curso": "4°4°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "48496587",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "nombre": "OLGUIN NELPI DYLAN LAUTARO",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "66",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "LIT": "TED, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEP, , ",
+        "SYA": "TEP, , ",
+        "PSI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TED, , ",
+        "EFI": "TEP, , ",
+        "IAF": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "3°4°",
+        "id": 1,
+        "materia": "MTM"
+      }
+    ]
+  }
+}
