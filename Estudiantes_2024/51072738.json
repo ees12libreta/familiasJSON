@@ -1,0 +1,40 @@
+{
+  "id": "51072738",
+  "curso": "2°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    }
+  },
+  "nombre": "PAVON EMMA",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "51072738"
+}
