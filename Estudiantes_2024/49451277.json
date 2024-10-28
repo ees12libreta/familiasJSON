@@ -1,0 +1,40 @@
+{
+  "id": "49451277",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49451277",
+  "curso": "2°3°",
+  "nombre": "ROBLEDO JUAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "23"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT"
+}
