@@ -1,0 +1,40 @@
+{
+  "id": "50704641",
+  "dni": "50704641",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "nombre": "LOAIZA THIAGO",
+  "turno": "TT",
+  "curso": "2°3°"
+}
