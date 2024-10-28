@@ -1,0 +1,40 @@
+{
+  "id": "51049926",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "nombre": "PEREYRA ANALIA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "19"
+      }
+    }
+  },
+  "dni": "51049926",
+  "curso": "2°4°",
+  "preceptor": "GARCIA JOSE LUIS"
+}
