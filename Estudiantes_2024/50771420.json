@@ -1,0 +1,58 @@
+{
+  "id": "50771420",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TED, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "curso": "2°4°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50771420",
+  "nombre": "BARBIERI ALMA MELINA"
+}
