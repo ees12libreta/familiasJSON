@@ -1,0 +1,47 @@
+{
+  "id": "48584566",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "48584566",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "nombre": "PARE GUIRULA PATRICIO EDUARDO",
+  "curso": "4°4°"
+}
