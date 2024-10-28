@@ -1,0 +1,58 @@
+{
+  "id": "48997177",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "dni": "48997177",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "9"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TED, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "8"
+      }
+    }
+  },
+  "nombre": "VERGARA ROMAN"
+}
