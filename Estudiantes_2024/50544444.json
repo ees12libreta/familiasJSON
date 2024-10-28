@@ -1,0 +1,40 @@
+{
+  "id": "50544444",
+  "curso": "2°4°",
+  "dni": "50544444",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "CARDOZO LUCIANO AGUSTIN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , "
+      }
+    }
+  }
+}
