@@ -1,0 +1,40 @@
+{
+  "id": "49697828",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "nombre": "ESCARIS OROZCO BAUTISTA",
+  "dni": "49697828",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "2"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°4°"
+}
