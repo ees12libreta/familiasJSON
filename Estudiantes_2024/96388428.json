@@ -1,0 +1,40 @@
+{
+  "id": "96388428",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "GONZALEZ DUARTE NADIA ANTONELLA",
+  "dni": "96388428",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , "
+      }
+    }
+  },
+  "curso": "2°4°"
+}
