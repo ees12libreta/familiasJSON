@@ -1,0 +1,58 @@
+{
+  "id": "49697826",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49697826",
+  "turno": "TT",
+  "nombre": "ESCARIS OROZCO ROCIO"
+}
