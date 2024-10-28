@@ -1,0 +1,66 @@
+{
+  "id": "49239526",
+  "dni": "49239526",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "nombre": "DDELLA MADALENA VALENTIN EZEQUIEL",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PSI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "3"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "curso": "4°4°"
+}
