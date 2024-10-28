@@ -1,0 +1,40 @@
+{
+  "id": "49594000",
+  "turno": "TT",
+  "curso": "2°4°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "28",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TED, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TED, , "
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49594000",
+  "nombre": "RAMIREZ MIQUEAS G"
+}
