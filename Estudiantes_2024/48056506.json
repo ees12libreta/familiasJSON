@@ -1,0 +1,66 @@
+{
+  "id": "48056506",
+  "nombre": "INSAURRALDE VALLEJOS LUDMILA SOLEDAD",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "15"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    }
+  },
+  "dni": "48056506",
+  "curso": "4°4°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "turno": "TT"
+}
