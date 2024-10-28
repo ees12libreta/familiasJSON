@@ -1,0 +1,71 @@
+{
+  "id": "48496587",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "dni": "48496587",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "3°4°",
+        "materia": "MTM",
+        "id": 1
+      }
+    ]
+  },
+  "turno": "TT",
+  "nombre": "OLGUIN NELPI DYLAN LAUTARO",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "4°4°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "29"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "EFI": "TED, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "PSI": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEP, , ",
+        "SYA": "TEP, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "66"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TED, , ",
+        "PSI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "SYA": "TEP, , ",
+        "LIT": "TED, , ",
+        "NTI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEP, , "
+      }
+    }
+  }
+}
