@@ -1,0 +1,22 @@
+{
+  "id": "48806945",
+  "dni": "48806945",
+  "preceptor": "RYBARCZYK VALERIA",
+  "nombre": "GONZALEZ MARTIN ROMAN",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°3°",
+        "materia": "BLG",
+        "id": 1
+      },
+      {
+        "materia": "MTM",
+        "curso": "2°3°",
+        "id": 2
+      }
+    ]
+  },
+  "turno": "TT",
+  "curso": "3°3°"
+}
