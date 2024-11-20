@@ -1,0 +1,40 @@
+{
+  "id": "50030155",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "MORGULIS LAMURA NICANOR",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50030155"
+}
