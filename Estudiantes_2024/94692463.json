@@ -1,0 +1,60 @@
+{
+  "id": "94692463",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    }
+  },
+  "nombre": "LOPEZ ROMERO IBETH NAJHITH",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "12",
+        "fecha": "12/08/2024",
+        "folio": "9",
+        "curso": "2°2°",
+        "materia": "IGS",
+        "calificacion": "4",
+        "id": 1
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "2°2°"
+      }
+    ]
+  },
+  "dni": "94692463",
+  "turno": "TM",
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
