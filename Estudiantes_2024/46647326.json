@@ -1,0 +1,44 @@
+{
+  "id": "46647326",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "CARDOSO FACUNDO CESAR",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "DER": "TEP, , ",
+        "EMM": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "GOR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "SIC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    }
+  },
+  "curso": "5°2°",
+  "turno": "TM",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "dni": "46647326"
+}
