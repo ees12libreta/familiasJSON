@@ -1,0 +1,44 @@
+{
+  "id": "46647236",
+  "turno": "TM",
+  "nombre": "LIBOIS CISNEROS GONZALO AGUSTIN",
+  "dni": "46647236",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "DER": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GOR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EMM": "TEP, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "SIC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "curso": "5°2°"
+}
