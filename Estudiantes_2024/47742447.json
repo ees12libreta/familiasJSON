@@ -1,0 +1,67 @@
+{
+  "id": "47742447",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "SIC": "TEP, , ",
+        "DER": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EMM": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "PYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GOR": "TED, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , "
+      }
+    }
+  },
+  "dni": "47742447",
+  "turno": "TM",
+  "nombre": "CAMARGO WILLIAM ALEJANDRO",
+  "curso": "5°2°",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "folio": "84",
+        "calificacion": "7",
+        "libro": "16",
+        "fecha": "18/06/2024",
+        "materia": "EFI",
+        "curso": "4°4°",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "libro": "222",
+        "calificacion": "5",
+        "folio": "222",
+        "materia": "LIT",
+        "curso": "4°1°",
+        "fecha": "28/11/2024"
+      }
+    ]
+  },
+  "preceptor": "ADRIAN TORRES",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ]
+}
