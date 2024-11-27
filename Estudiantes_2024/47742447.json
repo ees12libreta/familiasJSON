@@ -1,0 +1,58 @@
+{
+  "id": "47742447",
+  "curso": "5°2°",
+  "dni": "47742447",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "CAMARGO WILLIAM ALEJANDRO",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "materia": "EFI",
+        "fecha": "18/06/2024",
+        "folio": "84",
+        "calificacion": "7",
+        "libro": "16",
+        "id": 1,
+        "curso": "4°4°"
+      }
+    ],
+    "Adeuda": []
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAQ": "TEP, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "PYC": "TEA, , ",
+        "EMM": "TEP, , ",
+        "DER": "TEP, , ",
+        "SIC": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEP, , ",
+        "GOR": "TED, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "turno": "TM"
+}
