@@ -1,0 +1,44 @@
+{
+  "id": "48629478",
+  "turno": "TM",
+  "curso": "5°2°",
+  "nombre": "GOMEZ SELENA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SIC": "TEA, , ",
+        "GOR": "TEA, , ",
+        "EMM": "TEA, , ",
+        "DER": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "48629478"
+}
