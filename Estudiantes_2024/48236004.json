@@ -1,0 +1,58 @@
+{
+  "id": "48236004",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "curso": "4°4°",
+        "fecha": "18/06/2024",
+        "calificacion": "7",
+        "materia": "EFI",
+        "libro": "16",
+        "id": 1,
+        "folio": "84"
+      }
+    ],
+    "Adeuda": []
+  },
+  "dni": "48236004",
+  "turno": "TM",
+  "nombre": "ARIAS MANNO PRISCILA AYELEN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "curso": "5°2°",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EMM": "TEA, 10, debe",
+        "IGS": "TEA, 10, debe",
+        "SIC": "TEA, 10, debe",
+        "MCS": "TEA, 10, debe",
+        "IAQ": "TEA, 10, debe",
+        "PYC": "TEA, 10, debe",
+        "GGF": "TEA, 10, debe",
+        "DER": "TEA, 10, debe",
+        "EFI": "TEA, 10, debe",
+        "HTR": "TEA, 10, debe",
+        "GOR": "TEA, 10, debe",
+        "LIT": "TEA, 10, debe"
+      }
+    }
+  }
+}
