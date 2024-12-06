@@ -1,0 +1,80 @@
+{
+  "id": "49354349",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "33"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "PSI": "TEP, , ",
+        "SYA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, 9, ",
+        "IAF": "TEP, , ",
+        "LIT": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "SYA": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PSI": "TEP, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "BRAIOTTA SOFIA KAORI",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "turno": "TM",
+  "curso": "4°1°",
+  "dni": "49354349",
+  "preceptor": "ORFINO MARIANO"
+}
