@@ -1,0 +1,80 @@
+{
+  "id": "49157571",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "turno": "TM",
+  "nombre": "DIAZ JUANA ROCIO",
+  "dni": "49157571",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°1°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "PSI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "NTI": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "MCS": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "SYA": "TEA, 8, ",
+        "IAF": "TEA, 9, ",
+        "BLG": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "PSI": "TEA, 8, ",
+        "HTR": "TEA, 10, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "104"
+      }
+    }
+  }
+}
