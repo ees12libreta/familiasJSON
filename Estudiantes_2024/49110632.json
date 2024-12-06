@@ -1,0 +1,80 @@
+{
+  "id": "49110632",
+  "curso": "4°1°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "34"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PSI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 9, ",
+        "PSI": "TEA, 7, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "IAF": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "MCS": "TEA, 10, ",
+        "SYA": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "LIT": "TEA, 9, ",
+        "EFI": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "45"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "PSI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "11"
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "nombre": "VILLALVA MAHIA",
+  "dni": "49110632",
+  "turno": "TM"
+}
