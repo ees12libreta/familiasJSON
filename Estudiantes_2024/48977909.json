@@ -1,0 +1,42 @@
+{
+  "id": "48977909",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "CRESPIN VALENTIN NICOLAS",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "34"
+      },
+      "materias": {
+        "SYA": "TEA, 8, ",
+        "LIT": "TEA, 8, ",
+        "PSI": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "NTI": "TEP, , ",
+        "IGS": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "MCS": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "IAF": "TEP, , "
+      }
+    }
+  },
+  "dni": "48977909",
+  "curso": "4°1°",
+  "turno": "TM"
+}
