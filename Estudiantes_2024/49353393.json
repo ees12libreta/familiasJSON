@@ -1,0 +1,80 @@
+{
+  "id": "49353393",
+  "nombre": "DE LOS SANTOS VALENTINA MAITEN",
+  "curso": "4°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "dni": "49353393",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "PSI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "32"
+      },
+      "materias": {
+        "LIT": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "MCS": "TEA, 10, ",
+        "HTR": "TEA, 8, ",
+        "NTI": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "PSI": "TEA, 8, ",
+        "SYA": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  }
+}
