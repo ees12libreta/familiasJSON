@@ -1,0 +1,80 @@
+{
+  "id": "49244808",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PSI": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "9"
+      },
+      "materias": {
+        "NTI": "TEA, 10, ",
+        "PSI": "TEA, 7, ",
+        "IAF": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "GGF": "TEA, 9, ",
+        "HTR": "TEA, 10, ",
+        "MCS": "TEA, 10, ",
+        "LIT": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "SYA": "TEA, 7, "
+      }
+    }
+  },
+  "nombre": "SAENZ DE SANTA MARIA AGUSTIN",
+  "curso": "4°1°",
+  "dni": "49244808",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "preceptor": "ORFINO MARIANO"
+}
