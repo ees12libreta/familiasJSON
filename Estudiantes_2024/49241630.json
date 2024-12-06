@@ -1,0 +1,80 @@
+{
+  "id": "49241630",
+  "dni": "49241630",
+  "nombre": "VIEIRA RUA FIORELLA ROSARIO",
+  "curso": "4°1°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PSI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "PSI": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "LIT": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "179"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ]
+}
