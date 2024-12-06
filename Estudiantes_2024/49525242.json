@@ -1,0 +1,42 @@
+{
+  "id": "49525242",
+  "nombre": "ROSENTAL CHIARA LENA",
+  "turno": "TM",
+  "dni": "49525242",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PSI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , "
+      }
+    }
+  },
+  "curso": "4°1°"
+}
