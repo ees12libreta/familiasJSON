@@ -1,0 +1,61 @@
+{
+  "id": "49157571",
+  "dni": "49157571",
+  "curso": "4°1°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "32"
+      },
+      "materias": {
+        "MCS": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "PSI": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "IAF": "TEA, 9, ",
+        "SYA": "TEA, 8, "
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "nombre": "DIAZ JUANA ROCIO"
+}
