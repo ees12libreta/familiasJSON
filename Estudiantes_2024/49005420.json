@@ -1,0 +1,94 @@
+{
+  "id": "49005420",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "FQA"
+      },
+      {
+        "materia": "PLG",
+        "id": 2,
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TED, , ",
+        "HTR": "TEP, , ",
+        "PSI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEP, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "LIT": "TEA, 8, ",
+        "NTI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "PSI": "TEP, , ",
+        "SYA": "TEP, , ",
+        "IAF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "87",
+        "Inasistencias": "27"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PSI": "TEP, , ",
+        "SYA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "87",
+        "Inasistencias": "27"
+      }
+    }
+  },
+  "dni": "49005420",
+  "curso": "4°1°",
+  "nombre": "GALEANO GIAN LUCA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ]
+}
