@@ -1,0 +1,85 @@
+{
+  "id": "49069727",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "dni": "49069727",
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "nombre": "LARROQUE TOMAS GABRIEL",
+  "curso": "4°2°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "19"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "37",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "TDO": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "IAF": "TEA, 8, ",
+        "SIC": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "LIT": "TEA, 7, ",
+        "MCS": "TEA, 9, ",
+        "NTI": "TEA, 10, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , Intensifico 1er cuatrimestre, TEA"
+      }
+    }
+  }
+}
