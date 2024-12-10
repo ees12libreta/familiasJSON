@@ -1,0 +1,94 @@
+{
+  "id": "49063249",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "IAF": "TEA, 9, ",
+        "IGS": "TEP, , ",
+        "TDO": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEP, , ",
+        "NTI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "SYA": "TEP, , ",
+        "MCS": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "179"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "TDO": "TEP, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SYA": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "IAF": "TEP, , ",
+        "LIT": "TEP, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "id": 1,
+        "materia": "HTR"
+      }
+    ]
+  },
+  "curso": "4°2°",
+  "nombre": "CROCCO DAMARIS AYLEN",
+  "turno": "TM",
+  "dni": "49063249"
+}
