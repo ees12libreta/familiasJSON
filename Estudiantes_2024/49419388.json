@@ -1,0 +1,104 @@
+{
+  "id": "49419388",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "DIAZ DANTE CATRIEL",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , Intensifico 1er cuatrimestre",
+        "BLG": "TEA, , ",
+        "TDO": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "21"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "4",
+        "fecha": "27/06/2024",
+        "materia": "BLG",
+        "curso": "3°1°",
+        "libro": "12",
+        "id": 1,
+        "folio": "82"
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MTM",
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "dni": "49419388",
+  "curso": "4°2°"
+}
