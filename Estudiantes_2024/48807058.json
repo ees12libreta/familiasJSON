@@ -1,0 +1,105 @@
+{
+  "id": "48807058",
+  "nombre": "COLVERA MAGALI",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "turno": "TM",
+  "dni": "48807058",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "curso": "3°1°",
+        "libro": "12",
+        "calificacion": "5",
+        "folio": "90",
+        "id": 1,
+        "materia": "BLG",
+        "fecha": "08/10/2024"
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "HTR",
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "95",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "IAF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEP, , ",
+        "IGS": "TED, , ",
+        "SYA": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEP, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "NTI": "TEP, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "EFI": "TEA, , Intensifico 1er cuatrimestre, TEA",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TED, , ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "63"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "TDO": "TEP, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre,TEA",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "4°2°"
+}
