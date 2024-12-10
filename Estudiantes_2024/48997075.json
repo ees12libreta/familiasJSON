@@ -1,0 +1,104 @@
+{
+  "id": "48997075",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "48997075",
+  "turno": "TM",
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA",
+  "curso": "4°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "fecha": "07/10/2024",
+        "id": 1,
+        "calificacion": "4",
+        "libro": "12",
+        "folio": "88",
+        "materia": "GGF",
+        "curso": "3°1°"
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "HTR",
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "EFI": "TEP, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "NTI": "TEA, 7, ",
+        "IAF": "TEA, 7, ",
+        "HTR": "TEA, 9, ",
+        "TDO": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "SIC": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "MCS": "TEA, 7, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "29"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  }
+}
