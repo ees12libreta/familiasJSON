@@ -1,0 +1,89 @@
+{
+  "id": "48879603",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "turno": "TM",
+  "dni": "48879603",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "NTI": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "IAF": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "LIT": "TEA, 8, ",
+        "TDO": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "SYA": "TEA, 9, ",
+        "SIC": "TEA, 10, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SYA": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "4°2°",
+  "nombre": "OLLOCO SANTINO AGUSTIN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "ORFINO MARIANO"
+}
