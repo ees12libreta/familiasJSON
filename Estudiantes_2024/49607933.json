@@ -1,0 +1,84 @@
+{
+  "id": "49607933",
+  "nombre": "TAGLIAFERRI FRANCO",
+  "dni": "49607933",
+  "curso": "4°2°",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "TDO": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 7, ",
+        "IAF": "TEA, 9, ",
+        "LIT": "TEA, 8, ",
+        "NTI": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "SIC": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
