@@ -1,0 +1,104 @@
+{
+  "id": "49419388",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "4",
+        "curso": "3°1°",
+        "fecha": "27/06/2024",
+        "folio": "82",
+        "materia": "BLG",
+        "libro": "12",
+        "id": 1
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "MTM"
+      }
+    ]
+  },
+  "dni": "49419388",
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "DIAZ DANTE CATRIEL",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , Intensifico 1er cuatrimestre",
+        "SIC": "TEA, , ",
+        "TDO": "TEP, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEP, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IAF": "TEA, 8, ",
+        "NTI": "TEA, 7, ",
+        "SIC": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 7, ",
+        "TDO": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "SYA": "TEA, 9, ",
+        "LIT": "TEA, 7, ",
+        "MCS": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "179"
+      }
+    }
+  },
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
