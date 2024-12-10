@@ -1,0 +1,104 @@
+{
+  "id": "48976640",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEP, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "NTI": "TEA, 10, ",
+        "SIC": "TEA, 10, ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEP, , ",
+        "TDO": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 8, ",
+        "IAF": "TEA, 8, ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "TDO": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "materia": "IGS",
+        "curso": "2°1°",
+        "folio": "11",
+        "id": 1,
+        "calificacion": "6",
+        "libro": "12",
+        "fecha": "13/10/2024"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "IGS",
+        "id": 1,
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "dni": "48976640",
+  "nombre": "RODRIGUEZ CANO MARIO SAMUEL",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
