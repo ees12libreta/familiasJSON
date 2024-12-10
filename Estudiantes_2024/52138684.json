@@ -1,0 +1,65 @@
+{
+  "id": "52138684",
+  "dni": "52138684",
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "79"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°",
+  "nombre": "AVILA VALENTINO"
+}
