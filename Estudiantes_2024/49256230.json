@@ -1,0 +1,84 @@
+{
+  "id": "49256230",
+  "curso": "4°2°",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "33",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "BLG": "TEA, 8, ",
+        "SYA": "TEA, 9, ",
+        "LIT": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "TDO": "TEA, 8, ",
+        "NTI": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "IAF": "TEA, 9, ",
+        "SIC": "TEA, 9, ",
+        "GGF": "TEA, 7, ",
+        "MCS": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "CARDOZO FRANCESCA ZARA",
+  "dni": "49256230"
+}
