@@ -1,0 +1,98 @@
+{
+  "id": "46913452",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "id": 1,
+        "libro": "12",
+        "materia": "GGF",
+        "calificacion": "4",
+        "folio": "83",
+        "fecha": "07/10/2024",
+        "curso": "3°1°"
+      }
+    ],
+    "Adeuda": []
+  },
+  "nombre": "SAUCEDO ALVARO VALENTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "46913452",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "IAF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "LIT": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEA, 7, ",
+        "SIC": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "NTI": "TEA, 7, ",
+        "HTR": "TEA, 8, ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEA, 9, ",
+        "MCS": "TEA, 8, ",
+        "IAF": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "TDO": "TEP, , ",
+        "IAF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "NTI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "104"
+      }
+    }
+  }
+}
