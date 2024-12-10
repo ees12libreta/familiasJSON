@@ -1,0 +1,72 @@
+{
+  "id": "52030929",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "9"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "BALVIDARES LAURA AGUSTINA",
+  "dni": "52030929",
+  "turno": "TM",
+  "curso": "1°1°",
+  "preceptor": "FONZO SANDRA",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
