@@ -1,0 +1,68 @@
+{
+  "id": "50973256",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CNT": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "11"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "nombre": "QUINTANA ALMA MIA",
+  "preceptor": "FONZO SANDRA",
+  "dni": "50973256",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°",
+  "turno": "TM"
+}
