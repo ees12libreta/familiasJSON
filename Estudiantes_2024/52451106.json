@@ -1,0 +1,68 @@
+{
+  "id": "52451106",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "preceptor": "FONZO SANDRA",
+  "dni": "52451106",
+  "turno": "TM",
+  "nombre": "BRITEZ ESPINOLA MARTIN BALTHAZAR",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
