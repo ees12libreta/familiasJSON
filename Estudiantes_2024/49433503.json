@@ -1,0 +1,88 @@
+{
+  "id": "49433503",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe3": {
+      "materias": {
+        "LIT": "TEA, 9, ",
+        "MCS": "TEA, 7, ",
+        "SYA": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "TDO": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "SIC": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "11"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "8"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "TDO": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "TDO": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "3"
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "dni": "49433503",
+  "curso": "4°2°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "nombre": "DINICI MATEO",
+  "turno": "TM"
+}
