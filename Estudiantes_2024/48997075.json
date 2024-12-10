@@ -1,0 +1,104 @@
+{
+  "id": "48997075",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEP, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "NTI": "TEA, 7, ",
+        "SIC": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, 7, ",
+        "TDO": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "MCS": "TEA, 7, ",
+        "SYA": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "HTR": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "NTI": "TEA, , ",
+        "EFI": "TEP, , ",
+        "SIC": "TEA, , ",
+        "SYA": "TEA, , "
+      }
+    }
+  },
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA",
+  "curso": "4°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "3°1°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "88",
+        "curso": "3°1°",
+        "materia": "GGF",
+        "libro": "12",
+        "calificacion": "4",
+        "id": 1,
+        "fecha": "07/10/2024"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "48997075",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO"
+}
