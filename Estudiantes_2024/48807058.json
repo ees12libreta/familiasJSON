@@ -1,0 +1,104 @@
+{
+  "id": "48807058",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "id": 1,
+        "materia": "HTR"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "90",
+        "libro": "12",
+        "fecha": "08/10/2024",
+        "calificacion": "5",
+        "curso": "3°1°",
+        "materia": "BLG",
+        "id": 1
+      }
+    ]
+  },
+  "turno": "TM",
+  "dni": "48807058",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "95",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "NTI": "TEP, , ",
+        "SYA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAF": "TEP, , ",
+        "IGS": "TED, , ",
+        "TDO": "TEP, , ",
+        "LIT": "TEP, , ",
+        "SIC": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "TDO": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TED, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , Intensifico 1er cuatrimestre",
+        "SYA": "TEP, , ",
+        "NTI": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "63"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "LIT": "TEP, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "HTR": "TEP, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "NTI": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "COLVERA MAGALI",
+  "curso": "4°2°"
+}
