@@ -1,0 +1,72 @@
+{
+  "id": "51443351",
+  "dni": "51443351",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "DAVANZO MILEA ROCIO",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "5"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "FONZO SANDRA",
+  "curso": "1°1°",
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
