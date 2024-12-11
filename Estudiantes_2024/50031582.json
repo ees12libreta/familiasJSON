@@ -1,0 +1,59 @@
+{
+  "id": "50031582",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {},
+  "curso": "3°1°",
+  "nombre": "ATTILA VALENTINA SOFIA",
+  "dni": "50031582",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
