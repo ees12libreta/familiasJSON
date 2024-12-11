@@ -1,0 +1,72 @@
+{
+  "id": "49243970",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "fecha": "13/10/2024",
+        "id": 1,
+        "curso": "2°1°",
+        "folio": "11",
+        "libro": "12",
+        "calificacion": "4",
+        "materia": "IGS"
+      }
+    ],
+    "Adeuda": []
+  },
+  "nombre": "CATSOURIS JEREMIAS",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "33",
+        "Hábiles": "76"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "dni": "49243970",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "turno": "TM"
+}
