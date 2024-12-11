@@ -1,0 +1,62 @@
+{
+  "id": "50011631",
+  "curso": "3°1°",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "1"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "nombre": "ARANCIBIA CALVI ZOE SELENE",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50011631",
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN"
+}
