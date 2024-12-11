@@ -1,0 +1,62 @@
+{
+  "id": "50098511",
+  "nombre": "CASTANO MORENA DENISE",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50098511",
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "curso": "3°1°"
+}
