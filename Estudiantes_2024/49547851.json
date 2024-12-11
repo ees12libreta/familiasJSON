@@ -1,0 +1,58 @@
+{
+  "id": "49547851",
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "49547851",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "2"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "nombre": "MENDOZA MACIAS GIAN ISMAEL",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
