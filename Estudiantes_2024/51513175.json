@@ -1,0 +1,69 @@
+{
+  "id": "51513175",
+  "preceptor": "FONZO SANDRA",
+  "Pendientes": {},
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "curso": "1°1°",
+  "nombre": "TORREZ ALCOCER VIVIANA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "dni": "51513175"
+}
