@@ -1,0 +1,105 @@
+{
+  "id": "49074553",
+  "curso": "4°2°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "25"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IGS": "TEA, , ",
+        "TDO": "TEP, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "51"
+      },
+      "materias": {
+        "SIC": "TEP, , Intensifico 2do cuatrimestre, TEA",
+        "LIT": "TEP, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEP, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "76",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IAF": "TEP, , ",
+        "SYA": "TEP, , ",
+        "TDO": "TEP, , ",
+        "NTI": "TEP, , "
+      }
+    }
+  },
+  "dni": "49074553",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "4",
+        "materia": "BLG",
+        "folio": "85",
+        "curso": "3°1°",
+        "id": 1,
+        "libro": "12",
+        "fecha": "13/08/2024"
+      }
+    ],
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "id": 1,
+        "materia": "HTR"
+      }
+    ]
+  },
+  "nombre": "ABAD MAITENA JAZMIN"
+}
