@@ -1,0 +1,66 @@
+{
+  "id": "51401379",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "curso": "1°1°",
+  "dni": "51401379",
+  "preceptor": "FONZO SANDRA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "VILLORDO EMILIA DEL VALLE"
+}
