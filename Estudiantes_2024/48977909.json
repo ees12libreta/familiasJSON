@@ -1,0 +1,86 @@
+{
+  "id": "48977909",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PSI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "34",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "HTR": "TEA, 8, ",
+        "IAF": "TEP, , ",
+        "GGF": "TEA, 9, ",
+        "NTI": "TEA, 7, ",
+        "MCS": "TEA, 8, ",
+        "LIT": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "PSI": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEP, , Intensifico 2do cuatrimestre, TEA"
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "34"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "48977909",
+  "curso": "4°1°",
+  "nombre": "CRESPIN VALENTIN NICOLAS"
+}
