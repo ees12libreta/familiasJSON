@@ -1,0 +1,40 @@
+{
+  "id": "49590672",
+  "nombre": "ABREGU CASAS FLORENCIA AGUSTINA",
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°1°",
+  "turno": "TM",
+  "dni": "49590672",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "EAR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "104"
+      }
+    }
+  }
+}
