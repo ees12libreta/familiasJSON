@@ -1,0 +1,77 @@
+{
+  "id": "48312867",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "PYC",
+    "IAQ",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "dni": "48312867",
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "5°1°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PYC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EAR": "TEP, , ",
+        "EPO": "TEA, , ",
+        "PYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEA, , intens 1er cuatrimestre  TEA",
+        "MCS": "TEA, , ",
+        "SOC": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "9"
+      }
+    }
+  },
+  "turno": "TM",
+  "nombre": "IANIERO SANTIAGO NAHUEL",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  }
+}
