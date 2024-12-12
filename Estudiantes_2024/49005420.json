@@ -1,0 +1,82 @@
+{
+  "id": "49005420",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "dni": "49005420",
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "GALEANO GIAN LUCA",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "NTI": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "LIT": "TEA, 8, ",
+        "IAF": "TEP, , ",
+        "PSI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "87"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "SYA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PSI": "TEP, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "87"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "NTI": "TEP, , ",
+        "MCS": "TEP, , Intensifico 1er cuatrimestre",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre TEA",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEP, , Intensifico 1er cuatrimestre",
+        "BLG": "TEP, , Intensifico 1er cuatrimestre",
+        "PSI": "TEP, , Intensifico 1er cuatrimestre",
+        "IGS": "TEA, , ",
+        "SYA": "TED, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre"
+      }
+    }
+  },
+  "curso": "4°1°"
+}
