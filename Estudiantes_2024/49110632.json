@@ -1,0 +1,84 @@
+{
+  "id": "49110632",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "34",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "45"
+      },
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "PSI": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "NTI": "TEA, 10, ",
+        "IAF": "TEA, 9, ",
+        "LIT": "TEA, 9, ",
+        "SYA": "TEA, 7, ",
+        "MCS": "TEA, 10, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "VILLALVA MAHIA",
+  "curso": "4°1°",
+  "dni": "49110632"
+}
