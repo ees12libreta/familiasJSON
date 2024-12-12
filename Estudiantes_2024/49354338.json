@@ -1,0 +1,88 @@
+{
+  "id": "49354338",
+  "nombre": "SEIP LIONEL THIAGO",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 9, ",
+        "SIC": "TEA, 10, ",
+        "LIT": "TEA, 9, ",
+        "NTI": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "SYA": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "TDO": "TEA, 9, ",
+        "BLG": "TEA, 10, ",
+        "EFI": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "49354338",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
