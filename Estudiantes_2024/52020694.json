@@ -1,0 +1,69 @@
+{
+  "id": "52020694",
+  "Pendientes": {},
+  "dni": "52020694",
+  "curso": "1°1°",
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "nombre": "RAMIREZ VALENTIN",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CSC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CSC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CNT": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  }
+}
