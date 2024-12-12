@@ -1,0 +1,62 @@
+{
+  "id": "50144414",
+  "curso": "3°1°",
+  "nombre": "CACCAMO MENGUAL MICAELA BERENICE",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "dni": "50144414",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN"
+}
