@@ -1,0 +1,84 @@
+{
+  "id": "48861649",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "HTR": "TEA, 9, ",
+        "NTI": "TEA, 8, ",
+        "TDO": "TEA, 9, ",
+        "MCS": "TEA, 7, ",
+        "SYA": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "LIT": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "SIC": "TEA, 10, ",
+        "IAF": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "3"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "dni": "48861649",
+  "curso": "4°2°",
+  "nombre": "WESTDORP ENZO TOMAS",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO"
+}
