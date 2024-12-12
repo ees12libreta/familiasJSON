@@ -1,0 +1,68 @@
+{
+  "id": "49354338",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "LIT": "TEA, 9, ",
+        "SIC": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "BLG": "TEA, 10, ",
+        "SYA": "TEA, 9, ",
+        "GGF": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "IAF": "TEA, 8, ",
+        "HTR": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "TDO": "TEA, 9, ",
+        "NTI": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49354338",
+  "nombre": "SEIP LIONEL THIAGO"
+}
