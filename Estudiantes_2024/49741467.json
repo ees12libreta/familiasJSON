@@ -1,0 +1,62 @@
+{
+  "id": "49741467",
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "turno": "TM",
+  "dni": "49741467",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "16"
+      }
+    }
+  },
+  "nombre": "GALERTI GONZALO BAUTISTA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  }
+}
