@@ -1,0 +1,83 @@
+{
+  "id": "48507903",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "PYC",
+    "IAQ",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "FERREIRA ZOE MAYLEN",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "materia": "BLG",
+        "id": 1
+      }
+    ],
+    "Aprobadas": []
+  },
+  "curso": "5°1°",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PYC": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "MCS": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EPO": "TEA, , "
+      }
+    }
+  },
+  "dni": "48507903",
+  "turno": "TM"
+}
