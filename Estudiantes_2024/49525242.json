@@ -1,0 +1,84 @@
+{
+  "id": "49525242",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "curso": "4°1°",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "BLG": "TEA, 9, ",
+        "MCS": "TEA, 9, ",
+        "PSI": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "LIT": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "SYA": "TEA, 7, ",
+        "EFI": "TEA, 10, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "PSI"
+  ],
+  "nombre": "ROSENTAL CHIARA LENA",
+  "turno": "TM",
+  "dni": "49525242"
+}
