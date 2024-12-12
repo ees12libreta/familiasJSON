@@ -1,0 +1,104 @@
+{
+  "id": "48997075",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "TDO": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "SYA": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "HTR": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "TDO": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "NTI": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, 8, ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA",
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "dni": "48997075",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "12",
+        "folio": "88",
+        "id": 1,
+        "materia": "GGF",
+        "fecha": "07/10/2024",
+        "calificacion": "4",
+        "curso": "3°1°"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "3°1°",
+        "id": 1
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "curso": "4°2°"
+}
