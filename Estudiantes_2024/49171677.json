@@ -1,0 +1,88 @@
+{
+  "id": "49171677",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "IAF": "TEA, 7, ",
+        "SIC": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "HTR": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "TDO": "TEA, 7, ",
+        "GGF": "TEA, 8, ",
+        "SYA": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "SIC": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , "
+      }
+    }
+  },
+  "dni": "49171677",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "VILLORDO ENZO VALENTIN",
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
