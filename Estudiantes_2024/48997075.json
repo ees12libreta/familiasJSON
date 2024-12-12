@@ -1,0 +1,104 @@
+{
+  "id": "48997075",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "48997075",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "29"
+      },
+      "materias": {
+        "IAF": "TEA, , ",
+        "LIT": "TEP, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "GGF": "TEP, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "TDO": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SYA": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre,  TEA",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IAF": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, 9, ",
+        "NTI": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "SIC": "TEA, 8, ",
+        "TDO": "TEA, 7, ",
+        "SYA": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "curso": "4°2°",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "3°1°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "libro": "12",
+        "calificacion": "4",
+        "folio": "88",
+        "materia": "GGF",
+        "fecha": "07/10/2024",
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA"
+}
