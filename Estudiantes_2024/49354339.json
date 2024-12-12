@@ -1,0 +1,84 @@
+{
+  "id": "49354339",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "SYA": "TEA, 9, ",
+        "NTI": "TEA, 9, ",
+        "MCS": "TEA, 8, ",
+        "SIC": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "TDO": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEA, , "
+      }
+    }
+  },
+  "dni": "49354339",
+  "turno": "TM",
+  "nombre": "SEIP MATIAS ELIAN"
+}
