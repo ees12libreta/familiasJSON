@@ -1,0 +1,77 @@
+{
+  "id": "48440180",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PYC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SOC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "IAQ": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EPO": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "LIT": "TEP, , ",
+        "CCS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "PYC": "TEA, , ",
+        "SOC": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "nombre": "COLANDUONO THIAGO MARTIN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "PYC",
+    "IAQ",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "48440180"
+}
