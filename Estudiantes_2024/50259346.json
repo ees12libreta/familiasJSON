@@ -1,0 +1,73 @@
+{
+  "id": "50259346",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEP, , "
+      }
+    }
+  },
+  "dni": "50259346",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "id": 1,
+        "curso": "1°1°"
+      },
+      {
+        "curso": "2°1°",
+        "id": 2,
+        "materia": "MTM"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°1°",
+  "nombre": "COSTA SANTIAGO EZEQUIEL"
+}
