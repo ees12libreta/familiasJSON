@@ -1,0 +1,87 @@
+{
+  "id": "48441743",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "66",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IAQ": "TED, , ",
+        "SOC": "TED, , ",
+        "PYC": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TED, , ",
+        "CCS": "TED, , ",
+        "LIT": "TED, , ",
+        "HTR": "TED, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TED, , ",
+        "MCS": "TED, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "87",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PYC": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TED, , ",
+        "CCS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TED, , ",
+        "EFI": "TEP, , ",
+        "SOC": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EPO": "TEP, , ",
+        "IGS": "TED, , ",
+        "EAR": "TEP, , ",
+        "LIT": "TED, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MCS": "TED, , ",
+        "IAQ": "TED, , "
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "5°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "PYC",
+    "IAQ",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "nombre": "CARDOZO CATALINA ABIGAIL",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "4°1°"
+      },
+      {
+        "curso": "4°1°",
+        "materia": "HTR",
+        "id": 2
+      }
+    ]
+  },
+  "turno": "TM",
+  "dni": "48441743"
+}
