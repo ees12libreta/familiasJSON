@@ -1,0 +1,67 @@
+{
+  "id": "50364419",
+  "curso": "1°1°",
+  "nombre": "VILLORDO MILAGROS VICTORIA",
+  "dni": "50364419",
+  "preceptor": "FONZO SANDRA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CNT": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "16"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CSC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TM"
+}
