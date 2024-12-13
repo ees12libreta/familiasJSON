@@ -1,5 +1,59 @@
 {
   "id": "48039893",
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "SOC": "TEP, , ",
+        "LIT": "TED, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "CCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "SOC": "TEP, , intensif. 1er cuatrimestre TEA",
+        "LIT": "TEP, , ",
+        "CCS": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "IAQ": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EPO": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "MTM": "TEA, , ",
+        "PYC": "TEP, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "25"
+      }
+    }
+  },
+  "nombre": "MARQUES RAMIRO NICOLAS",
+  "dni": "48039893",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
   "materias": [
     "LIT",
     "MCS",
@@ -13,34 +67,5 @@
     "EPO",
     "SOC"
   ],
-  "turno": "TM",
-  "informes": {
-    "informe1": {
-      "asistencia": {
-        "Inasistencias": "26",
-        "Hábiles": "75"
-      },
-      "materias": {
-        "GGF": "TEP, , ",
-        "IGS": "TEP, , ",
-        "PYC": "TEP, , ",
-        "HTR": "TEP, , ",
-        "SOC": "TEP, , ",
-        "CCS": "TEP, , ",
-        "EFI": "TEA, , ",
-        "IAQ": "TEP, , ",
-        "MCS": "TEA, , ",
-        "LIT": "TED, , ",
-        "EPO": "TEA, , "
-      }
-    }
-  },
-  "Pendientes": {
-    "Aprobadas": [],
-    "Adeuda": []
-  },
-  "preceptor": "VILLAR CRISTIAN",
-  "dni": "48039893",
-  "curso": "5°1°",
-  "nombre": "MARQUES RAMIRO NICOLAS"
+  "turno": "TM"
 }
