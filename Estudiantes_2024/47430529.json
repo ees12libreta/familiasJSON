@@ -1,0 +1,75 @@
+{
+  "id": "47430529",
+  "curso": "5°1°",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "dni": "47430529",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "MTM"
+      },
+      {
+        "materia": "MCS",
+        "curso": "4°1°",
+        "id": 2
+      }
+    ]
+  },
+  "nombre": "PEREZ ELISEO ULISES",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "25"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEP, , ",
+        "PYC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCS": "TEA, , intensif. 1er cuatrimestre TEA",
+        "SOC": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEP, , ",
+        "CCS": "TEP, , ",
+        "SOC": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "27"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN"
+}
