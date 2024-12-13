@@ -1,0 +1,76 @@
+{
+  "id": "47641624",
+  "dni": "47641624",
+  "nombre": "RODRIGUEZ AILEN MELISA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MTM",
+        "curso": "1°1°"
+      },
+      {
+        "materia": "MTM",
+        "id": 2,
+        "curso": "2°1°"
+      }
+    ]
+  },
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAQ": "TEP, , ",
+        "LIT": "TEA, , ",
+        "SOC": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "16"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "CCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEP, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      }
+    }
+  }
+}
