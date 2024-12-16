@@ -1,0 +1,90 @@
+{
+  "id": "48807138",
+  "curso": "3°1°",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "29"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 10, ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "26"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "48807138",
+  "turno": "TM",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°1°",
+        "materia": "HTR"
+      },
+      {
+        "curso": "2°1°",
+        "id": 2,
+        "materia": "MTM"
+      }
+    ]
+  },
+  "nombre": "ROJAS TANIA ABIGAIL"
+}
