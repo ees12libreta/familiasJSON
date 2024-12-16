@@ -1,0 +1,86 @@
+{
+  "id": "49828869",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "GGF",
+        "curso": "2°1°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "nombre": "SOSA JULIETA",
+  "dni": "49828869",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "HTR": "TEA, 9, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEP, , INTENSIFICO DICIEMBRE TEA 7"
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "36"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "18"
+      }
+    }
+  },
+  "curso": "3°1°",
+  "turno": "TM"
+}
