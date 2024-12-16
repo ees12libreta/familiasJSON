@@ -1,0 +1,40 @@
+{
+  "id": "49891638",
+  "turno": "TM",
+  "nombre": "BALVIDARES ERNESTINA MAGALI",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "CCD": "TEA, 8, ",
+        "EFI": "TEA, 8, "
+      }
+    }
+  },
+  "dni": "49891638",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
