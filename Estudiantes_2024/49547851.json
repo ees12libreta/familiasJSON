@@ -1,0 +1,76 @@
+{
+  "id": "49547851",
+  "nombre": "MENDOZA MACIAS GIAN ISMAEL",
+  "turno": "TM",
+  "dni": "49547851",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "2"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "PLG": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "MTM": "TEA, 10, ",
+        "FQA": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°1°"
+}
