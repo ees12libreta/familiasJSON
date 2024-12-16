@@ -1,0 +1,80 @@
+{
+  "id": "50098511",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "19"
+      },
+      "materias": {
+        "GGF": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 7, INTENSIFICO DICIEMBRE TEA 7",
+        "MTM": "TEP, 8, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "dni": "50098511",
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "CASTANO MORENA DENISE",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "turno": "TM"
+}
