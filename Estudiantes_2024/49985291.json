@@ -1,0 +1,76 @@
+{
+  "id": "49985291",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "8"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "198"
+      },
+      "materias": {
+        "BLG": "TEA, 8, ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 10, ",
+        "FQA": "TEA, 10, ",
+        "MTM": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "PLG": "TEA, 8, "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°3°",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49985291",
+  "nombre": "ARZAMENDIA RODRIGO IAN"
+}
