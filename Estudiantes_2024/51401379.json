@@ -1,0 +1,52 @@
+{
+  "id": "51401379",
+  "curso": "1°1°",
+  "nombre": "VILLORDO EMILIA DEL VALLE",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "CNT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "CSC": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "dni": "51401379"
+}
