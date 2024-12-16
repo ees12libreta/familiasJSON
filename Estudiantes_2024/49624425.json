@@ -1,0 +1,76 @@
+{
+  "id": "49624425",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "95"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, 9, ",
+        "MTM": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "PLG": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "FQA": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "198"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "6"
+      }
+    }
+  },
+  "nombre": "MACHADO VALENTIN LAUTARO",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49624425",
+  "curso": "3°4°",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA"
+}
