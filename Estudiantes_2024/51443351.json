@@ -1,0 +1,72 @@
+{
+  "id": "51443351",
+  "preceptor": "FONZO SANDRA",
+  "nombre": "DAVANZO MILEA ROCIO",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "51443351",
+  "curso": "1°1°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CNT": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEA, 9, ",
+        "CNT": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "CSC": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 8, ",
+        "PLG": "TEA, 10, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM"
+}
