@@ -1,0 +1,90 @@
+{
+  "id": "49243970",
+  "curso": "3°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "curso": "2°1°",
+        "materia": "IGS",
+        "libro": "12",
+        "fecha": "13/10/2024",
+        "folio": "11",
+        "id": 1,
+        "calificacion": "4"
+      }
+    ]
+  },
+  "nombre": "CATSOURIS JEREMIAS",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "56",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "FQA": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "33",
+        "Hábiles": "76"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "49243970",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
