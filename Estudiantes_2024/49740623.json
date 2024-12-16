@@ -1,0 +1,80 @@
+{
+  "id": "49740623",
+  "nombre": "VALDEZ SCHIARITTI MIA SOLEDAD",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "76"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "19"
+      },
+      "materias": {
+        "FQA": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEA, 8, ",
+        "PLG": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "BLG": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "GGF": "TEA, 8, "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "49740623",
+  "curso": "3°1°"
+}
