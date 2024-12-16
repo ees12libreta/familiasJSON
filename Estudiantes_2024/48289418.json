@@ -1,0 +1,86 @@
+{
+  "id": "48289418",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "id": 1,
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "22"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "FQA": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "PLG": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "40",
+        "Hábiles": "198"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "dni": "48289418",
+  "turno": "TT",
+  "nombre": "REQUELME ABRIL LAURA",
+  "preceptor": "RYBARCZYK VALERIA"
+}
