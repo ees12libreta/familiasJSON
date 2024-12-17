@@ -1,0 +1,68 @@
+{
+  "id": "52398546",
+  "dni": "52398546",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "VILLALVA MIA ABRIL",
+  "turno": "TM",
+  "curso": "1°1°",
+  "preceptor": "FONZO SANDRA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEP, , ",
+        "CNT": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "CNT": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "CSC": "TEA, 7, intensifico en diciembre",
+        "CCD": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  }
+}
