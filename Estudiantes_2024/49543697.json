@@ -1,0 +1,76 @@
+{
+  "id": "49543697",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°1°",
+  "turno": "TM",
+  "dni": "49543697",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 10, ",
+        "FQA": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "EAR": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "BLG": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "76"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "GONZALEZ FELIPE SAMUEL"
+}
