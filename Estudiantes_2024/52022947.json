@@ -1,0 +1,68 @@
+{
+  "id": "52022947",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "CNT": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CSC": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "9"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 10, ",
+        "CSC": "TEA, 7, intensifico en diciembre\n",
+        "PLG": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 6, intensifico en diciembre\n",
+        "CNT": "TEA, 7, intensifico en diciembre\n",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "nombre": "GONZALEZ INDIO ETIENNE",
+  "curso": "1°1°",
+  "dni": "52022947"
+}
