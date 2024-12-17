@@ -1,0 +1,96 @@
+{
+  "id": "48701731",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°4°",
+        "id": 1,
+        "materia": "BLG"
+      },
+      {
+        "curso": "2°4°",
+        "materia": "EFI",
+        "id": 2
+      },
+      {
+        "materia": "FQA",
+        "curso": "2°4°",
+        "id": 3
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°",
+  "dni": "48701731",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, 8, ",
+        "EFI": "TEP, 7, ",
+        "FQA": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "BLG": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "38"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "21"
+      }
+    }
+  },
+  "nombre": "OTRANTO AMBAR CAMILA",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT"
+}
