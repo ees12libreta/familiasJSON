@@ -1,0 +1,68 @@
+{
+  "id": "52644670",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEP, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "36",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CNT": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "47"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CNT": "TEA, 6, intensifico en diciembre\n",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEP, , ",
+        "CSC": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "dni": "52644670",
+  "preceptor": "FONZO SANDRA",
+  "nombre": "MALLOU AGUISTINA ISABELLA"
+}
