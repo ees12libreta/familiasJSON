@@ -1,0 +1,72 @@
+{
+  "id": "51455608",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "nombre": "MEDINA DYLAN EZEQUIEL",
+  "preceptor": "FONZO SANDRA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "curso": "1°1°",
+  "dni": "51455608",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "CCD": "TEP, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 4, Intensifico en diciembre",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "CSC": "TEA, 7, ",
+        "CNT": "TEA, 6, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "35"
+      },
+      "materias": {
+        "CNT": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , "
+      }
+    }
+  }
+}
