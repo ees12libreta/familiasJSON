@@ -1,0 +1,96 @@
+{
+  "id": "48507903",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "5°1°",
+  "dni": "48507903",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "SOC": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EPO": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EPO": "TEA, 7, ",
+        "PYC": "TEA, 8, ",
+        "PLG": "TEA, , ",
+        "LIT": "TEA, 10, ",
+        "IAQ": "TEA, 9, ",
+        "BLG": "TEA, , ",
+        "EAR": "TEP, , ",
+        "MCS": "TEA, 7, ",
+        "IGS": "TEA, 9, ",
+        "GGF": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "MTM": "TEA, , ",
+        "SOC": "TEA, 7, ",
+        "HTR": "TEA, 8, ",
+        "CCS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "EPO": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "nombre": "FERREIRA ZOE MAYLEN"
+}
