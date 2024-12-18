@@ -1,0 +1,96 @@
+{
+  "id": "48379407",
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "48379407",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "nombre": "PALACIOS IGNACIO NAHUEL",
+  "curso": "5°1°",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PYC": "TEA, , ",
+        "LIT": "TED, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SOC": "TEP, , ",
+        "CCS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCS": "TEA, 8, ",
+        "PYC": "TEA, 9, ",
+        "CCD": "TEA, , ",
+        "SOC": "TEA, 7, ",
+        "IAQ": "TEA, 8, ",
+        "LIT": "TEA, 7, Intensific. 1er cuatrimestre TEA",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, 8, ",
+        "EAR": "TEP, , ",
+        "IGS": "TEA, 7, intens. 1er cuatrim. TEA",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, 9, ",
+        "EPO": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "MCS": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , intens. 1er cuatrim. TEA",
+        "PYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SOC": "TEA, , Intensific. 1er cuatrimestre TEA",
+        "LIT": "TEA, , Intensific. 1er cuatrimestre TEA",
+        "BLG": "TEA, , "
+      }
+    }
+  }
+}
