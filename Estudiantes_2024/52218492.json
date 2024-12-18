@@ -1,0 +1,84 @@
+{
+  "id": "52218492",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "52218492",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "EPO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SOC": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SOC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MCS": "TEA, 10, ",
+        "EPO": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "IAQ": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "CCS": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "SOC": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "HTR": "TEA, 10, ",
+        "PYC": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "nombre": "SISK FRANCO OLIVER"
+}
