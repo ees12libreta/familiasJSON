@@ -1,0 +1,67 @@
+{
+  "id": "48997096",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°2°",
+        "materia": "HTR"
+      }
+    ]
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "36"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEA, 8, ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  },
+  "nombre": "VRANKEN NEHUEN OMAR",
+  "curso": "3°2°",
+  "turno": "TM",
+  "dni": "48997096"
+}
