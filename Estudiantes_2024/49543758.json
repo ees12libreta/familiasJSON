@@ -1,0 +1,44 @@
+{
+  "id": "49543758",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "49543758",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "NTI": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TEP, , ",
+        "HTR": "TEA, 8, ",
+        "LIT": "TEA, 8, ",
+        "MCS": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "SIC": "TEA, 9, ",
+        "BLG": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "IGS": "TEA, 9, ",
+        "TDO": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "100"
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "ROMAN BERARDI MARTINA",
+  "curso": "4°3°"
+}
