@@ -1,0 +1,45 @@
+{
+  "id": "46958045",
+  "Pendientes": {},
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "curso": "5°3°",
+  "nombre": "DE LA O IVAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "GOR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "DER": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EMM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    }
+  },
+  "dni": "46958045",
+  "preceptor": "LODEIRO LAURA",
+  "turno": "TT"
+}
