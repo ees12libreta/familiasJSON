@@ -1,0 +1,56 @@
+{
+  "id": "52620599",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°",
+  "preceptor": "FONZO SANDRA",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "52620599",
+  "nombre": "FERREYRA GIULIANA ORNELA",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEP, , "
+      }
+    }
+  }
+}
