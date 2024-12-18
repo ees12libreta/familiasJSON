@@ -1,0 +1,106 @@
+{
+  "id": "48441743",
+  "preceptor": "VILLAR CRISTIAN",
+  "dni": "48441743",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "informes": {
+    "informe3": {
+      "materias": {
+        "IAQ": "TED, , ",
+        "IGS": "TED, , ",
+        "GGF": "TED, , ",
+        "MCS": "TED, , ",
+        "FQA": "TEA, , ",
+        "CCS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "SOC": "TEP, , ",
+        "MTM": "TEA, , ",
+        "LIT": "TED, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , ",
+        "EPO": "TEP, , ",
+        "HTR": "TED, , ",
+        "BLG": "TEA, , ",
+        "PYC": "TEP, , ",
+        "EFI": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "87",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "IAQ": "TED, , ",
+        "GGF": "TED, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEP, , ",
+        "SOC": "TEP, , ",
+        "LIT": "TED, , ",
+        "IGS": "TED, , ",
+        "EAR": "TEP, , ",
+        "CCS": "TEP, , ",
+        "PYC": "TEP, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MCS": "TED, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TED, , ",
+        "EPO": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "LIT": "TED, , ",
+        "PYC": "TEP, , ",
+        "MCS": "TED, , ",
+        "EPO": "TED, , ",
+        "SOC": "TED, , ",
+        "EFI": "TEP, , ",
+        "HTR": "TED, , ",
+        "CCS": "TED, , ",
+        "GGF": "TED, , ",
+        "IAQ": "TED, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "66"
+      }
+    }
+  },
+  "nombre": "CARDOZO CATALINA ABIGAIL",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "4°1°"
+      },
+      {
+        "id": 2,
+        "curso": "4°1°",
+        "materia": "HTR"
+      }
+    ]
+  }
+}
