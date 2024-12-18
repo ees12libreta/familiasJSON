@@ -1,0 +1,58 @@
+{
+  "id": "50307454",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "nombre": "BRITEZ ESPINOLA MATEO JOAQUIN",
+  "dni": "50307454",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "35",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, 8, ",
+        "MTM": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEP, , "
+      }
+    }
+  }
+}
