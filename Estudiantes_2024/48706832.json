@@ -1,0 +1,107 @@
+{
+  "id": "48706832",
+  "turno": "TM",
+  "nombre": "DAUJOTAS IBANEZ JEREMIAS ELIEL",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "26"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "SOC": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "SOC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EAR": "TEP, , ",
+        "EPO": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "EPO": "TEA, 7, ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "CCS": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "SOC": "TEA, 7, ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PYC": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "MCS": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "FQA": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "3°1°"
+      },
+      {
+        "id": 2,
+        "materia": "PSI",
+        "curso": "4°1°"
+      }
+    ]
+  },
+  "dni": "48706832"
+}
