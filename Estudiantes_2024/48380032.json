@@ -1,0 +1,90 @@
+{
+  "id": "48380032",
+  "dni": "48380032",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°",
+  "nombre": "QUINTANA IANIERO NEHUEN JONAS NUN",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "MCS": "TEA, , ",
+        "SOC": "TEA, , intensificac. 1er cuatrimestre TEA",
+        "GGF": "TEA, , intensificacion 1er cuatrim. TEA",
+        "PYC": "TEA, , ",
+        "CCS": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IAQ": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "PYC": "TEA, 7, ",
+        "MCS": "TEA, 8, ",
+        "EFI": "TEP, , ",
+        "EPO": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "CCS": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 7, intensificacion 1er cuatrim. TEA",
+        "SOC": "TEA, 7, intensificac. 1er cuatrimestre TEA"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "SOC": "TEP, , ",
+        "CCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEP, , ",
+        "EPO": "TEP, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "4°1°",
+        "id": 1,
+        "materia": "NTI"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "turno": "TM"
+}
