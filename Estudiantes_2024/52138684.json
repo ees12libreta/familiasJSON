@@ -1,0 +1,56 @@
+{
+  "id": "52138684",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "FONZO SANDRA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°",
+  "nombre": "AVILA VALENTINO",
+  "dni": "52138684",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "79",
+        "Inasistencias": "16"
+      }
+    }
+  }
+}
