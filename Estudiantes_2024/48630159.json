@@ -1,0 +1,96 @@
+{
+  "id": "48630159",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "IANIERO LAUTARO EZEQUIEL",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , intens 1er cuatrimestre  TEA",
+        "LIT": "TEA, , ",
+        "PYC": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "14"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SOC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "11"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "SOC": "TEA, 7, ",
+        "MTM": "TEA, , ",
+        "PYC": "TEA, 9, ",
+        "HTR": "TEA, 7, ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IAQ": "TEA, 9, ",
+        "MCS": "TEA, 9, ",
+        "EPO": "TEA, 8, ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, 9, ",
+        "CCS": "TEA, 8, ",
+        "BLG": "TEA, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "dni": "48630159"
+}
