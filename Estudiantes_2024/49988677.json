@@ -1,0 +1,58 @@
+{
+  "id": "49988677",
+  "turno": "TM",
+  "dni": "49988677",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "25"
+      },
+      "materias": {
+        "IGS": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "MTM": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "PLG": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, 9, "
+      }
+    }
+  },
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "nombre": "MEDINA LUANA ABRIL",
+  "curso": "3°2°"
+}
