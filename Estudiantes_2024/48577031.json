@@ -1,0 +1,93 @@
+{
+  "id": "48577031",
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "nombre": "ACOSTA LUCAS ABEL",
+  "curso": "5°1°",
+  "Pendientes": {},
+  "informes": {
+    "informe2": {
+      "materias": {
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EAR": "TEP, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "18"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EPO": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "MCS": "TEA, 7, ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, 7, ",
+        "EPO": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "CCS": "TEA, 8, ",
+        "EAR": "TEP, , ",
+        "PYC": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "IAQ": "TEA, 7, ",
+        "LIT": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "SOC": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "dni": "48577031"
+}
