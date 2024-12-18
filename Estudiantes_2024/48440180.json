@@ -1,0 +1,96 @@
+{
+  "id": "48440180",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "SOC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PYC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EPO": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "SOC": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PYC": "TEA, 8, ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, 7, ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IAQ": "TEA, 9, ",
+        "EPO": "TEA, 10, ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "CCS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "MCS": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "SOC": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEP, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "29"
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "48440180",
+  "curso": "5°1°",
+  "nombre": "COLANDUONO THIAGO MARTIN",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "VILLAR CRISTIAN"
+}
