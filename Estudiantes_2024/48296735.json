@@ -1,0 +1,84 @@
+{
+  "id": "48296735",
+  "nombre": "QUIROGA VICTORIA ABRIL",
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "48296735",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "SOC": "TEA, 9, ",
+        "PYC": "TEA, 9, ",
+        "IAQ": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "EPO": "TEA, 9, ",
+        "CCS": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "LIT": "TEA, 8, ",
+        "MCS": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "SOC": "TEA, , ",
+        "EPO": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "11"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCS": "TEA, , ",
+        "PYC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SOC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "17"
+      }
+    }
+  }
+}
