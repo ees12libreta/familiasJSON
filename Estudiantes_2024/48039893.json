@@ -1,0 +1,96 @@
+{
+  "id": "48039893",
+  "nombre": "MARQUES RAMIRO NICOLAS",
+  "turno": "TM",
+  "dni": "48039893",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "curso": "5°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EPO": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "PLG": "TEA, , ",
+        "MCS": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE 5",
+        "PYC": "TEP, , INTENSIFICO DICIEMBRE 4",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , ",
+        "CCS": "TEA, 7, Intensificacion 1er cuatrimestre TEA",
+        "GGF": "TEA, 7, Intensificacion 1er cuatrimestre TEA",
+        "FQA": "TEA, , ",
+        "SOC": "TEP, , intensif. 1er cuatrimestre TEA"
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "PYC": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "SOC": "TEP, , ",
+        "LIT": "TED, , ",
+        "CCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "26"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "FQA": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCS": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EPO": "TEP, , ",
+        "LIT": "TEP, , ",
+        "SOC": "TEP, , intensif. 1er cuatrimestre TEA",
+        "PLG": "TEA, , ",
+        "PYC": "TEP, , ",
+        "BLG": "TEA, , ",
+        "IAQ": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      }
+    }
+  }
+}
