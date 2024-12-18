@@ -1,25 +1,44 @@
 {
   "id": "49243989",
-  "nombre": "HERRERA FEDERICO ARIEL",
   "informes": {
     "informe1": {
       "asistencia": {
-        "Hábiles": "75",
-        "Inasistencias": "1"
+        "Inasistencias": "1",
+        "Hábiles": "75"
       },
       "materias": {
-        "LIT": "TEA, , ",
-        "HTR": "TEA, , ",
-        "IGS": "TEA, , ",
         "GGF": "TEA, , ",
-        "MCS": "TEA, , ",
-        "TDO": "TEA, , ",
-        "SYA": "TEA, , ",
-        "NTI": "TEA, , ",
-        "EFI": "TEA, , ",
-        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
         "BLG": "TEA, , ",
-        "SIC": "TEA, , "
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MCS": "TEA, 8, ",
+        "HTR": "TEA, 10, ",
+        "NTI": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "TDO": "TEA, 9, ",
+        "SYA": "TEA, 10, ",
+        "SIC": "TEA, 9, ",
+        "LIT": "TEA, 8, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "IAF": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "100"
       }
     }
   },
@@ -37,8 +56,9 @@
     "SIC",
     "TDO"
   ],
+  "curso": "4°3°",
   "dni": "49243989",
+  "nombre": "HERRERA FEDERICO ARIEL",
   "preceptor": "SILVELA DANIELA",
-  "turno": "TT",
-  "curso": "4°3°"
+  "turno": "TT"
 }
