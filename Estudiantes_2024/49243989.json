@@ -1,0 +1,44 @@
+{
+  "id": "49243989",
+  "nombre": "HERRERA FEDERICO ARIEL",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "1"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49243989",
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT",
+  "curso": "4°3°"
+}
