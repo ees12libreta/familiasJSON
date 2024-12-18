@@ -1,0 +1,96 @@
+{
+  "id": "48440180",
+  "dni": "48440180",
+  "curso": "5°1°",
+  "turno": "TM",
+  "nombre": "COLANDUONO THIAGO MARTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "CCS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EPO": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PYC": "TEA, 8, ",
+        "IAQ": "TEA, 9, ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, 8, ",
+        "SOC": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "MCS": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SOC": "TEP, , ",
+        "HTR": "TEA, , ",
+        "PYC": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EPO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PYC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  }
+}
