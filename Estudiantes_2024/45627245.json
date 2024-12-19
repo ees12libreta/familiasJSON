@@ -1,0 +1,88 @@
+{
+  "id": "45627245",
+  "dni": "45627245",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "IGS": "TEA, , ",
+        "RTE": "TEA, , ",
+        "FIL": "TEA, , ",
+        "EFI": "TEP, , ",
+        "PIC": "TEP, , ",
+        "TYC": "TEP, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "51"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "LIT": ", 7, ",
+        "FIL": ", 9, ",
+        "IGS": ", 7, ",
+        "GGF": ", 7, ",
+        "EFI": ", 7, ",
+        "RTE": ", 8, ",
+        "PIC": ", 6, ",
+        "MCS": ", 6, "
+      },
+      "asistencia": {
+        "Inasistencias": "91",
+        "Hábiles": "198"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "40"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PIC": "TEP, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TED, , ",
+        "GGF": "TEP, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEP, , ",
+        "RTE": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°4°",
+  "nombre": "OLGUIN LUCIANA BELEN",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "4°4°",
+        "materia": "LIT",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "curso": "5°4°",
+        "materia": "LIT"
+      }
+    ]
+  },
+  "turno": "TT",
+  "preceptor": "PERASSI MARIO"
+}
