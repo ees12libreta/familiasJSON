@@ -1,0 +1,68 @@
+{
+  "id": "51078073",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 8, ",
+        "MTM": "TEA, 10, ",
+        "CSC": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "CCD": "TEA, 8, ",
+        "IGS": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "CNT": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "3"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "CNT": "TEP, , ",
+        "CSC": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, 10, ",
+        "CNT": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "PLG": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "CSC": "TEA, 7, ",
+        "CCD": "TEA, 8, ",
+        "EFI": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "3"
+      }
+    }
+  },
+  "curso": "1°2°",
+  "turno": "TT",
+  "nombre": "CATALAN MATEO VALENTINO",
+  "dni": "51078073",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
