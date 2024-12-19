@@ -1,0 +1,78 @@
+{
+  "id": "47742447",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "materia": "EFI",
+        "calificacion": "7",
+        "libro": "16",
+        "folio": "84",
+        "id": 1,
+        "curso": "4°4°",
+        "fecha": "18/06/2024"
+      }
+    ]
+  },
+  "nombre": "CAMARGO WILLIAM ALEJANDRO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "curso": "5°2°",
+  "dni": "47742447",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "SIC": "TEP, , ",
+        "PYC": "TEA, , ",
+        "GGF": "TEP, , ",
+        "DER": "TEP, , ",
+        "MCS": "TEP, , ",
+        "GOR": "TED, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "EMM": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "EFI": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "GOR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "EMM": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "DER": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "PYC": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "turno": "TM"
+}
