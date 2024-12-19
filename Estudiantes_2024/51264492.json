@@ -1,0 +1,52 @@
+{
+  "id": "51264492",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "CNT": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "EAR": "TEA, 8, ",
+        "MTM": "TEA, 10, ",
+        "CSC": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "IGS": "TEA, 10, ",
+        "CCD": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "28",
+        "Hábiles": "175"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "nombre": "PAEZ NAHIARA ZOE YAZMIN",
+  "curso": "1°2°",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "51264492",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT"
+}
