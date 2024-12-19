@@ -1,0 +1,90 @@
+{
+  "id": "49543758",
+  "dni": "49543758",
+  "curso": "4°3°",
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 8, ",
+        "EFI": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "TDO": "TEA, 10, ",
+        "NTI": "TEA, 7, ",
+        "IGS": "TEA, 9, ",
+        "MCS": "TEA, 9, ",
+        "LIT": "TEA, 8, ",
+        "IAF": "TEA, 7, ",
+        "SIC": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "17"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IAF": "TEA, 7, ",
+        "IGS": "TEA, 9, ",
+        "LIT": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "NTI": "TEA, 7, ",
+        "TDO": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "SIC": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "MCS": "TEA, 9, ",
+        "EFI": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "100"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "1"
+      }
+    }
+  },
+  "nombre": "ROMAN BERARDI MARTINA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
