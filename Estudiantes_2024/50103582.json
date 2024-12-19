@@ -1,0 +1,68 @@
+{
+  "id": "50103582",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "175"
+      },
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "CSC": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "MTM": "TEA, 10, ",
+        "CNT": "TEA, 7, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "CCD": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, 7, ",
+        "CNT": "TEP, , ",
+        "MTM": "TEA, 10, ",
+        "PLG": "TEA, 7, ",
+        "IGS": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "CNT": "TEP, , ",
+        "IGS": "TEA, , ",
+        "CSC": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , "
+      }
+    }
+  },
+  "nombre": "NI LUCAS",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "50103582",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT",
+  "curso": "1°2°"
+}
