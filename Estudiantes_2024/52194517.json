@@ -1,0 +1,36 @@
+{
+  "id": "52194517",
+  "nombre": "ROLDAN ALMA ESTRELLA MELINA",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "dni": "52194517",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "1°2°",
+  "turno": "TT"
+}
