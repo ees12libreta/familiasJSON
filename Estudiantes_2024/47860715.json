@@ -1,0 +1,44 @@
+{
+  "id": "47860715",
+  "curso": "5°2°",
+  "dni": "47860715",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "DER": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EMM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "GOR": "TED, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "PYC": "TEA, , ",
+        "SIC": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "MAROTTOLI LUCAS",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "turno": "TM"
+}
