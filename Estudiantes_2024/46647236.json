@@ -1,0 +1,64 @@
+{
+  "id": "46647236",
+  "curso": "5°2°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "DER": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "GOR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "SIC": "TEP, , ",
+        "EMM": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 9, ",
+        "PYC": "TEP, , ",
+        "EMM": "TEP, , ",
+        "LIT": "TEP, , ",
+        "DER": "TEP, , ",
+        "SIC": "TEP, , ",
+        "MCS": "TEP, , ",
+        "GOR": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "EFI": "TEA, 9, "
+      }
+    }
+  },
+  "nombre": "LIBOIS CISNEROS GONZALO AGUSTIN",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "turno": "TM",
+  "dni": "46647236"
+}
