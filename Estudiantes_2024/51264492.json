@@ -1,0 +1,68 @@
+{
+  "id": "51264492",
+  "nombre": "PAEZ NAHIARA ZOE YAZMIN",
+  "curso": "1°2°",
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "51264492",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, 9, ",
+        "CSC": "TEA, 7, ",
+        "IGS": "TEA, 10, ",
+        "CCD": "TEA, 9, ",
+        "PLG": "TEA, 7, ",
+        "MTM": "TEA, 10, ",
+        "CNT": "TEA, 8, ",
+        "EAR": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "100"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "28"
+      },
+      "materias": {
+        "CSC": "TEA, 7, ",
+        "CCD": "TEA, 9, ",
+        "MTM": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 10, ",
+        "CNT": "TEA, 8, ",
+        "EAR": "TEA, 8, ",
+        "PLG": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CSC": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
