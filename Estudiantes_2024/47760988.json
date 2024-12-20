@@ -1,0 +1,76 @@
+{
+  "id": "47760988",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "26"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEP, , ",
+        "MTM": "TEA, 6, ",
+        "FQA": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TED, , ",
+        "HTR": "TEA, 6, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "46"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TED, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "20"
+      }
+    }
+  },
+  "nombre": "MATURANO ACOSTA BAUTISTA",
+  "dni": "47760988",
+  "preceptor": "RYBARCZYK VALERIA"
+}
