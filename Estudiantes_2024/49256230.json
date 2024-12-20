@@ -1,0 +1,84 @@
+{
+  "id": "49256230",
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "CARDOZO FRANCESCA ZARA",
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49256230",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "TDO": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "20"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "33"
+      },
+      "materias": {
+        "TDO": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "NTI": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "SIC": "TEA, 9, ",
+        "GGF": "TEA, 7, ",
+        "IAF": "TEA, 9, ",
+        "IGS": "TEA, 7, Intensifico 1er y 2do cuatrimestre  en diciembre ",
+        "SYA": "TEA, 9, ",
+        "LIT": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "MCS": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  }
+}
