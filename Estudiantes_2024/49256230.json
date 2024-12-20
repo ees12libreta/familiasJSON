@@ -1,0 +1,84 @@
+{
+  "id": "49256230",
+  "curso": "4°2°",
+  "nombre": "CARDOZO FRANCESCA ZARA",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "GGF": "TEP, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "33"
+      },
+      "materias": {
+        "IAF": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "NTI": "TEA, 10, ",
+        "LIT": "TEA, 9, ",
+        "TDO": "TEA, 8, ",
+        "SYA": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEA, 7, Intensifico 1° y 2° cuatrimestre en  diciembre ",
+        "MCS": "TEA, 9, ",
+        "SIC": "TEA, 9, ",
+        "GGF": "TEA, 7, "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "49256230"
+}
