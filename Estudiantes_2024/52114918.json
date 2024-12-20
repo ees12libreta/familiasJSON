@@ -1,0 +1,68 @@
+{
+  "id": "52114918",
+  "nombre": "GROSSI MURCIANO ALMA LUDMILA",
+  "turno": "TT",
+  "curso": "1°2°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "dni": "52114918",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "43",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "EAR": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "CNT": "TEP, , ",
+        "CSC": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "CSC": "TEP, , ",
+        "CNT": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "47",
+        "Hábiles": "175"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA"
+}
