@@ -1,0 +1,76 @@
+{
+  "id": "49985297",
+  "preceptor": "RYBARCZYK VALERIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "95"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "11"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "6"
+      }
+    }
+  },
+  "dni": "49985297",
+  "nombre": "DEANTONIO ZOE AILIN",
+  "turno": "TT"
+}
