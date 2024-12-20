@@ -1,0 +1,93 @@
+{
+  "id": "48761264",
+  "nombre": "VELAZQUEZ ROJAS BAUTISTA THIAGO OMAR",
+  "dni": "48761264",
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "33",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "IAF": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "TDO": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "SIC": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "NTI": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, 6, Intensifico 2do cuatrimestre  en  diciembre ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEP, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "27"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "BLG",
+        "curso": "3°1°",
+        "id": 1
+      }
+    ]
+  },
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM"
+}
