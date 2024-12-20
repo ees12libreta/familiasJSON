@@ -1,0 +1,85 @@
+{
+  "id": "49413446",
+  "dni": "49413446",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ],
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "ARAUJO CATALINA PILAR",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "SYA": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "TDO": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "TDO": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEP, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEP, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "52",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MCS": "TEA, 4, Intensifico 2° cuatrimestre  en diciembre ",
+        "SIC": "TEA, 7, ",
+        "GGF": "TEA, 7, Intensifico 1° cuatrimestre  en diciembre ",
+        "IGS": "TEA, 7, Intensifico 2° cuatrimestre  en diciembre ",
+        "NTI": "TEA, 7, Intensifico 2° cuatrimestre  en diciembre ",
+        "LIT": "TEP, , ",
+        "BLG": "TEA, 7, Intensifico 2° cuatrimestre  en diciembre ",
+        "SYA": "TEA, 7, Intensifico 2° cuatrimestre  en diciembre ",
+        "TDO": "TEA, 6, Intensifico 2° cuatrimestre  en diciembre ",
+        "HTR": "TEA, 8, ",
+        "IAF": "TEA, 7, ",
+        "EFI": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "70",
+        "Hábiles": "179"
+      }
+    }
+  },
+  "curso": "4°2°"
+}
