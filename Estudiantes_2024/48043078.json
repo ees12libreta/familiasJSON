@@ -1,0 +1,95 @@
+{
+  "id": "48043078",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "48043078",
+  "nombre": "MORGULIS LAMURA IÑAKI",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°1°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MCS": ", 4, intensificó",
+        "HTR": ", 6, intensifico",
+        "RTE": ", 4, intensifico",
+        "LIT": ", 6, intensificó",
+        "TYC": ", 8, ",
+        "PIC": ", 6, intensifico",
+        "EFI": ", 8, ",
+        "GGF": ", 7, intensifico",
+        "FIL": ", 7, intensifico"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FIL": "TED, , ",
+        "RTE": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PIC": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TED, , ",
+        "TYC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "PIC": "TEP, , ",
+        "TYC": "TEA, , ",
+        "FIL": "TEP, , ",
+        "RTE": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TED, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "folio": "63",
+        "calificacion": "6",
+        "curso": "5°1°",
+        "fecha": "23/04/2024",
+        "materia": "EPO",
+        "libro": "12",
+        "id": 1
+      }
+    ],
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "5°1°",
+        "materia": "MCS"
+      }
+    ]
+  }
+}
