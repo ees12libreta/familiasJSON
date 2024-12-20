@@ -1,0 +1,104 @@
+{
+  "id": "48976640",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "dni": "48976640",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "materia": "IGS",
+        "id": 1
+      }
+    ],
+    "Aprobadas": [
+      {
+        "folio": "11",
+        "libro": "12",
+        "calificacion": "6",
+        "materia": "IGS",
+        "fecha": "13/10/2024",
+        "curso": "2°1°",
+        "id": 1
+      }
+    ]
+  },
+  "nombre": "RODRIGUEZ CANO MARIO SAMUEL",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "HTR": "TEA, 7, ",
+        "GGF": "TEA, 6, Intensifico 2do cuatrimestre  en  diciembre ",
+        "EFI": "TEA, 10, ",
+        "TDO": "TEA, 7, ",
+        "IGS": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "MCS": "TEA, 8, ",
+        "BLG": "TEP, , ",
+        "NTI": "TEA, 8, Intensifico 2do cuatrimestre  en  diciembre ",
+        "LIT": "TEP, , ",
+        "IAF": "TEA, 8, ",
+        "SIC": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SYA": "TEP, , ",
+        "TDO": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "39"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "SIC": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "4°2°"
+}
