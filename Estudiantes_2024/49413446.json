@@ -1,0 +1,84 @@
+{
+  "id": "49413446",
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49413446",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "TDO": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "52",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEP, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IAF": "TEA, 7, ",
+        "GGF": "TEA, 7, Intensifico 1er cuatrimestre  en diciembre ",
+        "HTR": "TEA, 8, ",
+        "TDO": "TEA, 6, Intensifico 2do cuatrimestre  en diciembre ",
+        "SIC": "TEA, 7, ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "MCS": "TEA, 4, Intensifico 2do cuatrimestre  en diciembre ",
+        "BLG": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "EFI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "IGS": "TEA, 7, Intensifico 2do  cuatrimestre  en diciembre ",
+        "NTI": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "70"
+      }
+    }
+  },
+  "nombre": "ARAUJO CATALINA PILAR",
+  "curso": "4°2°"
+}
