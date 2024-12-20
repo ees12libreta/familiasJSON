@@ -1,0 +1,84 @@
+{
+  "id": "48698705",
+  "curso": "5°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "CORIA MARIA EMILIA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "EMM": "TEP, , ",
+        "DER": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PYC": "TEP, , ",
+        "GOR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "20"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "31",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "SIC": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EMM": "TEP, , ",
+        "DER": "TEP, , ",
+        "GOR": "TEA, 7, ",
+        "PYC": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "51",
+        "Hábiles": "139"
+      },
+      "materias": {
+        "PYC": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "SIC": "TEP, , ",
+        "GOR": "TEA, , ",
+        "LIT": "TEA, 7, Intensificación de Diciembre ",
+        "GGF": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "DER": "TEP, , ",
+        "EMM": "TEA, 6, Intensificación de Diciembre ",
+        "EFI": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "48698705",
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
