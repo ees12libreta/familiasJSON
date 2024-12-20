@@ -1,0 +1,76 @@
+{
+  "id": "49804838",
+  "nombre": "FLEISCHMAN FEDERICA LUDMILA",
+  "curso": "3°4°",
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49804838",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "103"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEA, 7, ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "198"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "4"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT"
+}
