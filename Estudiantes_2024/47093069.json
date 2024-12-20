@@ -1,0 +1,76 @@
+{
+  "id": "47093069",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "47093069",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PIC": "TEA, , ",
+        "FIL": "TEP, , ",
+        "EFI": "TEA, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , ",
+        "PIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "GGF": "TEA, 8, ",
+        "PIC": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "TYC": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "FIL": "TEP, , ",
+        "RTE": "TEA, 10, ",
+        "HTR": "TEA, 7, ",
+        "LIT": "TEA, 7, ",
+        "MCS": "TEP, 4, "
+      }
+    }
+  },
+  "nombre": "ARRUIZ BIANCA SOFIA",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°1°",
+  "turno": "TM"
+}
