@@ -1,0 +1,104 @@
+{
+  "id": "48807058",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "TDO": "TEP, , ",
+        "EFI": "TEA, , Intensifico 1er cuatrimestre, TEA",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "BLG": "TEP, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "GGF": "TEP, , ",
+        "LIT": "TEP, , ",
+        "SYA": "TEP, , ",
+        "IGS": "TED, , ",
+        "NTI": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "63"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre,TEA",
+        "IGS": "TEP, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "SYA": "TEA, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre, TEA"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IAF": "TEA, 4, Intensifico 2do cuatrimestre  en diciembre ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "IGS": "TED, , ",
+        "NTI": "TEA, 5, Intensifico 2do cuatrimestre  en diciembre ",
+        "EFI": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, 7, Intensifico 1er y 2do cuatrimestre  en diciembre ",
+        "TDO": "TEA, 7, Intensifico 1er y 2do cuatrimestre  en diciembre ",
+        "GGF": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "MCS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "95"
+      }
+    }
+  },
+  "nombre": "COLVERA MAGALI",
+  "dni": "48807058",
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "folio": "90",
+        "libro": "12",
+        "calificacion": "5",
+        "id": 1,
+        "fecha": "08/10/2024",
+        "curso": "3°1°",
+        "materia": "BLG"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "3°1°",
+        "id": 1
+      }
+    ]
+  },
+  "turno": "TM"
+}
