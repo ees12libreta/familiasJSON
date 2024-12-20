@@ -1,0 +1,94 @@
+{
+  "id": "49063249",
+  "turno": "TM",
+  "curso": "4°2°",
+  "nombre": "CROCCO DAMARIS AYLEN",
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "3°1°",
+        "id": 1
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "49063249",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAF": "TEP, , Intensifico  1er  cuatrimestre,  TEA",
+        "LIT": "TEP, , ",
+        "MCS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "32"
+      },
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "SIC": "TEA, 10, ",
+        "IAF": "TEA, 9, ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "GGF": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "HTR": "TEA, 7, ",
+        "NTI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "TDO": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "LIT": "TEP, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
