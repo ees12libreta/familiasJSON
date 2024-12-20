@@ -1,0 +1,98 @@
+{
+  "id": "46913452",
+  "curso": "4°2°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "TDO": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "EFI": "TEA, , ",
+        "LIT": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "NTI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "SIC": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "TDO": "TEA, 7, Intensifico  1er y 2docuatrimestre  en  diciembre ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, 8, ",
+        "LIT": "TEA, 7, ",
+        "SIC": "TEA, 9, ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, 8, ",
+        "NTI": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "MCS": "TEA, 8, "
+      }
+    }
+  },
+  "nombre": "SAUCEDO ALVARO VALENTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "46913452",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "folio": "83",
+        "fecha": "07/10/2024",
+        "materia": "GGF",
+        "id": 1,
+        "libro": "12",
+        "calificacion": "4",
+        "curso": "3°1°"
+      }
+    ]
+  }
+}
