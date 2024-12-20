@@ -1,0 +1,104 @@
+{
+  "id": "47461969",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "12",
+        "id": 1,
+        "materia": "BLG",
+        "fecha": "13/08/2024",
+        "curso": "3°1°",
+        "calificacion": "4",
+        "folio": "85"
+      }
+    ],
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "materia": "HTR",
+        "id": 1
+      }
+    ]
+  },
+  "preceptor": "ORFINO MARIANO",
+  "curso": "4°2°",
+  "dni": "47461969",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "IAF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEP, , ",
+        "NTI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "SYA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "SIC": "TEA, 8, ",
+        "TDO": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "LIT": "TEP, , ",
+        "SYA": "TEA, 7, Intensifico  2do cuatrimestre en diciembre ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, 4, Intensifico  2do cuatrimestre en diciembre ",
+        "GGF": "TEA, 5, Intensifico  1er y  2do cuatrimestre en diciembre ",
+        "BLG": "TEP, , ",
+        "NTI": "TEA, 4, Intensifico  2do cuatrimestre en diciembre ",
+        "HTR": "TEA, 4, Intensifico  2do cuatrimestre en diciembre "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "TDO": "TEP, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IAF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "CASTANO VALENTIN URIEL"
+}
