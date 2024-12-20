@@ -1,0 +1,80 @@
+{
+  "id": "48702418",
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "73",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "CCD": "TED, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TED, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TED, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TED, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "27"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TED, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TED, , ",
+        "CCD": "TED, , ",
+        "MTM": "TED, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "98"
+      }
+    }
+  },
+  "dni": "48702418",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "turno": "TM",
+  "nombre": "MATURANO ALFONSO GERONIMO BENJAMIN"
+}
