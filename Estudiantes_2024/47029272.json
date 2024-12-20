@@ -1,0 +1,70 @@
+{
+  "id": "47029272",
+  "curso": "6°1°",
+  "dni": "47029272",
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "FIL": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "RTE": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEA, , ",
+        "TYC": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "EFI": ", 8, ",
+        "IGS": ", 9, ",
+        "RTE": ", 8, ",
+        "TYC": ", 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "PIC": "TEP, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "RTE": "TEA, , ",
+        "FIL": "TEP, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "44"
+      }
+    }
+  },
+  "nombre": "D ARISTOTILE ABRIL AGOSTINA",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ]
+}
