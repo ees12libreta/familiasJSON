@@ -1,0 +1,68 @@
+{
+  "id": "52396059",
+  "dni": "52396059",
+  "curso": "1°2°",
+  "nombre": "REY VALENTINA CAMILA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "EAR": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 10, ",
+        "MTM": "TEA, 10, ",
+        "CSC": "TEP, , ",
+        "CNT": "TEA, 7, ",
+        "EFI": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "5"
+      },
+      "materias": {
+        "CSC": "TEP, , ",
+        "CCD": "TEA, 10, ",
+        "PLG": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "MTM": "TEA, 10, ",
+        "IGS": "TEA, 8, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "5"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
