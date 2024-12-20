@@ -1,0 +1,104 @@
+{
+  "id": "48976640",
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "turno": "TM",
+  "dni": "48976640",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , Intensifico  1er cuatrimestre,  TEA",
+        "BLG": "TEP, , ",
+        "NTI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "29"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IAF": "TEA, , ",
+        "SYA": "TEP, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEP, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "IGS": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "GGF": "TEA, 6, Intensifico 2do cuatrimestre  en  diciembre ",
+        "IAF": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "LIT": "TEP, , ",
+        "TDO": "TEA, 7, ",
+        "NTI": "TEA, 8, Intensifico 2do cuatrimestre  en  diciembre ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEA, 8, ",
+        "SIC": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "nombre": "RODRIGUEZ CANO MARIO SAMUEL",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "12",
+        "materia": "IGS",
+        "id": 1,
+        "calificacion": "6",
+        "fecha": "13/10/2024",
+        "folio": "11",
+        "curso": "2°1°"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "IGS",
+        "id": 1,
+        "curso": "3°1°"
+      }
+    ]
+  }
+}
