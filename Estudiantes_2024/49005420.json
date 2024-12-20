@@ -1,0 +1,97 @@
+{
+  "id": "49005420",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "87"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "SYA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PSI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEP, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , Intensifico 1er cuatrimestre",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEP, , Intensifico 1er cuatrimestre ",
+        "SYA": "TED, , ",
+        "IAF": "TEP, , ",
+        "PSI": "TEP, , Intensifico 1er cuatrimestre",
+        "LIT": "TEP, , Intensifico 1er cuatrimestre",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , Intensifico 1er cuatrimestre"
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "87",
+        "Inasistencias": "27"
+      },
+      "materias": {
+        "MCS": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "NTI": "TEA, 7, Intensifico  1er  cuatrimestre en diciembre ",
+        "IGS": "TED, , ",
+        "PSI": "TEP, , ",
+        "LIT": "TEA, 8, ",
+        "IAF": "TEP, , ",
+        "GGF": "TEA, 7, Intensifico  1er cuatrimestre en diciembre ",
+        "SYA": "TED, , ",
+        "BLG": "TEA, 7, "
+      }
+    }
+  },
+  "turno": "TM",
+  "nombre": "GALEANO GIAN LUCA",
+  "preceptor": "ORFINO MARIANO",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "3°1°",
+        "materia": "FQA",
+        "id": 1
+      },
+      {
+        "curso": "3°1°",
+        "materia": "PLG",
+        "id": 2
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "49005420",
+  "curso": "4°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO",
+    "PSI"
+  ]
+}
