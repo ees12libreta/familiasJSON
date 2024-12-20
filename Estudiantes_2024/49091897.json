@@ -1,0 +1,107 @@
+{
+  "id": "49091897",
+  "turno": "TM",
+  "curso": "4°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "libro": "12",
+        "folio": "83",
+        "id": 1,
+        "calificacion": "5",
+        "curso": "3°1°",
+        "fecha": "13/08/2024",
+        "materia": "GGF"
+      },
+      {
+        "materia": "FQA",
+        "folio": "14",
+        "curso": "2°1°",
+        "id": 2,
+        "libro": "12",
+        "fecha": "18/12/2024",
+        "calificacion": "4"
+      }
+    ],
+    "Adeuda": []
+  },
+  "nombre": "ATHANASSOPOULOS ALEJO STAQUIS",
+  "dni": "49091897",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "ORFINO MARIANO",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEP, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "SIC": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "MCS": "TEA, 4, Intensifico 2do cuatrimestre  en  diciembre ",
+        "TDO": "TEA, 5, Intensifico 2do cuatrimestre  en  diciembre ",
+        "EFI": "TEA, 10, ",
+        "NTI": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "IAF": "TEA, 4, Intensifico  1ery 2do cuatrimestre  en  diciembre ",
+        "LIT": "TEA, 7, ",
+        "BLG": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "GGF": "TEA, 7, ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , Intensifico 1er cuatrimestre,  TEA",
+        "GGF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IGS": "TEP, , ",
+        "SYA": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IAF": "TEP, , "
+      }
+    }
+  }
+}
