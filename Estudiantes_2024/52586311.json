@@ -1,0 +1,36 @@
+{
+  "id": "52586311",
+  "curso": "1°2°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "nombre": "SONEZ GUADALUPE EDTH",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "CNT": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "dni": "52586311",
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT"
+}
