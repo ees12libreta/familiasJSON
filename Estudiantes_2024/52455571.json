@@ -1,0 +1,68 @@
+{
+  "id": "52455571",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "175"
+      },
+      "materias": {
+        "CSC": "TEP, , ",
+        "PLG": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "MTM": "TEA, 10, ",
+        "EAR": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "CNT": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "EAR": "TEA, 7, ",
+        "CNT": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "CCD": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "MTM": "TEA, 10, ",
+        "PLG": "TEA, 7, ",
+        "CSC": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CNT": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CSC": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "FAVERO CAMPEON SANTIAGO",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "dni": "52455571",
+  "curso": "1°2°"
+}
