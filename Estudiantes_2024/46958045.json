@@ -1,0 +1,65 @@
+{
+  "id": "46958045",
+  "Pendientes": {},
+  "nombre": "DE LA O IVAN",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "PYC": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "EMM": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "MCS": "TEA, 7, ",
+        "SIC": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "IAQ": "TEA, 7, ",
+        "GOR": "TEA, 8, ",
+        "LIT": "TEA, 9, ",
+        "DER": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EMM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PYC": "TEA, , ",
+        "GOR": "TEA, , ",
+        "DER": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAQ": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "73"
+      }
+    }
+  },
+  "dni": "46958045",
+  "turno": "TT",
+  "preceptor": "LODEIRO LAURA",
+  "curso": "5°3°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ]
+}
