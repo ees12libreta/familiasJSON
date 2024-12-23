@@ -1,0 +1,76 @@
+{
+  "id": "50402067",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "28"
+      },
+      "materias": {
+        "FQA": "TED, , ",
+        "MTM": "TED, , ",
+        "PLG": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "HTR": "TEA, 10, ",
+        "EFI": "TED, , "
+      }
+    }
+  },
+  "nombre": "MENDOZA AMBAR",
+  "dni": "50402067",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°3°",
+  "turno": "TT"
+}
