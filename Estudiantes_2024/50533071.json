@@ -1,0 +1,62 @@
+{
+  "id": "50533071",
+  "turno": "TM",
+  "curso": "2°2°",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "50533071",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "PLG": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 6, Intensificó en dic"
+      }
+    }
+  },
+  "nombre": "ALBORNOZ CAMILA",
+  "preceptor": "SANDOVAL GILDA"
+}
