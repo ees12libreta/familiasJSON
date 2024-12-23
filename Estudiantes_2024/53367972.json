@@ -1,0 +1,86 @@
+{
+  "id": "53367972",
+  "curso": "3°3°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "22"
+      },
+      "materias": {
+        "PLG": "TEA, 9, ",
+        "FQA": "TEA, 9, ",
+        "MTM": "TED, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "HTR": "TEA, 7, ",
+        "IGS": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "53367972",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "id": 1,
+        "curso": "2°3°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "nombre": "CASTRO EVA INTI"
+}
