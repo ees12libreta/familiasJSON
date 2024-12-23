@@ -1,0 +1,80 @@
+{
+  "id": "49761103",
+  "curso": "3°1°",
+  "dni": "49761103",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , intensifico diciembre tea 5",
+        "CCD": "TEA, 8, ",
+        "MTM": "TEP, , intensifico diciembre tea 7",
+        "EAR": "TEP, , intensifico diciembre tea 5",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "9"
+      }
+    }
+  },
+  "nombre": "ABALOS JOAQUIN",
+  "turno": "TM"
+}
