@@ -1,0 +1,24 @@
+{
+  "id": "50533071",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50533071",
+  "turno": "TM",
+  "curso": "2°2°",
+  "nombre": "ALBORNOZ CAMILA",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
