@@ -1,0 +1,96 @@
+{
+  "id": "50415597",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "nombre": "QUINTANA MORENA",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 8, ",
+        "EAR": "TEA, 8, ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, 6, ",
+        "FQA": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "50415597",
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°2°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "curso": "1°1°",
+        "libro": "7",
+        "calificacion": "4",
+        "folio": "13",
+        "id": 1,
+        "materia": "PLG",
+        "fecha": "08/10/2024"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "curso": "1°1°",
+        "id": 1
+      }
+    ]
+  }
+}
