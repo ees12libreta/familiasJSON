@@ -1,0 +1,85 @@
+{
+  "id": "49599279",
+  "dni": "49599279",
+  "nombre": "SALINAS NAHIARA AZUL",
+  "curso": "2°4°",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 4, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "8"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "2"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "1°3°",
+        "id": 1,
+        "materia": "CSC"
+      }
+    ]
+  }
+}
