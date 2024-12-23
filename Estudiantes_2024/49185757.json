@@ -1,0 +1,82 @@
+{
+  "id": "49185757",
+  "turno": "TT",
+  "nombre": "BERARD OCTAVIO PABLO",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49185757",
+  "curso": "3°3°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "71"
+      },
+      "materias": {
+        "IGS": "TED, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TED, , ",
+        "CCD": "TED, , ",
+        "PLG": "TED, , ",
+        "EFI": "TEP, , ",
+        "CNT": "TEA, , ",
+        "GGF": "TED, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TED, , ",
+        "BLG": "TED, , ",
+        "MTM": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "153"
+      },
+      "materias": {
+        "CCD": "TED, , ",
+        "EAR": "TED, , ",
+        "HTR": "TED, , ",
+        "PLG": "TED, , ",
+        "CNT": "TEA, , ",
+        "GGF": "TED, , ",
+        "FQA": "TED, , ",
+        "EFI": "TED, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TED, , ",
+        "IGS": "TED, , ",
+        "BLG": "TED, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "82",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "PLG": "TED, , ",
+        "HTR": "TED, , ",
+        "GGF": "TED, , ",
+        "CNT": "TEA, , ",
+        "FQA": "TED, , ",
+        "EFI": "TED, , ",
+        "IGS": "TED, , ",
+        "CSC": "TEA, , ",
+        "CCD": "TED, , ",
+        "MTM": "TED, , ",
+        "EAR": "TED, , ",
+        "BLG": "TED, , "
+      }
+    }
+  }
+}
