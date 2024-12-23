@@ -1,0 +1,76 @@
+{
+  "id": "51129536",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "HTR": "TEA, 10, ",
+        "EAR": "TEA, 9, ",
+        "PLG": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "GGF": "TEA, 10, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "178"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "turno": "TT",
+  "curso": "2°3°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "DOTTORI CHIARA",
+  "dni": "51129536"
+}
