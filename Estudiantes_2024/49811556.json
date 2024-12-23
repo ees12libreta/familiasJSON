@@ -1,0 +1,86 @@
+{
+  "id": "49811556",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "dni": "49811556",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°3°",
+        "materia": "MTM"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°3°",
+  "nombre": "CHAFFARDON JOSEFINA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "FQA": "TEA, 8, ",
+        "PLG": "TEA, 7, ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 8, ",
+        "MTM": "TED, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "IGS": "TEA, 6, ",
+        "HTR": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "178"
+      }
+    }
+  }
+}
