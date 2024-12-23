@@ -1,0 +1,64 @@
+{
+  "id": "48460301",
+  "turno": "TT",
+  "curso": "5°3°",
+  "nombre": "PEROT GIOVANNI UZIEL",
+  "dni": "48460301",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "preceptor": "LODEIRO LAURA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "DER": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EMM": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "GOR": "TEA, , ",
+        "PYC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 7, ",
+        "LIT": "TEA, 7, ",
+        "DER": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "IAQ": "TEA, 6, ",
+        "SIC": "TEA, 8, ",
+        "GOR": "TEA, 9, ",
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "PYC": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "EMM": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  }
+}
