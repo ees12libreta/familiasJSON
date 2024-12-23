@@ -1,0 +1,84 @@
+{
+  "id": "48650548",
+  "preceptor": "LODEIRO LAURA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "HTR": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "GGF": "TEA, 10, ",
+        "PYC": "TEA, , ",
+        "SOC": "TEA, 7, ",
+        "EPO": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "CCS": "TEA, , ",
+        "MCS": "TEA, 8, ",
+        "EFI": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "0"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IAQ": "TEA, 8, ",
+        "EFI": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "EPO": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "MCS": "TEA, 10, ",
+        "SOC": "TEA, 10, ",
+        "LIT": "TEA, 7, ",
+        "CCS": "TEA, 9, ",
+        "PYC": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EMM": "TEA, , ",
+        "DER": "TEA, , ",
+        "PYC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "GOR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , "
+      }
+    }
+  },
+  "nombre": "HERNANDEZ VALENTINA",
+  "curso": "5°4°",
+  "turno": "TT",
+  "dni": "48650548"
+}
