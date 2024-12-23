@@ -1,0 +1,90 @@
+{
+  "id": "49243970",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "25"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "33"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 8, ",
+        "MTM": "TEP, , INTENSIFICO DICIEMBRE TEA  7"
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "56"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "4",
+        "folio": "11",
+        "libro": "12",
+        "curso": "2°1°",
+        "materia": "IGS",
+        "fecha": "13/10/2024",
+        "id": 1
+      }
+    ],
+    "Adeuda": []
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "nombre": "CATSOURIS JEREMIAS",
+  "dni": "49243970",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
