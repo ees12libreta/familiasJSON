@@ -1,0 +1,76 @@
+{
+  "id": "50530469",
+  "nombre": "GROH MARTINA",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "PLG": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "HTR": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "EAR": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "FQA": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      }
+    }
+  },
+  "curso": "2°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "50530469"
+}
