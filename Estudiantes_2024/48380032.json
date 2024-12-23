@@ -1,0 +1,90 @@
+{
+  "id": "48380032",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "NTI",
+        "curso": "4°1°",
+        "id": 1
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "48380032",
+  "turno": "TM",
+  "curso": "5°1°",
+  "nombre": "QUINTANA IANIERO NEHUEN JONAS NUN",
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "IAQ": "TEA, 8, ",
+        "LIT": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "CCS": "TEA, 7, ",
+        "EPO": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "SOC": "TEA, 7, intensificac. 1er cuatrimestre TEA",
+        "MCS": "TEA, 8, ",
+        "PYC": "TEA, 7, ",
+        "IGS": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "GGF": "TEA, 7, intensificacion 1er cuatrim. TEA"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SOC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "PYC": "TEA, , ",
+        "EPO": "TEP, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "26"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "MCS": "TEA, , ",
+        "CCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EPO": "TEA, , ",
+        "SOC": "TEA, , intensificac. 1er cuatrimestre TEA",
+        "EFI": "TEP, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , intensificacion 1er cuatrim. TEA"
+      }
+    }
+  }
+}
