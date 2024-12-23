@@ -1,0 +1,107 @@
+{
+  "id": "48997075",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "dni": "48997075",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "fecha": "07/10/2024",
+        "calificacion": "4",
+        "folio": "88",
+        "libro": "12",
+        "materia": "GGF"
+      },
+      {
+        "folio": "99",
+        "calificacion": "7",
+        "id": 2,
+        "fecha": "26/12/2024",
+        "libro": "12",
+        "curso": "3°1°",
+        "materia": "HTR"
+      }
+    ]
+  },
+  "nombre": "RIZZATO BRITEZ UMA NAHIARA",
+  "curso": "4°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "NTI": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEA, 6, Intensifico 2do cuatrimestre  en  diciembre ",
+        "MCS": "TEA, 7, ",
+        "SIC": "TEA, 8, ",
+        "TDO": "TEA, 7, ",
+        "LIT": "TEA, 5, Intensifico 2do cuatrimestre  en  diciembre ",
+        "EFI": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "SYA": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "SYA": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "TDO": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEP, , Intensifico 1er cuatrimestre,  TEA",
+        "SIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEP, , Intensifico 1er cuatrimestre",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "TDO": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IAF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  }
+}
