@@ -1,0 +1,44 @@
+{
+  "id": "48388121",
+  "dni": "48388121",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "PYC": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EMM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "DER": "TEA, , ",
+        "GOR": "TEA, , "
+      }
+    }
+  },
+  "nombre": "RAMOS MIA AYLEN",
+  "preceptor": "LODEIRO LAURA",
+  "turno": "TT",
+  "curso": "5°3°"
+}
