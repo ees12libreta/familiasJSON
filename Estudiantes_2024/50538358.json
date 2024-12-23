@@ -1,0 +1,77 @@
+{
+  "id": "50538358",
+  "preceptor": "SANDOVAL GILDA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°2°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EFI": "TEA, 9, ",
+        "CCD": "TEA, 9, ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "PLG": "TEA, 7, ",
+        "MTM": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "IGS": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {},
+  "turno": "TM",
+  "dni": "50538358",
+  "nombre": "NAJBLAT BENJAMIN"
+}
