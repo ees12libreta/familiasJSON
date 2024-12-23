@@ -1,0 +1,68 @@
+{
+  "id": "48880113",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ADRIEL MILENA SOFIA",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , intensifico en Diciembre TEA 7",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , Intensifico en Diciembre TEA 7",
+        "EFI": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "179"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "dni": "48880113",
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "materia": "GGF",
+        "id": 1,
+        "curso": "2°1°"
+      }
+    ]
+  }
+}
