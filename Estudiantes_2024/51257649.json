@@ -1,0 +1,52 @@
+{
+  "id": "51257649",
+  "turno": "TM",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "CNT": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "CNT": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "25"
+      }
+    }
+  },
+  "preceptor": "FONZO SANDRA",
+  "curso": "1°1°",
+  "dni": "51257649",
+  "nombre": "TULA JUSTINIANO TIZIANO GABRIEL"
+}
