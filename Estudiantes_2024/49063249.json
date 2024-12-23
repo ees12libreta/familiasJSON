@@ -1,0 +1,98 @@
+{
+  "id": "49063249",
+  "turno": "TM",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "fecha": "26/12/2024",
+        "folio": "99",
+        "calificacion": "7",
+        "curso": "3°1°",
+        "libro": "21",
+        "materia": "HTR"
+      }
+    ]
+  },
+  "curso": "4°2°",
+  "nombre": "CROCCO DAMARIS AYLEN",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "NTI": "TEA, 8, ",
+        "GGF": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "TDO": "TEP, , ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "IAF": "TEA, 9, ",
+        "BLG": "TEA, 7, ",
+        "SIC": "TEA, 10, ",
+        "MCS": "TEA, 8, ",
+        "LIT": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "TDO": "TEP, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "18"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "IAF": "TEP, , Intensifico  1er  cuatrimestre,  TEA",
+        "LIT": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MCS": "TEA, , ",
+        "SIC": "TEA, , ",
+        "TDO": "TEP, , "
+      }
+    }
+  },
+  "dni": "49063249"
+}
