@@ -1,0 +1,73 @@
+{
+  "id": "50096669",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "20"
+      },
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "CCD": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "PLG": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "50096669",
+  "curso": "3°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "SERRON MOYANO FIORELLA SOFIA",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "2°3°",
+        "materia": "BLG",
+        "id": 1
+      },
+      {
+        "curso": "2°4°",
+        "materia": "FQA",
+        "id": 2
+      }
+    ]
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT"
+}
