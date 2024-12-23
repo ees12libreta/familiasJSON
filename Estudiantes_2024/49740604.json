@@ -1,0 +1,86 @@
+{
+  "id": "49740604",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MTM",
+        "curso": "2°2°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "dni": "49740604",
+  "turno": "TM",
+  "nombre": "TERCEROS MELANY",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "GGF": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "15"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, 7, ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEP, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
