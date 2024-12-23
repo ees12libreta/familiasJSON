@@ -1,0 +1,68 @@
+{
+  "id": "52451106",
+  "turno": "TM",
+  "dni": "52451106",
+  "curso": "1°1°",
+  "nombre": "BRITEZ ESPINOLA MARTIN BALTHAZAR",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "CSC": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, 7, ",
+        "CNT": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , ",
+        "CSC": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CSC": "TEA, , ",
+        "CNT": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "29"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "FONZO SANDRA"
+}
