@@ -1,0 +1,76 @@
+{
+  "id": "50402148",
+  "nombre": "GAVIERO ZOE",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°3°",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50402148",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TED, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 9, ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TED, , ",
+        "EAR": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "FQA": "TEA, 8, ",
+        "CCD": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "36",
+        "Hábiles": "178"
+      }
+    }
+  }
+}
