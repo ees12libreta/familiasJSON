@@ -1,0 +1,77 @@
+{
+  "id": "50761376",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {},
+  "curso": "2°2°",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "15"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "IGS": "TEA, 5, Intensificó en dic",
+        "EFI": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "PLG": "TEA, 7, ",
+        "CCD": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "EAR": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50761376",
+  "turno": "TM",
+  "nombre": "MENDOZA VALERIA"
+}
