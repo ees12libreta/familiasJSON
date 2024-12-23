@@ -1,0 +1,80 @@
+{
+  "id": "49374144",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "RICARDI UMA AGOSTINA",
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "76"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "21"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 7, ",
+        "CCD": "TEP, 7, INTENSIFICO DICIEMBRE TEA 7",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEP, , Intensifico Diciembre TEA 7",
+        "BLG": "TEA, 8, ",
+        "PLG": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "MTM": "TEA, 7, INTENSIFICO 1ER CUATRIMESTRE TEA"
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "curso": "3°1°",
+  "dni": "49374144"
+}
