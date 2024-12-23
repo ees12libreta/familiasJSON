@@ -1,0 +1,76 @@
+{
+  "id": "49590578",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "42"
+      },
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "GGF": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 8, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "139",
+        "Inasistencias": "54"
+      },
+      "materias": {
+        "EAR": "TEA, 9, ",
+        "CCD": "TEA, 8, ",
+        "BLG": "TEA, 6, Intensificación Diciembre",
+        "EFI": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "IGS": "TEA, 5, Intensificación Diciembre",
+        "FQA": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, 8, "
+      }
+    }
+  },
+  "curso": "3°2°",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "nombre": "ARAOZ MAXIMO AUGUSTO",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49590578"
+}
