@@ -1,0 +1,72 @@
+{
+  "id": "52030929",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "IGS": "TEA, 6, intensifico en diciembre\n",
+        "CSC": "TEA, 7, ",
+        "CNT": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "FONZO SANDRA",
+  "nombre": "BALVIDARES LAURA AGUSTINA",
+  "dni": "52030929",
+  "turno": "TM",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°1°"
+}
