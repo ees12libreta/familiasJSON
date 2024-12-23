@@ -1,0 +1,80 @@
+{
+  "id": "49697826",
+  "turno": "TT",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "nombre": "ESCARIS OROZCO ROCIO",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49697826",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°4°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "178"
+      }
+    }
+  }
+}
