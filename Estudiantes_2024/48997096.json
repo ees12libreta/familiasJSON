@@ -1,0 +1,85 @@
+{
+  "id": "48997096",
+  "curso": "3°2°",
+  "nombre": "VRANKEN NEHUEN OMAR",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "turno": "TM",
+  "dni": "48997096",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°2°",
+        "id": 1,
+        "materia": "HTR"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "36",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MTM": "TEA, 8, Intensificación Diciembre",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 9, Intensificación Diciembre"
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
