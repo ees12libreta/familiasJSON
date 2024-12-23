@@ -1,0 +1,76 @@
+{
+  "id": "50206095",
+  "dni": "50206095",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "nombre": "WEIS GONZALO ARIEL",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "PLG": "TED, , ",
+        "CCD": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "IGS": "TEA, 4, ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "32"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "15"
+      }
+    }
+  },
+  "curso": "3°4°"
+}
