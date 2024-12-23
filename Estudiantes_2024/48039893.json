@@ -1,0 +1,96 @@
+{
+  "id": "48039893",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "MARQUES RAMIRO NICOLAS",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "curso": "5°1°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "dni": "48039893",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "IAQ": "TEP, , ",
+        "PYC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "HTR": "TEP, , ",
+        "SOC": "TEP, , intensif. 1er cuatrimestre TEA",
+        "EPO": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "EAR": "TEP, , ",
+        "CCS": "TEA, , Intensificacion 1er cuatrimestre TEA",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "25"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TED, , ",
+        "PYC": "TEP, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "CCS": "TEP, , ",
+        "SOC": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCS": "TEA, 7, Intensificacion 1er cuatrimestre TEA",
+        "FQA": "TEA, , ",
+        "PYC": "TEP, , INTENSIFICO DICIEMBRE 4",
+        "EAR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "MCS": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, 7, Intensificacion 1er cuatrimestre TEA",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE 5",
+        "SOC": "TEP, , intensif. 1er cuatrimestre TEA",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EPO": "TEP, , INTENSIFICO DICIEMBRE TEA 7"
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TM"
+}
