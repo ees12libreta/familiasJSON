@@ -1,0 +1,80 @@
+{
+  "id": "50011631",
+  "nombre": "ARANCIBIA CALVI ZOE SELENE",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "6"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "76"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , INTENSIFO EN DICIEMBRE TEA 7",
+        "MTM": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "PLG": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "FQA": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "turno": "TM",
+  "dni": "50011631"
+}
