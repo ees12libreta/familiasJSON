@@ -1,0 +1,107 @@
+{
+  "id": "49074553",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "IAF": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "GGF": "TEA, 7, Intensifico 1er cuatrimestre  en diciembre ",
+        "EFI": "TEA, 8, ",
+        "NTI": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, 5, Intensifico 1er y 2do cuatrimestre  en diciembre ",
+        "BLG": "TEP, , ",
+        "TDO": "TEP, , ",
+        "SIC": "TEA, 7, Intensifico 1er y 2do cuatrimestre  en diciembre ",
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en diciembre "
+      },
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "76"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "SYA": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IAF": "TEP, , ",
+        "SIC": "TEP, , Intensifico 2do cuatrimestre, TEA",
+        "GGF": "TEA, , ",
+        "NTI": "TEP, , ",
+        "TDO": "TEA, , ",
+        "SYA": "TEP, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "51",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "id": 1,
+        "folio": "85",
+        "calificacion": "4",
+        "curso": "3°1°",
+        "libro": "12",
+        "materia": "BLG",
+        "fecha": "13/08/2024"
+      },
+      {
+        "curso": "3°1°",
+        "id": 2,
+        "fecha": "25/12/2024",
+        "calificacion": "6",
+        "libro": "12",
+        "folio": "99",
+        "materia": "HTR"
+      }
+    ],
+    "Adeuda": []
+  },
+  "nombre": "ABAD MAITENA JAZMIN",
+  "curso": "4°2°",
+  "preceptor": "ORFINO MARIANO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49074553",
+  "turno": "TM"
+}
