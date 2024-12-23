@@ -1,0 +1,68 @@
+{
+  "id": "50364419",
+  "dni": "50364419",
+  "curso": "1°1°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TM",
+  "preceptor": "FONZO SANDRA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CSC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "PLG": "TEA, 9, ",
+        "CSC": "TEA, 8, ",
+        "EFI": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "CNT": "TEA, 10, ",
+        "EAR": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CNT": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    }
+  },
+  "nombre": "VILLORDO MILAGROS VICTORIA"
+}
