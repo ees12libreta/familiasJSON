@@ -1,0 +1,92 @@
+{
+  "id": "48698778",
+  "curso": "5°1°",
+  "turno": "TM",
+  "nombre": "ARANCIBIA CALVI BERENICE AGOSTINA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "dni": "48698778",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "13"
+      },
+      "materias": {
+        "SOC": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PYC": "TEA, , ",
+        "MTM": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EPO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "SOC": "TEA, , ",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "MTM": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "PYC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCS": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN"
+}
