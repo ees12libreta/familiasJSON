@@ -1,0 +1,85 @@
+{
+  "id": "51060007",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°4°",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "19"
+      },
+      "materias": {
+        "EAR": "TEA, 9, ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "51060007",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "1°3°",
+        "materia": "CNT"
+      }
+    ]
+  },
+  "nombre": "BARBOSA MORENO LAUTARO WALTER"
+}
