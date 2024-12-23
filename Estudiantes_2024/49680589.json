@@ -1,0 +1,76 @@
+{
+  "id": "49680589",
+  "nombre": "ASTRAIN TEJEDOR MAXIMO ALEJANDRO",
+  "dni": "49680589",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "103"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "46",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "CCD": "TEA, 4, ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "FQA": "TEA, 4, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    }
+  },
+  "curso": "3°3°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
