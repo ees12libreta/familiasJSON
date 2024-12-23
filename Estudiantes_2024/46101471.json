@@ -1,0 +1,65 @@
+{
+  "id": "46101471",
+  "curso": "5°4°",
+  "dni": "46101471",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAQ": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "GOR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SOC": "TEA, , ",
+        "CCS": "TEA, , ",
+        "EMM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "DER": "TEA, , ",
+        "MCS": "TEA, , ",
+        "PYC": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EPO": "TEA, 8, ",
+        "MCS": "TEA, 9, ",
+        "LIT": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "HTR": "TEP, , ",
+        "SOC": "TEA, 10, ",
+        "CCS": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "PYC": "TEA, 8, ",
+        "IAQ": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "18"
+      }
+    }
+  },
+  "nombre": "VILLALBA MALENA JAZMIN",
+  "turno": "TT",
+  "preceptor": "LODEIRO LAURA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ]
+}
