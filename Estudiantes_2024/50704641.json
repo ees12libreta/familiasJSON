@@ -1,0 +1,77 @@
+{
+  "id": "50704641",
+  "dni": "50704641",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 10, ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "BLG": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "HTR": "TEA, 10, ",
+        "PLG": "TEA, 8, ",
+        "FQA": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "178"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "12"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {},
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°3°",
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "nombre": "LOAIZA THIAGO"
+}
