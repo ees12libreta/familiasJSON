@@ -1,0 +1,77 @@
+{
+  "id": "49590672",
+  "Pendientes": {},
+  "dni": "49590672",
+  "curso": "3°1°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "CCD": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "MTM": "TEA, 8, ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "GGF": "TEA, 7, ",
+        "PLG": "TEA, 8, ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "74"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ABREGU CASAS FLORENCIA AGUSTINA",
+  "turno": "TM"
+}
