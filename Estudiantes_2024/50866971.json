@@ -1,0 +1,76 @@
+{
+  "id": "50866971",
+  "dni": "50866971",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , TEA",
+        "HTR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEP, , TEA"
+      },
+      "asistencia": {
+        "Inasistencias": "25",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "HTR": "TEA, 7, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "curso": "2°1°",
+  "nombre": "ACEVEDO WEIS CAROLINA",
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
