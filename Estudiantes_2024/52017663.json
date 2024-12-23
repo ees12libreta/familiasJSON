@@ -1,0 +1,76 @@
+{
+  "id": "52017663",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "HTR": "TEA, 9, ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 8, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "PLG": "TEA, 8, ",
+        "GGF": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "11"
+      }
+    }
+  },
+  "nombre": "SERRANO LUCIA VALENTINA",
+  "dni": "52017663",
+  "curso": "3°3°",
+  "preceptor": "RYBARCZYK VALERIA"
+}
