@@ -1,0 +1,58 @@
+{
+  "id": "50901676",
+  "dni": "50901676",
+  "nombre": "BREY AXEL GABRIEL",
+  "curso": "2°4°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "MTM": "TEA, 10, ",
+        "CCD": "TEA, 10, ",
+        "PLG": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, 8, ",
+        "HTR": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "178"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
