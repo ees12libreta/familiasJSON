@@ -1,0 +1,91 @@
+{
+  "id": "50259346",
+  "turno": "TM",
+  "dni": "50259346",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°1°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "curso": "1°1°",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "curso": "2°1°",
+        "materia": "MTM"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "nombre": "COSTA SANTIAGO EZEQUIEL",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , INTENSIFICO DICIEMBRE TEA 6",
+        "EAR": "TEP, , ",
+        "CCD": "TEP, , INTENSIFICO DICIEMBRE TEA",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "BLG": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN"
+}
