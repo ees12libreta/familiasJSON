@@ -1,0 +1,80 @@
+{
+  "id": "49741467",
+  "curso": "3°1°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "turno": "TM",
+  "dni": "49741467",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "GALERTI GONZALO BAUTISTA",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "16"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , INTENSIFICO DICIEMBRE 7",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 8, ",
+        "EAR": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "5"
+      }
+    }
+  }
+}
