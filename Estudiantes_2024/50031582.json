@@ -1,0 +1,77 @@
+{
+  "id": "50031582",
+  "Pendientes": {},
+  "dni": "50031582",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "turno": "TM",
+  "nombre": "ATTILA VALENTINA SOFIA",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "MTM": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "PLG": "TEA, 9, ",
+        "CCD": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE TEA 7"
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "21"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  }
+}
