@@ -1,0 +1,76 @@
+{
+  "id": "50717538",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "19"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "30",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "HTR": "TEA, 10, ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "PLG": "TEA, 8, ",
+        "FQA": "TEA, 7, "
+      }
+    }
+  },
+  "curso": "2°3°",
+  "turno": "TT",
+  "nombre": "MONEZUELAS KIARA",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50717538"
+}
