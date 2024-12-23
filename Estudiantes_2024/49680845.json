@@ -1,0 +1,76 @@
+{
+  "id": "49680845",
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "76"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , intensificación 1 cuat.  TEA",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "PLG": "TEP, , INTENSIFICO DICIEMBRE TEA 6",
+        "MTM": "TEA, 9, ",
+        "CCD": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49680845",
+  "nombre": "PALACIOS ALMA CLEMENTINA"
+}
