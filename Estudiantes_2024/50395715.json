@@ -1,0 +1,76 @@
+{
+  "id": "50395715",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "dni": "50395715",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 6, Intensificación Diciembre",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 4, ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, 8, ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "40"
+      },
+      "materias": {
+        "EAR": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 8, "
+      }
+    }
+  },
+  "nombre": "VILLAN CORONEL BENJAMIN EMANUEL"
+}
