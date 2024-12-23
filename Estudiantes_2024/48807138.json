@@ -1,0 +1,90 @@
+{
+  "id": "48807138",
+  "turno": "TM",
+  "curso": "3°1°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "2°1°",
+        "id": 1
+      },
+      {
+        "curso": "2°1°",
+        "id": 2,
+        "materia": "MTM"
+      }
+    ]
+  },
+  "dni": "48807138",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "76"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "PLG": "TEA, , INTENSIFICO 1ER CUATRIMESTRE TEA",
+        "CCD": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "29",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "ROJAS TANIA ABIGAIL",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
