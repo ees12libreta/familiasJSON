@@ -1,0 +1,98 @@
+{
+  "id": "49063249",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "dni": "49063249",
+  "preceptor": "ORFINO MARIANO",
+  "nombre": "CROCCO DAMARIS AYLEN",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "7",
+        "id": 1,
+        "materia": "HTR",
+        "fecha": "19/12/2024",
+        "folio": "95",
+        "libro": "12",
+        "curso": "3°1°"
+      }
+    ],
+    "Adeuda": []
+  },
+  "curso": "4°2°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "SYA": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre ",
+        "MCS": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "SIC": "TEA, 10, ",
+        "TDO": "TEP, , ",
+        "IAF": "TEA, 9, ",
+        "LIT": "TEP, , ",
+        "NTI": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 7, Intensifico 2do cuatrimestre  en  diciembre "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "179"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEP, , ",
+        "IAF": "TEP, , Intensifico  1er  cuatrimestre,  TEA",
+        "SYA": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "TDO": "TEP, , ",
+        "MCS": "TEA, , ",
+        "SYA": "TEP, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "turno": "TM"
+}
