@@ -1,0 +1,96 @@
+{
+  "id": "48927215",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°2°",
+        "id": 1,
+        "materia": "BLG"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "curso": "1°1°",
+        "calificacion": "5",
+        "libro": "7",
+        "fecha": "16/04/2024",
+        "folio": "4",
+        "materia": "CSC"
+      }
+    ]
+  },
+  "dni": "48927215",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "nombre": "ROMERO MORENA JAZMIN",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "MTM": "TED, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TED, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TED, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TED, , ",
+        "EAR": "TED, , ",
+        "CCD": "TED, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "29"
+      },
+      "materias": {
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TED, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "99"
+      },
+      "materias": {
+        "GGF": "TED, , ",
+        "EAR": "TED, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TED, , ",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TED, , ",
+        "CCD": "TED, , "
+      }
+    }
+  }
+}
