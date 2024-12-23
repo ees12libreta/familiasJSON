@@ -1,0 +1,79 @@
+{
+  "id": "48879679",
+  "preceptor": "RYBARCZYK VALERIA",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "curso": "3°3°",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "54",
+        "Hábiles": "178"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "30"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "dni": "48879679",
+  "nombre": "DIAZ LUCIANA VICTORIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
