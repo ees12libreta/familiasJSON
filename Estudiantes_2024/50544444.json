@@ -1,0 +1,86 @@
+{
+  "id": "50544444",
+  "curso": "2°4°",
+  "dni": "50544444",
+  "nombre": "CARDOZO LUCIANO AGUSTIN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEP, , ",
+        "CCD": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "103"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "CSC",
+        "curso": "1°3°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT"
+}
