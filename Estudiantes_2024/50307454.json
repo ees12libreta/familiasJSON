@@ -1,0 +1,76 @@
+{
+  "id": "50307454",
+  "nombre": "BRITEZ ESPINOLA MATEO JOAQUIN",
+  "turno": "TM",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "35",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "BLG": "TEA, 6, Intensificación Diciembre",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "HTR": "TEA, 8, ",
+        "MTM": "TEA, 7, "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "dni": "50307454",
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
