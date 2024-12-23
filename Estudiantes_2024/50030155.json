@@ -1,0 +1,76 @@
+{
+  "id": "50030155",
+  "dni": "50030155",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 7, Intensificación Diciembre",
+        "BLG": "TEA, 8, ",
+        "MTM": "TEP, , ",
+        "HTR": "TEA, 7, Intensificación Diciembre",
+        "CCD": "TEA, 4, Intensificación Diciembre",
+        "EAR": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "GGF": "TEA, 8, ",
+        "FQA": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "nombre": "MORGULIS LAMURA NICANOR"
+}
