@@ -1,0 +1,76 @@
+{
+  "id": "51049926",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "43"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EFI": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "dni": "51049926",
+  "nombre": "PEREYRA ANALIA"
+}
