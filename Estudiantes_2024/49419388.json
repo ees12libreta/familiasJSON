@@ -1,0 +1,107 @@
+{
+  "id": "49419388",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IGS": "TEP, , Intensifico 1er cuatrimestre, TEA",
+        "IAF": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "TDO": "TEP, , ",
+        "NTI": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "TDO": "TEP, , ",
+        "IGS": "TEP, , Intensifico 1er cuatrimestre",
+        "SYA": "TEA, , ",
+        "SIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "9"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "TDO": "TEA, 6, Intensifico  1er y 2docuatrimestre  en  diciembre ",
+        "LIT": "TEA, 7, ",
+        "SIC": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "IAF": "TEA, 8, ",
+        "SYA": "TEA, 9, ",
+        "NTI": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "HTR": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "179"
+      }
+    }
+  },
+  "curso": "4°2°",
+  "dni": "49419388",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "fecha": "27/06/2024",
+        "calificacion": "4",
+        "libro": "12",
+        "id": 1,
+        "materia": "BLG",
+        "curso": "3°1°",
+        "folio": "82"
+      },
+      {
+        "libro": "12",
+        "curso": "3°1°",
+        "calificacion": "4",
+        "materia": "MTM",
+        "id": 2,
+        "fecha": "25/12/2024",
+        "folio": "94"
+      }
+    ]
+  },
+  "turno": "TM",
+  "nombre": "DIAZ DANTE CATRIEL",
+  "preceptor": "ORFINO MARIANO"
+}
