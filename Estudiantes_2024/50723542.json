@@ -1,0 +1,76 @@
+{
+  "id": "50723542",
+  "curso": "2°1°",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "HTR": "TEA, 4, intensificó en dic",
+        "EAR": "TEA, 7, ",
+        "GGF": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "FQA": "TEA, 7, ",
+        "BLG": "TED, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , "
+      }
+    }
+  },
+  "nombre": "ZERRIZUELA JOAQUIN",
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "dni": "50723542",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
