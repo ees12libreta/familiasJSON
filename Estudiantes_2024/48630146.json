@@ -1,0 +1,86 @@
+{
+  "id": "48630146",
+  "curso": "3°4°",
+  "nombre": "RABAGO TOBIAS URIEL",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TED, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "39"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "63",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "MTM": "TEA, 5, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "FQA": "TEP, , ",
+        "EFI": "TED, , ",
+        "CCD": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "2°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "48630146",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
