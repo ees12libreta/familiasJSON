@@ -1,0 +1,107 @@
+{
+  "id": "48706832",
+  "nombre": "DAUJOTAS IBANEZ JEREMIAS ELIEL",
+  "preceptor": "VILLAR CRISTIAN",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "EPO": "TEA, , ",
+        "MTM": "TEA, , ",
+        "LIT": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "CCS": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SOC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EAR": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GGF": "TEA, 7, ",
+        "MCS": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "IAQ": "TEP, , INTENSIFICO DICIEMBRE TEA 6",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "SOC": "TEA, 7, ",
+        "PYC": "TEA, 7, ",
+        "EPO": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCS": "TEA, 7, ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "CCS": "TEA, , ",
+        "SOC": "TEA, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "PYC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EPO": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "5°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "curso": "3°1°",
+        "id": 1
+      },
+      {
+        "materia": "PSI",
+        "curso": "4°1°",
+        "id": 2
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "48706832"
+}
