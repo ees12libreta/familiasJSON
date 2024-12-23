@@ -1,0 +1,79 @@
+{
+  "id": "50074366",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "turno": "TM",
+  "dni": "50074366",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "14"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEP, , INTENSIFICO DICIEMBRE TEA 6",
+        "EAR": "TEP, , INTENSIFICO DICIEMBRE TEA 5",
+        "PLG": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "HTR": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "EFI": "TEA, 7, ",
+        "CCD": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "MTM": "TEA, 9, ",
+        "GGF": "TEA, 7, ",
+        "FQA": "TEA, , INTENSIFICO DICIEMBRE TEA 7"
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "76"
+      }
+    }
+  },
+  "curso": "3°1°",
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "JEREZ PRISCILA ABRIL"
+}
