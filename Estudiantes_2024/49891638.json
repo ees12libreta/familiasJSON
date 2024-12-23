@@ -1,0 +1,76 @@
+{
+  "id": "49891638",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°2°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, 8, ",
+        "EAR": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "CCD": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "16"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "9"
+      }
+    }
+  },
+  "turno": "TM",
+  "dni": "49891638",
+  "nombre": "BALVIDARES ERNESTINA MAGALI"
+}
