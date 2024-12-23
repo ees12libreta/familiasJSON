@@ -1,0 +1,69 @@
+{
+  "id": "48219927",
+  "curso": "5°4°",
+  "turno": "TT",
+  "dni": "48219927",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "EPO": "TEA, , ",
+        "GOR": "TEA, , ",
+        "SIC": "TEA, , ",
+        "DER": "TEA, , ",
+        "CCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EMM": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "SOC": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, 10, ",
+        "PYC": "TEA, 7, ",
+        "GGF": "TEA, 9, ",
+        "CCS": "TEA, 8, ",
+        "LIT": "TEA, 10, ",
+        "MCS": "TEA, 7, ",
+        "HTR": "TEA, 9, ",
+        "SOC": "TEA, 10, ",
+        "IAQ": "TEA, 9, ",
+        "EFI": "TEA, 10, ",
+        "EPO": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "nombre": "BAEZ THIAGO HERNAN",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "preceptor": "LODEIRO LAURA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ]
+}
