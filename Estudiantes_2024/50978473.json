@@ -1,0 +1,58 @@
+{
+  "id": "50978473",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "50978473",
+  "nombre": "GIL BARRERA JESUS",
+  "turno": "TT",
+  "curso": "2°3°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "23"
+      },
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TED, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "FQA": "TED, , ",
+        "GGF": "TEA, 7, ",
+        "EAR": "TEA, 10, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
