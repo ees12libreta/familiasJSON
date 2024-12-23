@@ -1,0 +1,76 @@
+{
+  "id": "50226602",
+  "turno": "TM",
+  "dni": "50226602",
+  "curso": "3°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "VILLAR CRISTIAN",
+  "nombre": "BIUDES THIAGO AGUSTIN",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "CCD": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "5"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "HTR": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , INTENSIFICO DICIEMBRE TEA 5",
+        "CCD": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "EAR": "TEA, 7, ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "179"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "76",
+        "Inasistencias": "11"
+      }
+    }
+  }
+}
