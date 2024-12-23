@@ -1,0 +1,77 @@
+{
+  "id": "51166719",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "SANCHEZ RAMIREZ ESTEFANO",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "PLG": "TEA, 10, ",
+        "FQA": "TEA, 9, ",
+        "CCD": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "MTM": "TEA, 10, ",
+        "HTR": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "45",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "51166719",
+  "turno": "TM",
+  "curso": "2°2°",
+  "Pendientes": {}
+}
