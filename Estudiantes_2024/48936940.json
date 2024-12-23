@@ -1,0 +1,76 @@
+{
+  "id": "48936940",
+  "curso": "2°3°",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "48936940",
+  "nombre": "ARAUJO DHIAGO",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "25"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "63",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "CCD": "TED, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TED, , ",
+        "FQA": "TED, , ",
+        "GGF": "TED, , ",
+        "BLG": "TED, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TED, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "EFI": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
