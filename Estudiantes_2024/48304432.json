@@ -1,0 +1,96 @@
+{
+  "id": "48304432",
+  "dni": "48304432",
+  "curso": "3°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TED, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "38"
+      },
+      "materias": {
+        "EFI": "TED, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "58",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "FQA": "TEA, 5, ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEA, 4, ",
+        "GGF": "TEP, , ",
+        "EFI": "TED, , ",
+        "MTM": "TED, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°4°",
+        "id": 1,
+        "materia": "PLG"
+      },
+      {
+        "materia": "HTR",
+        "id": 2,
+        "curso": "2°4°"
+      },
+      {
+        "curso": "2°4°",
+        "materia": "IGS",
+        "id": 3
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "MARTINEZ DYLAN JUTIEL",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT"
+}
