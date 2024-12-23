@@ -1,0 +1,76 @@
+{
+  "id": "49429349",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "GONZALEZ ROMAN EZEQUIEL",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "GGF": "TEA, 4, "
+      },
+      "asistencia": {
+        "Inasistencias": "35",
+        "Hábiles": "178"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49429349",
+  "turno": "TT",
+  "curso": "2°4°"
+}
