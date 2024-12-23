@@ -1,0 +1,52 @@
+{
+  "id": "52644670",
+  "dni": "52644670",
+  "curso": "1°1°",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "PLG": "TEA, , ",
+        "CSC": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "CNT": "TEP, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "47"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "36"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "CNT": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "CSC": "TEA, , ",
+        "PLG": "TEP, , "
+      }
+    }
+  },
+  "nombre": "MALLOU AGUISTINA ISABELLA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "FONZO SANDRA"
+}
