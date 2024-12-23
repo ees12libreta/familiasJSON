@@ -1,0 +1,90 @@
+{
+  "id": "49308293",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "46",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, 4, ",
+        "EAR": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "PLG": "TEA, 5, ",
+        "MTM": "TED, , ",
+        "BLG": "TEA, 7, "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°3°",
+        "id": 1,
+        "materia": "PLG"
+      },
+      {
+        "curso": "2°3°",
+        "materia": "BLG",
+        "id": 2
+      }
+    ]
+  },
+  "dni": "49308293",
+  "preceptor": "RYBARCZYK VALERIA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°3°",
+  "nombre": "BRITO VALENTIN ESTEBAN"
+}
