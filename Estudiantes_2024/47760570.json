@@ -1,0 +1,95 @@
+{
+  "id": "47760570",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ],
+  "nombre": "LAMARI PATRICIO LUCA",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CCS": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "SOC": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEP, , INTENSIFICO DICIEMBRE TEA 6",
+        "LIT": "TED, , ",
+        "GGF": "TEP, , INTENSIFICO DICIEMBRE TEA 7",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, , ",
+        "PYC": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IAQ": "TEP, , ",
+        "SOC": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PYC": "TEP, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCS": "TEP, , ",
+        "EPO": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "CCS": "TEA, , ",
+        "EPO": "TEP, , ",
+        "PYC": "TEP, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TED, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "SOC": "TEP, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "37",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°1°",
+        "materia": "MTM"
+      },
+      {
+        "materia": "IGS",
+        "curso": "4°1°",
+        "id": 2
+      }
+    ],
+    "Aprobadas": []
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "5°1°",
+  "dni": "47760570"
+}
