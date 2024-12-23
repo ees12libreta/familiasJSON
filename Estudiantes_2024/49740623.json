@@ -1,0 +1,80 @@
+{
+  "id": "49740623",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "76"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "BLG": "TEA, 9, ",
+        "EAR": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "PLG": "TEA, 9, ",
+        "FQA": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "18"
+      }
+    }
+  },
+  "preceptor": "VILLAR CRISTIAN",
+  "curso": "3°1°",
+  "nombre": "VALDEZ SCHIARITTI MIA SOLEDAD",
+  "dni": "49740623",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  }
+}
