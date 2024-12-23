@@ -1,0 +1,76 @@
+{
+  "id": "50157497",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "dni": "50157497",
+  "curso": "3°2°",
+  "turno": "TM",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EAR": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "MTM": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "FQA": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "PLG": "TEA, 10, ",
+        "CCD": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "2"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MTM": "TEA, 10, ",
+        "EAR": "TEA, 8, ",
+        "FQA": "TEA, 10, ",
+        "PLG": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "CCD": "TEA, 9, "
+      }
+    }
+  },
+  "nombre": "CASTILLO CELINA VICTORIA"
+}
