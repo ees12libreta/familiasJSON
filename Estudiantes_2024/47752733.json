@@ -1,0 +1,64 @@
+{
+  "id": "47752733",
+  "dni": "47752733",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "SIC": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "PYC": "TEA, 8, ",
+        "EMM": "TEA, 8, ",
+        "LIT": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "GOR": "TEA, 10, ",
+        "IAQ": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "IGS": "TEA, 9, ",
+        "DER": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "8"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "DER": "TEP, , ",
+        "LIT": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "EMM": "TEA, 10, ",
+        "HTR": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "SIC": "TEA, 8, ",
+        "IAQ": "TEA, 8, ",
+        "GOR": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "PYC": "TEA, 8, "
+      }
+    }
+  },
+  "curso": "5°3°",
+  "turno": "TT",
+  "preceptor": "LODEIRO LAURA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "PINTOS RAMIRO LEON"
+}
