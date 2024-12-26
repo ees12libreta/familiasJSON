@@ -1,0 +1,52 @@
+{
+  "id": "52035210",
+  "dni": "52035210",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "nombre": "BRITO ALAHI MIA",
+  "curso": "1°3°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "175"
+      },
+      "materias": {
+        "MTM": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "CSC": "TEP, , ",
+        "CNT": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "CNT": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
