@@ -1,0 +1,40 @@
+{
+  "id": "47029272",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "D ARISTOTILE ABRIL AGOSTINA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "TYC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "PIC": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FIL": "TEA, , ",
+        "RTE": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "20"
+      }
+    }
+  },
+  "preceptor": "TRENCH ANDREA",
+  "turno": "TM",
+  "curso": "6°1°",
+  "dni": "47029272"
+}
