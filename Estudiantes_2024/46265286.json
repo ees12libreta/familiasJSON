@@ -1,0 +1,58 @@
+{
+  "id": "46265286",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°1°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TYC": "TEA, , ",
+        "GGF": "TEA, , ",
+        "RTE": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FIL": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PIC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "FIL": "TEA, , ",
+        "RTE": "TEA, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "46265286",
+  "nombre": "ANGIONO FELIPE"
+}
