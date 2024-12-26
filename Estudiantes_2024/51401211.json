@@ -1,0 +1,68 @@
+{
+  "id": "51401211",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "51401211",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEP, , ",
+        "CNT": "TEA, , ",
+        "CCD": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "5"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "CNT": "TEP, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EAR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "CCD": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "CNT": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "nombre": "GOMEZ BARADI ULISES GUSTAVO",
+  "curso": "1°3°",
+  "turno": "TT",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
