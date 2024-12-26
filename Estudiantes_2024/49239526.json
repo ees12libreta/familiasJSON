@@ -1,0 +1,94 @@
+{
+  "id": "49239526",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°4°",
+        "materia": "IGS",
+        "id": 1
+      }
+    ]
+  },
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "HTR": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "MCS": "TEA, 9, ",
+        "LIT": "TEA, 9, ",
+        "SYA": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "NTI": "TEA, 10, ",
+        "PSI": "TEA, 8, ",
+        "IGS": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PSI": "TEA, , ",
+        "IAF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, , ",
+        "SYA": "TEA, , ",
+        "PSI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "108"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "nombre": "DDELLA MADALENA VALENTIN EZEQUIEL",
+  "curso": "4°4°",
+  "dni": "49239526"
+}
