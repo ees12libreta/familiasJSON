@@ -1,0 +1,76 @@
+{
+  "id": "50771420",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MTM": "TEA, 10, ",
+        "PLG": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "EFI": "TED, , ",
+        "BLG": "TEA, 9, ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "FQA": "TEA, 8, ",
+        "IGS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "37",
+        "Hábiles": "178"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TED, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TED, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , "
+      }
+    }
+  },
+  "curso": "2°4°",
+  "nombre": "BARBIERI ALMA MELINA",
+  "dni": "50771420",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT"
+}
