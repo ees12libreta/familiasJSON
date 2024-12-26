@@ -1,0 +1,68 @@
+{
+  "id": "54349769",
+  "curso": "1°3°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "CNT": "TEA, 7, ",
+        "CSC": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "35"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "24"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "CSC": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "CNT": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CNT": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CSC": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "dni": "54349769",
+  "nombre": "RUIZ IAN JAEL",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT"
+}
