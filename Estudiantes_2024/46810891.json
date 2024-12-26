@@ -1,0 +1,64 @@
+{
+  "id": "46810891",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "5°2°",
+        "id": 1,
+        "materia": "MCS"
+      }
+    ]
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "turno": "TM",
+  "dni": "46810891",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      },
+      "materias": {
+        "PRO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "TYC": "TEA, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEA, , ",
+        "FIL": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EFI": "TEP, , ",
+        "EPO": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "64",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "EFI": "TEA, 8, ",
+        "RTE": "TEA, 9, ",
+        "MCS": "TEA, 8, ",
+        "FIL": "TEA, 10, ",
+        "IGS": "TEA, 8, ",
+        "TYC": "TEA, 8, ",
+        "EPO": "TEA, 8, ",
+        "LIT": "TEA, 10, ",
+        "PRO": "TEA, 9, "
+      }
+    }
+  },
+  "nombre": "GARCIA MARCANTONIO VALENTINA IARA"
+}
