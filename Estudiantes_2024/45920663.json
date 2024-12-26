@@ -1,0 +1,75 @@
+{
+  "id": "45920663",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "45920663",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "MCS",
+        "curso": "5°2°"
+      }
+    ],
+    "Aprobadas": [
+      {
+        "calificacion": "7",
+        "materia": "DER",
+        "folio": "68",
+        "libro": "12",
+        "fecha": "12/08/2024",
+        "id": 1,
+        "curso": "5°2°"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "31"
+      },
+      "materias": {
+        "TYC": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "EPO": "TEA, , ",
+        "MCS": "TEP, , ",
+        "FIL": "TEA, , ",
+        "RTE": "TEP, , ",
+        "PRO": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EPO": "TEA, 8, ",
+        "FIL": "TEA, 9, ",
+        "RTE": "TEP, 7, Intensifico Diciembre",
+        "EFI": "TEP, 7, Intensifico Diciembre",
+        "LIT": "TEP, 7, Intensifico Diciembre",
+        "TYC": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "PRO": "TEA, 9, ",
+        "MCS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "75",
+        "Hábiles": "179"
+      }
+    }
+  },
+  "nombre": "NIEVAS LOURDES MICAELA",
+  "turno": "TM"
+}
