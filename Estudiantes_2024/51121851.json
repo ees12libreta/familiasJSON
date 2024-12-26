@@ -1,0 +1,76 @@
+{
+  "id": "51121851",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "51121851",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 7, ",
+        "FQA": "TEA, 9, ",
+        "PLG": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "MTM": "TEA, 10, ",
+        "BLG": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "19"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "nombre": "FERNANDEZ MAITE SOLANGE"
+}
