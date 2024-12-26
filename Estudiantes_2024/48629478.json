@@ -1,0 +1,88 @@
+{
+  "id": "48629478",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "nombre": "GOMEZ SELENA",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "LIT": "TEA, 10, ",
+        "EMM": "TEA, 10, ",
+        "PYC": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "GOR": "TEA, 10, ",
+        "SIC": "TEA, 10, ",
+        "IAQ": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "HTR": "TEA, 10, ",
+        "MCS": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "DER": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "IAQ": "TEA, , ",
+        "PYC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "EMM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GOR": "TEA, , ",
+        "DER": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GOR": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "IAQ": "TEA, 10, ",
+        "EMM": "TEA, 10, ",
+        "HTR": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "SIC": "TEA, 10, ",
+        "IGS": "TEA, 10, ",
+        "DER": "TEA, 10, ",
+        "PYC": "TEA, 9, ",
+        "MCS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "curso": "5°2°",
+  "dni": "48629478",
+  "turno": "TM"
+}
