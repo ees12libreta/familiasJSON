@@ -1,0 +1,76 @@
+{
+  "id": "50245531",
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°3°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "108"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "HTR": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "PLG": "TEA, 8, ",
+        "FQA": "TEA, 9, ",
+        "MTM": "TEA, 6, "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "50245531",
+  "nombre": "QUEVEDO PRISCILA",
+  "turno": "TT"
+}
