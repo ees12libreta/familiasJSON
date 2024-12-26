@@ -1,0 +1,80 @@
+{
+  "id": "49697828",
+  "dni": "49697828",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "ESCARIS OROZCO BAUTISTA",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "108"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CCD": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 5, ",
+        "BLG": "TEA, 7, ",
+        "GGF": "TEA, 4, ",
+        "EFI": "TEA, 7, ",
+        "FQA": "TEA, 7, "
+      }
+    }
+  }
+}
