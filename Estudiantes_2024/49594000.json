@@ -1,0 +1,90 @@
+{
+  "id": "49594000",
+  "nombre": "RAMIREZ MIQUEAS G",
+  "curso": "2°4°",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49594000",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "33",
+        "Hábiles": "108"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TED, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "28",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "61",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "CSC",
+        "id": 1,
+        "curso": "1°3°"
+      },
+      {
+        "id": 2,
+        "materia": "PLG",
+        "curso": "1°3°"
+      }
+    ]
+  }
+}
