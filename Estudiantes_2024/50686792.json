@@ -1,0 +1,76 @@
+{
+  "id": "50686792",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "PLG": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "1"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "dni": "50686792",
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "ESCUDERO ERICA",
+  "turno": "TM"
+}
