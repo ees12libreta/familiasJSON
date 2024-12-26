@@ -1,0 +1,58 @@
+{
+  "id": "51121851",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°4°",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, 10, ",
+        "PLG": "TEA, 9, ",
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 7, ",
+        "HTR": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "BLG": "TEA, 9, ",
+        "MTM": "TEA, 10, ",
+        "FQA": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "dni": "51121851",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "FERNANDEZ MAITE SOLANGE",
+  "turno": "TT"
+}
