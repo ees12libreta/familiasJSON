@@ -1,0 +1,100 @@
+{
+  "id": "48056506",
+  "nombre": "INSAURRALDE VALLEJOS LUDMILA SOLEDAD",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "curso": "4°4°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "2°4°",
+        "id": 1,
+        "materia": "IGS"
+      },
+      {
+        "materia": "IGS",
+        "id": 2,
+        "curso": "3°4°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "56"
+      },
+      "materias": {
+        "PSI": "TEA, 9, ",
+        "IAF": "TEA, 8, ",
+        "LIT": "TEA, 9, ",
+        "EFI": "TED, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "MCS": "TEA, 8, ",
+        "NTI": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TED, , ",
+        "NTI": "TEA, , ",
+        "PSI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "108"
+      }
+    }
+  },
+  "turno": "TT",
+  "dni": "48056506"
+}
