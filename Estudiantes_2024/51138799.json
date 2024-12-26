@@ -1,0 +1,91 @@
+{
+  "id": "51138799",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "1°1°",
+        "id": 1,
+        "materia": "MTM"
+      },
+      {
+        "id": 2,
+        "materia": "PLG",
+        "curso": "1°1°"
+      }
+    ]
+  },
+  "dni": "51138799",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TED, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "60"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TED, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TED, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "curso": "2°1°",
+  "nombre": "ROMANO DIAZ JESUS"
+}
