@@ -1,0 +1,51 @@
+{
+  "id": "46821284",
+  "curso": "6°1°",
+  "nombre": "BOYER BRIAN DAVID",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL",
+    "GGF",
+    "HTR",
+    "PIC"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "5°1°",
+        "id": 1,
+        "materia": "IGS"
+      }
+    ]
+  },
+  "turno": "TM",
+  "dni": "46821284",
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "67",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "IGS": "TED, , ",
+        "GGF": "TEP, 4, Intensifico Diciembre",
+        "EFI": "TEA, 8, ",
+        "PIC": "TEP, 4, Intensifico Diciembre",
+        "TYC": "TEA, 8, ",
+        "FIL": "TEP, , ",
+        "MCS": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "RTE": "TEP, 7, Intensifico Diciembre",
+        "LIT": "TEP, 5, Intensifico Diciembre"
+      }
+    }
+  }
+}
