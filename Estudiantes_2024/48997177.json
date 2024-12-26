@@ -1,0 +1,95 @@
+{
+  "id": "48997177",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "CSC",
+        "curso": "1°3°"
+      },
+      {
+        "materia": "CNT",
+        "id": 2,
+        "curso": "1°3°"
+      },
+      {
+        "materia": "PLG",
+        "id": 3,
+        "curso": "1°3°"
+      }
+    ]
+  },
+  "curso": "2°4°",
+  "dni": "48997177",
+  "nombre": "VERGARA ROMAN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TED, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "CCD": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "23"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "108",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  }
+}
