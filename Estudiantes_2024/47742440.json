@@ -1,0 +1,52 @@
+{
+  "id": "47742440",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TYC": "TEA, , ",
+        "PRO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TEP, , ",
+        "RTE": "TEP, , ",
+        "FIL": "TEA, , ",
+        "EPO": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "35"
+      }
+    }
+  },
+  "dni": "47742440",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "fecha": "21/06/2024",
+        "calificacion": "4",
+        "libro": "12",
+        "folio": "71",
+        "curso": "5°1°",
+        "materia": "HTR"
+      }
+    ]
+  },
+  "turno": "TM",
+  "nombre": "ALONSO JULIETA",
+  "curso": "6°2°",
+  "preceptor": "TRENCH ANDREA"
+}
