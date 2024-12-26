@@ -1,0 +1,90 @@
+{
+  "id": "50226685",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "1°1°",
+        "id": 1,
+        "materia": "PLG"
+      },
+      {
+        "id": 2,
+        "materia": "IGS",
+        "curso": "1°1°"
+      }
+    ]
+  },
+  "curso": "2°2°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50226685",
+  "nombre": "MATURANO ALFONSO UMA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "72",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
