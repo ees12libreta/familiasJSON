@@ -1,0 +1,80 @@
+{
+  "id": "50401425",
+  "nombre": "ZALAZAR ZOE",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°1°",
+  "turno": "TM",
+  "dni": "50401425",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "CCD": "TEA, 9, ",
+        "EAR": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "HTR": "TEA, 8, ",
+        "MTM": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "GGF": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "8"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
