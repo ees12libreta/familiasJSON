@@ -1,0 +1,38 @@
+{
+  "id": "47388773",
+  "turno": "TM",
+  "dni": "47388773",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "91",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "RTE": "TEP, 9, Intensifico Diciembre",
+        "EPO": "TEP, 7, Intensifico Diciembre",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "FIL": "TEA, 10, ",
+        "TYC": "TEP, 7, Intensifico Diciembre",
+        "LIT": "TEP, 7, Intensifico Diciembre",
+        "PRO": "TEA, 10, ",
+        "MCS": "TEP, , "
+      }
+    }
+  },
+  "curso": "6°2°",
+  "nombre": "BARRIONUEVO AGUSTINA CARMELA",
+  "preceptor": "TRENCH ANDREA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ]
+}
