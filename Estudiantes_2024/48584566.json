@@ -1,0 +1,85 @@
+{
+  "id": "48584566",
+  "dni": "48584566",
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "curso": "4°4°",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "108",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PSI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "NTI": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IAF": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEP, , ",
+        "PSI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "NTI": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "PSI": "TEA, 9, ",
+        "BLG": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "SYA": "TEA, 9, ",
+        "LIT": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "21"
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "PARE GUIRULA PATRICIO EDUARDO"
+}
