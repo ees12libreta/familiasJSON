@@ -1,0 +1,40 @@
+{
+  "id": "46265286",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "14"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "RTE": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "FIL": "TEA, , ",
+        "PIC": "TEA, , ",
+        "TYC": "TEA, , "
+      }
+    }
+  },
+  "dni": "46265286",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°1°",
+  "turno": "TM",
+  "nombre": "ANGIONO FELIPE",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ]
+}
