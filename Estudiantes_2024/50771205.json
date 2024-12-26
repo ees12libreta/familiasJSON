@@ -1,0 +1,80 @@
+{
+  "id": "50771205",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "16"
+      },
+      "materias": {
+        "EAR": "TEA, 9, ",
+        "MTM": "TEA, 8, ",
+        "HTR": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "FQA": "TEA, 9, ",
+        "PLG": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "108",
+        "Inasistencias": "14"
+      }
+    }
+  },
+  "nombre": "ROSALES FACUNDO",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "dni": "50771205",
+  "preceptor": "GARCIA JOSE LUIS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "2°3°",
+  "turno": "TT"
+}
