@@ -1,0 +1,38 @@
+{
+  "id": "47691038",
+  "turno": "TM",
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EFI": "TEA, 8, ",
+        "PRO": "TEA, 10, ",
+        "FIL": "TEA, 10, ",
+        "LIT": "TEP, 8, Intensifico Diciembre",
+        "EPO": "TEA, 9, ",
+        "RTE": "TEA, 9, ",
+        "TYC": "TEA, 7, ",
+        "MCS": "TEA, 8, ",
+        "IGS": "TEA, 8, "
+      }
+    }
+  },
+  "nombre": "SOSA MIRELLA NAZARENA",
+  "dni": "47691038"
+}
