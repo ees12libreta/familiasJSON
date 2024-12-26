@@ -1,0 +1,58 @@
+{
+  "id": "48807008",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "curso": "2°3°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "39",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "FQA": "TED, , ",
+        "BLG": "TEA, 7, ",
+        "MTM": "TED, , ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "GGF": "TEA, 10, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEP, , ",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "108",
+        "Inasistencias": "20"
+      }
+    }
+  },
+  "dni": "48807008",
+  "nombre": "OCHOA IGNACIO",
+  "preceptor": "GARCIA JOSE LUIS"
+}
