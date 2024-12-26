@@ -1,0 +1,81 @@
+{
+  "id": "48173422",
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "48173422",
+  "nombre": "PEZZANO EZEQUIEL NICOLAS",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "3°4°",
+        "materia": "IGS",
+        "id": 1
+      },
+      {
+        "materia": "GGF",
+        "curso": "3°4°",
+        "id": 2
+      }
+    ]
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG",
+    "LIT",
+    "MCS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "PSI"
+  ],
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "108",
+        "Inasistencias": "10"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IAF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "NTI": "TEA, , ",
+        "PSI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "35",
+        "Hábiles": "178"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "PSI": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "NTI": "TEA, 8, ",
+        "SYA": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IAF": "TEP, , "
+      }
+    }
+  },
+  "curso": "4°4°"
+}
