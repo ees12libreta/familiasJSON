@@ -1,0 +1,76 @@
+{
+  "id": "50399361",
+  "dni": "50399361",
+  "curso": "2°1°",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "VIVARELLI JEREMIAS",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 10, ",
+        "HTR": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "IGS": "TEA, 7, intensificó en dic ",
+        "FQA": "TEA, 7, ",
+        "PLG": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "turno": "TM"
+}
