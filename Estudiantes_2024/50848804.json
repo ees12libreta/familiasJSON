@@ -1,0 +1,68 @@
+{
+  "id": "50848804",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "EAR": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "CNT": "TEA, 9, ",
+        "MTM": "TEP, , ",
+        "CSC": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "24"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "73"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 8, ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "CSC": "TEP, , ",
+        "PLG": "TEA, 7, ",
+        "CNT": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "33"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA",
+  "nombre": "PINAT IBANEZ SANTINO GABRIEL",
+  "curso": "1°3°",
+  "dni": "50848804",
+  "turno": "TT"
+}
