@@ -1,0 +1,76 @@
+{
+  "id": "51072738",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "PAVON EMMA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TED, , ",
+        "FQA": "TED, , ",
+        "EAR": "TEA, 8, ",
+        "MTM": "TED, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, 8, ",
+        "GGF": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "30"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "8",
+        "Hábiles": "108"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "EFI": "TED, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "51072738",
+  "turno": "TT",
+  "curso": "2°3°"
+}
