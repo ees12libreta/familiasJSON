@@ -1,0 +1,68 @@
+{
+  "id": "50866869",
+  "dni": "50866869",
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "PLG": "TEA, 8, ",
+        "CNT": "TEA, 8, ",
+        "CSC": "TEA, 7, ",
+        "MTM": "TEA, 9, ",
+        "EAR": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 10, ",
+        "IGS": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CSC": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "EAR": "TEA, 10, ",
+        "PLG": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "CSC": "TEA, 7, ",
+        "CCD": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "CNT": "TEA, 8, ",
+        "MTM": "TEA, 9, "
+      }
+    }
+  },
+  "nombre": "ARAUJO ALEXIS AGUSTIN",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "curso": "1°3°",
+  "turno": "TT"
+}
