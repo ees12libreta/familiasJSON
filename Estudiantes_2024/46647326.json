@@ -1,0 +1,84 @@
+{
+  "id": "46647326",
+  "nombre": "CARDOSO FACUNDO CESAR",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "IAQ": "TEA, , ",
+        "DER": "TEP, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , ",
+        "SIC": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEA, , ",
+        "GOR": "TEP, , ",
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MCS": "TEA, , ",
+        "EMM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EMM": "TEA, 8, ",
+        "LIT": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 10, ",
+        "DER": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "SIC": "TEP, , ",
+        "GOR": "TEA, 7, ",
+        "IAQ": "TEA, 9, ",
+        "MCS": "TEA, 10, ",
+        "HTR": "TEA, 9, ",
+        "PYC": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "19"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "LIT": "TEA, 9, ",
+        "EFI": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "DER": "TEA, 8, ",
+        "EMM": "TEA, 8, Intensificación 1° per",
+        "IGS": "TEA, 10, ",
+        "GOR": "TEA, 7, Intensificación Diciembre",
+        "PYC": "TEA, 8, ",
+        "HTR": "TEA, 9, ",
+        "IAQ": "TEA, 9, ",
+        "SIC": "TEA, 8, Intensificación Diciembre + Intensificación 1° per",
+        "MCS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "32",
+        "Hábiles": "139"
+      }
+    }
+  },
+  "curso": "5°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "dni": "46647326",
+  "turno": "TM"
+}
