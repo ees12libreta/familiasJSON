@@ -1,0 +1,91 @@
+{
+  "id": "50058760",
+  "dni": "50058760",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "33"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "MTM": "TEP, , ",
+        "GGF": "TEA, 4, intensificó en dic ",
+        "EFI": "TEA, 9, ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "BLG": "TED, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MTM",
+        "curso": "1°1°",
+        "id": 1
+      },
+      {
+        "curso": "1°1°",
+        "id": 2,
+        "materia": "PLG"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "QUIROGA LIHUEN"
+}
