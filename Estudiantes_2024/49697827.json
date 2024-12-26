@@ -1,0 +1,68 @@
+{
+  "id": "49697827",
+  "turno": "TT",
+  "curso": "2°4°",
+  "nombre": "ESCARIS OROZCO TIZIANA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "dni": "49697827",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "CCD": "TEA, 8, ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "178"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "1°1°",
+        "materia": "CSC",
+        "id": 1
+      }
+    ]
+  }
+}
