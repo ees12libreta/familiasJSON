@@ -1,0 +1,90 @@
+{
+  "id": "49840049",
+  "preceptor": "GARCIA JOSE LUIS",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "1°3°",
+        "materia": "CSC",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "curso": "1°3°",
+        "materia": "MTM"
+      }
+    ]
+  },
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "108"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "MTM": "TEA, 6, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "EFI": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "178"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "12"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "IGS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TED, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "ROJAS ELIAN",
+  "curso": "2°3°",
+  "dni": "49840049",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
