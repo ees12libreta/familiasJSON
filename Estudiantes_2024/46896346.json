@@ -1,0 +1,69 @@
+{
+  "id": "46896346",
+  "curso": "6°2°",
+  "nombre": "CASTILLO REY PATRICIO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "23",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "MCS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEP, , ",
+        "PRO": "TEA, , ",
+        "RTE": "TEA, , ",
+        "FIL": "TEP, , ",
+        "TYC": "TEA, , ",
+        "EPO": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "57"
+      },
+      "materias": {
+        "RTE": "TEP, 8, Intensifico Diciembre",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEA, 7, ",
+        "PRO": "TEA, 7, ",
+        "FIL": "TEA, 7, ",
+        "TYC": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "MCS": "TEP, , "
+      }
+    }
+  },
+  "dni": "46896346",
+  "turno": "TM",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "5°2°",
+        "materia": "MCS",
+        "id": 1
+      },
+      {
+        "materia": "IGS",
+        "curso": "5°2°",
+        "id": 2
+      }
+    ]
+  },
+  "preceptor": "TRENCH ANDREA"
+}
