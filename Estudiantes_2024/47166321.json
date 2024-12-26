@@ -1,0 +1,55 @@
+{
+  "id": "47166321",
+  "turno": "TM",
+  "nombre": "DAVANZO LEONARDO MATIAS",
+  "curso": "6°2°",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEA, , ",
+        "TYC": "TEA, , ",
+        "PRO": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EPO": "TEA, , ",
+        "FIL": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "11",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "179",
+        "Inasistencias": "31"
+      },
+      "materias": {
+        "RTE": "TEA, 8, ",
+        "FIL": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "PRO": "TEA, 10, ",
+        "TYC": "TEA, 9, ",
+        "MCS": "TEA, 10, ",
+        "EPO": "TEA, 10, ",
+        "LIT": "TEA, 10, ",
+        "IGS": "TEA, 10, "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "TRENCH ANDREA",
+  "dni": "47166321"
+}
