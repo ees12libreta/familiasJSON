@@ -1,0 +1,98 @@
+{
+  "id": "47335790",
+  "turno": "TM",
+  "nombre": "LUQUELLI PAZ MATEO ADRIAN",
+  "dni": "47335790",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "5°2°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "IGS": "TED, , ",
+        "PYC": "TED, , ",
+        "EMM": "TED, , ",
+        "EFI": "TEP, , ",
+        "DER": "TED, , ",
+        "LIT": "TED, , ",
+        "HTR": "TED, , ",
+        "MCS": "TED, , ",
+        "SIC": "TED, , ",
+        "GGF": "TED, , ",
+        "GOR": "TED, , ",
+        "IAQ": "TED, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "LIT": "TED, , ",
+        "EFI": "TEP, , ",
+        "EMM": "TED, , ",
+        "IAQ": "TED, , ",
+        "GGF": "TED, , ",
+        "MCS": "TED, , ",
+        "SIC": "TED, , ",
+        "HTR": "TED, , ",
+        "DER": "TED, , ",
+        "PYC": "TED, , ",
+        "GOR": "TED, , ",
+        "IGS": "TED, , "
+      },
+      "asistencia": {
+        "Inasistencias": "104",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "69"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TED, , ",
+        "HTR": "TED, , ",
+        "EMM": "TED, , ",
+        "GOR": "TED, , ",
+        "MCS": "TED, , ",
+        "GGF": "TED, , ",
+        "IAQ": "TED, , ",
+        "DER": "TED, , ",
+        "SIC": "TED, , ",
+        "PYC": "TED, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "LIT",
+        "id": 1,
+        "curso": "4°2°"
+      },
+      {
+        "curso": "4°2°",
+        "materia": "MCS",
+        "id": 2
+      }
+    ]
+  }
+}
