@@ -1,0 +1,76 @@
+{
+  "id": "51703543",
+  "nombre": "IANIERO VENEZIALE JOAQUIN",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "15"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "PLG": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "HTR": "TEA, 7, ",
+        "BLG": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "GGF": "TEA, 8, ",
+        "CCD": "TEA, 10, ",
+        "IGS": "TEA, 6, Intensificó en dic"
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEP, , Intensificó 2do cuat TEA",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°1°",
+  "turno": "TM",
+  "dni": "51703543"
+}
