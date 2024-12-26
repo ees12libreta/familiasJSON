@@ -1,0 +1,68 @@
+{
+  "id": "50359697",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "GARCIA JOSE LUIS",
+  "curso": "2°3°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "CSC",
+        "curso": "1°3°"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "50359697",
+  "turno": "TT",
+  "nombre": "VECCHIO CONSTANZA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "20"
+      },
+      "materias": {
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "FQA": "TEA, 8, ",
+        "MTM": "TEA, 6, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "PLG": "TEA, 8, ",
+        "CCD": "TEA, 8, ",
+        "HTR": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "13",
+        "Hábiles": "75"
+      }
+    }
+  }
+}
