@@ -1,0 +1,76 @@
+{
+  "id": "51069513",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "51069513",
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EAR": "TEA, 10, ",
+        "GGF": "TEA, 9, ",
+        "CCD": "TEA, 10, ",
+        "PLG": "TEA, 9, ",
+        "HTR": "TEA, 9, ",
+        "MTM": "TEA, 9, ",
+        "FQA": "TEA, 9, ",
+        "BLG": "TEA, 9, ",
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "5"
+      }
+    }
+  },
+  "curso": "2°1°",
+  "nombre": "BLANCO JOAQUIN"
+}
