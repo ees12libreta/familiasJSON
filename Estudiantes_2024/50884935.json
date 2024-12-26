@@ -1,0 +1,76 @@
+{
+  "id": "50884935",
+  "dni": "50884935",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "GGF": "TEA, 8, ",
+        "CCD": "TEA, 9, ",
+        "BLG": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, 7, ",
+        "MTM": "TEA, 8, ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "EAR": "TEA, 8, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "26"
+      },
+      "materias": {
+        "EFI": "TEA, , ",
+        "GGF": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "BOMBARDIERE A THEO",
+  "turno": "TM",
+  "curso": "2°2°"
+}
