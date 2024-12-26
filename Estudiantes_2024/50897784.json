@@ -1,0 +1,76 @@
+{
+  "id": "50897784",
+  "curso": "2°1°",
+  "dni": "50897784",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "GGF": "TEA, 8, ",
+        "BLG": "TEA, 7, ",
+        "HTR": "TEA, , Intensificó en dic ",
+        "FQA": "TEA, 4, Intensificó en dic.",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 8, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "20",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "CORTES AGUSTIN"
+}
