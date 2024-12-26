@@ -1,0 +1,76 @@
+{
+  "id": "49429313",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°3°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "PLG": "TEA, 8, ",
+        "MTM": "TEA, 6, ",
+        "BLG": "TEA, 7, ",
+        "FQA": "TEA, 10, ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TEA, 8, ",
+        "CCD": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "3",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "nombre": "ACEVEDO AGUSTIN DAMIAN",
+  "turno": "TT",
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49429313"
+}
