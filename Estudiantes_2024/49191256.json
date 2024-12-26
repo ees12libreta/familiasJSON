@@ -1,0 +1,93 @@
+{
+  "id": "49191256",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°4°",
+        "materia": "BLG"
+      }
+    ]
+  },
+  "turno": "TT",
+  "dni": "49191256",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "BLG": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "NTI": "TEP, , ",
+        "EFI": "TED, , ",
+        "SIC": "TEP, , ",
+        "IGS": "TEA, 8, ",
+        "IAF": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "LIT": "TEA, 8, ",
+        "TDO": "TEA, 9, ",
+        "MCS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "21"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "68"
+      },
+      "materias": {
+        "EFI": "TED, , ",
+        "LIT": "TEA, 8, ",
+        "NTI": "TEA, 7, ",
+        "TDO": "TEA, 9, ",
+        "GGF": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 8, ",
+        "IAF": "TEP, , ",
+        "SYA": "TEA, 9, ",
+        "SIC": "TEP, , ",
+        "BLG": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "NTI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "BLG": "TEP, , ",
+        "LIT": "TEA, , ",
+        "GGF": "TEA, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "SYA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "47",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "4°3°",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "SANCHEZ  MARTINA MAYRA"
+}
