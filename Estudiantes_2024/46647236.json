@@ -1,0 +1,84 @@
+{
+  "id": "46647236",
+  "curso": "5°2°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "EMM": "TEP, , ",
+        "IAQ": "TEA, 8, ",
+        "GGF": "TEP, , ",
+        "LIT": "TEA, 7, Intensificación Diciembre ",
+        "DER": "TEP, , ",
+        "GOR": "TEA, 7, Intensificación Diciembre ",
+        "EFI": "TEA, 9, ",
+        "SIC": "TEP, , ",
+        "PYC": "TEA, 7, ",
+        "MCS": "TEA, 7, Intensificación Diciembre ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "EMM": "TEP, , ",
+        "MCS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "IGS": "TEA, , ",
+        "DER": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PYC": "TEA, , ",
+        "LIT": "TEP, , ",
+        "GOR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "SIC": "TEP, , ",
+        "PYC": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "GGF": "TEP, , ",
+        "GOR": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 9, ",
+        "MCS": "TEP, , ",
+        "EMM": "TEP, , ",
+        "DER": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      }
+    }
+  },
+  "turno": "TM",
+  "nombre": "LIBOIS CISNEROS GONZALO AGUSTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "dni": "46647236"
+}
