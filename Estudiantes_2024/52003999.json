@@ -1,0 +1,68 @@
+{
+  "id": "52003999",
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "4"
+      },
+      "materias": {
+        "CCD": "TEA, 10, ",
+        "EAR": "TEA, 10, ",
+        "PLG": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "CSC": "TEA, 7, ",
+        "EFI": "TEA, 9, ",
+        "CNT": "TEA, 9, "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "4",
+        "Hábiles": "175"
+      },
+      "materias": {
+        "EFI": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "CCD": "TEA, 10, ",
+        "CNT": "TEA, 9, ",
+        "CSC": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "PLG": "TEA, 8, "
+      }
+    }
+  },
+  "curso": "1°3°",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "nombre": "BOGADO NAHUEL ISAIAS",
+  "dni": "52003999"
+}
