@@ -1,0 +1,68 @@
+{
+  "id": "51166424",
+  "preceptor": "SILVELA DANIELA",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MTM": "TEA, 7, ",
+        "EAR": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "CSC": "TEP, , ",
+        "EFI": "TEA, 10, ",
+        "IGS": "TEA, 7, ",
+        "CNT": "TEA, 7, ",
+        "PLG": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "62"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, 10, ",
+        "EAR": "TEA, 7, ",
+        "CSC": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CNT": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "37",
+        "Hábiles": "75"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "CNT": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEP, , ",
+        "CSC": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    }
+  },
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "turno": "TT",
+  "dni": "51166424",
+  "nombre": "INSAURRALDE VALLEJOS FACUNDO URIEL",
+  "curso": "1°3°"
+}
