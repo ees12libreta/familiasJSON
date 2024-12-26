@@ -1,0 +1,40 @@
+{
+  "id": "48037307",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "PIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "HTR": "TEA, , ",
+        "RTE": "TEA, , ",
+        "FIL": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "TYC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "nombre": "BROSO MILTON JOSE ANTONIO",
+  "turno": "TM",
+  "dni": "48037307",
+  "curso": "6°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "TRENCH ANDREA"
+}
