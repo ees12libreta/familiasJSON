@@ -1,0 +1,77 @@
+{
+  "id": "50485979",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "CCD": "TEA, 8, ",
+        "FQA": "TEA, 10, ",
+        "IGS": "TEA, 9, ",
+        "PLG": "TEA, 10, ",
+        "EFI": "TEA, 10, ",
+        "MTM": "TEA, 9, ",
+        "EAR": "TEA, 9, ",
+        "BLG": "TEA, 10, ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 10, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , "
+      }
+    }
+  },
+  "dni": "50485979",
+  "preceptor": "SANDOVAL GILDA",
+  "nombre": "ALLOATTI ANA",
+  "curso": "2°1°",
+  "Pendientes": {},
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
