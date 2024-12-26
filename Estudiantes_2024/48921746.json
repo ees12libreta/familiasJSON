@@ -1,0 +1,98 @@
+{
+  "id": "48921746",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "turno": "TT",
+  "nombre": "MARTINEZ MORENA QUIMEY",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "HTR",
+        "id": 1,
+        "curso": "3°4°"
+      },
+      {
+        "id": 2,
+        "materia": "IGS",
+        "curso": "3°4°"
+      }
+    ]
+  },
+  "dni": "48921746",
+  "curso": "4°3°",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "35"
+      },
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "BLG": "TEA, 4, ",
+        "TDO": "TEA, 10, ",
+        "MCS": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TED, , ",
+        "LIT": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "SIC": "TEA, 9, ",
+        "SYA": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "NTI": "TEA, 7, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "LIT": "TEA, , ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TED, , ",
+        "NTI": "TEP, , ",
+        "TDO": "TEA, 10, ",
+        "SYA": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "SIC": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "20"
+      },
+      "materias": {
+        "GGF": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TED, , ",
+        "SIC": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA"
+}
