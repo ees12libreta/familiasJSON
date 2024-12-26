@@ -1,0 +1,47 @@
+{
+  "id": "48027872",
+  "nombre": "ROMANO DIAZ WANDA MARIA PAULA",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "48"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "TYC": "TEP, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FIL": "TEA, , ",
+        "EPO": "TEA, , ",
+        "PRO": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "PYC",
+        "curso": "5°2°",
+        "id": 1
+      }
+    ]
+  },
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°2°",
+  "dni": "48027872",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "turno": "TM"
+}
