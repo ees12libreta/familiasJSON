@@ -1,0 +1,99 @@
+{
+  "id": "48236004",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "LIT",
+        "curso": "4°2°"
+      },
+      {
+        "materia": "IGS",
+        "curso": "4°2°",
+        "id": 2
+      }
+    ]
+  },
+  "nombre": "ARIAS MANNO PRISCILA AYELEN",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "35",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "PYC": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IAQ": "TEP, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TED, , ",
+        "HTR": "TED, , ",
+        "DER": "TEP, , ",
+        "EMM": "TEP, , ",
+        "SIC": "TEP, , ",
+        "GOR": "TEP, , ",
+        "IGS": "TED, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EMM": "TED, , ",
+        "PYC": "TED, , ",
+        "GGF": "TED, , ",
+        "GOR": "TED, , ",
+        "IAQ": "TED, , ",
+        "IGS": "TED, , ",
+        "DER": "TED, , ",
+        "HTR": "TED, , ",
+        "MCS": "TED, , ",
+        "EFI": "TEP, , ",
+        "SIC": "TED, , ",
+        "LIT": "TED, , "
+      },
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "104"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "GOR": "TED, , ",
+        "PYC": "TED, , ",
+        "MCS": "TED, , ",
+        "HTR": "TED, , ",
+        "IAQ": "TED, , ",
+        "SIC": "TED, , ",
+        "LIT": "TED, , ",
+        "DER": "TED, , ",
+        "GGF": "TED, , ",
+        "EFI": "TED, , En Diciembre de TEP a TED",
+        "IGS": "TED, , ",
+        "EMM": "TED, , "
+      },
+      "asistencia": {
+        "Hábiles": "139",
+        "Inasistencias": "139"
+      }
+    }
+  },
+  "dni": "48236004",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "curso": "5°2°",
+  "turno": "TM"
+}
