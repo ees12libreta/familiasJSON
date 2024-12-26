@@ -1,0 +1,38 @@
+{
+  "id": "47478087",
+  "dni": "47478087",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°2°",
+  "turno": "TM",
+  "preceptor": "TRENCH ANDREA",
+  "nombre": "MORALES GUADALUPE AMBAR",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "99",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "LIT": "TEP, 9, Intensifico Diciembre",
+        "FIL": "TEA, 10, ",
+        "EPO": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "PRO": "TEP, 6, Intensifico Diciembre",
+        "MCS": "TEP, 4, Intensifico Diciembre",
+        "TYC": "TEP, 5, Intensifico Diciembre",
+        "RTE": "TEA, 8, "
+      }
+    }
+  }
+}
