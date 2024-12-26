@@ -1,0 +1,80 @@
+{
+  "id": "49804911",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CCD": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TED, , ",
+        "FQA": "TEP, , ",
+        "EAR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "108"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEP, , ",
+        "EFI": "TED, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "37"
+      },
+      "materias": {
+        "CCD": "TEA, 4, ",
+        "MTM": "TED, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TED, , ",
+        "EAR": "TEA, 7, "
+      }
+    }
+  },
+  "dni": "49804911",
+  "curso": "2°3°",
+  "turno": "TT",
+  "preceptor": "GARCIA JOSE LUIS",
+  "nombre": "TABOADA VIOLETA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
