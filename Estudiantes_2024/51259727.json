@@ -1,0 +1,69 @@
+{
+  "id": "51259727",
+  "dni": "51259727",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ],
+  "informes": {
+    "informe2": {
+      "materias": {
+        "PLG": "TEA, 9, ",
+        "EAR": "TEA, 10, ",
+        "CNT": "TEA, 9, ",
+        "MTM": "TEA, 10, ",
+        "CSC": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "CCD": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "10"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "73"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CNT": "TEA, , ",
+        "CSC": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "17"
+      },
+      "materias": {
+        "CSC": "TEA, 8, ",
+        "MTM": "TEA, 10, ",
+        "CCD": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "PLG": "TEA, 9, ",
+        "EAR": "TEA, 10, ",
+        "EFI": "TEA, 9, ",
+        "CNT": "TEA, 9, "
+      }
+    }
+  },
+  "nombre": "ACEVEDO SANTIAGO FEDERICO",
+  "Pendientes": {},
+  "turno": "TT",
+  "curso": "1°3°",
+  "preceptor": "SILVELA DANIELA"
+}
