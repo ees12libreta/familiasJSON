@@ -1,0 +1,61 @@
+{
+  "id": "47637098",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "calificacion": "4",
+        "folio": "64",
+        "curso": "5°2°",
+        "id": 1,
+        "fecha": "26/06/2024",
+        "libro": "12",
+        "materia": "HTR"
+      },
+      {
+        "materia": "EMM",
+        "calificacion": "4",
+        "fecha": "11/08/2024",
+        "id": 2,
+        "folio": "67",
+        "curso": "5°2°",
+        "libro": "12"
+      }
+    ],
+    "Adeuda": []
+  },
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°2°",
+  "dni": "47637098",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "VIZCAYA LAUTARO NICANOR",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "IGS": "TEP, 5, Intensifico Diciembre",
+        "FIL": "TEA, 7, ",
+        "TYC": "TEP, 5, Intensifico Diciembre",
+        "RTE": "TEP, 8, Intensifico Diciembre",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "PRO": "TEA, 7, ",
+        "EPO": "TEA, 8, "
+      }
+    }
+  }
+}
