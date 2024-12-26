@@ -1,0 +1,76 @@
+{
+  "id": "50538386",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "CCD": "TEA, 9, ",
+        "BLG": "TEA, 8, ",
+        "GGF": "TEA, 9, ",
+        "MTM": "TEP, , ",
+        "FQA": "TEA, 4, Intensificó en dic",
+        "EAR": "TEA, 7, ",
+        "EFI": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "GGF": "TEA, , ",
+        "FQA": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "nombre": "LOPEZ IAN",
+  "curso": "2°1°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "preceptor": "SANDOVAL GILDA",
+  "dni": "50538386"
+}
