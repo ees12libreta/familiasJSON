@@ -1,0 +1,52 @@
+{
+  "id": "47679910",
+  "nombre": "BERHO MELANIE LOURDES",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°2°",
+  "dni": "47679910",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "curso": "4°2°",
+        "fecha": "14/08/2024",
+        "libro": "12",
+        "id": 1,
+        "folio": "86",
+        "materia": "HTR",
+        "calificacion": "8"
+      }
+    ]
+  },
+  "informes": {
+    "informe1": {
+      "materias": {
+        "RTE": "TEP, , ",
+        "EPO": "TEA, , ",
+        "PRO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "TYC": "TEA, , ",
+        "FIL": "TEA, , ",
+        "LIT": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "preceptor": "TRENCH ANDREA"
+}
