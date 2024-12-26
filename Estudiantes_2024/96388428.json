@@ -1,0 +1,80 @@
+{
+  "id": "96388428",
+  "dni": "96388428",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "2",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "HTR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEP, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 10, ",
+        "MTM": "TEA, 9, ",
+        "GGF": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "EFI": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "FQA": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 10, ",
+        "PLG": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "8"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "preceptor": "GARCIA JOSE LUIS",
+  "turno": "TT",
+  "curso": "2°4°",
+  "nombre": "GONZALEZ DUARTE NADIA ANTONELLA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
