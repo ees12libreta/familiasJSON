@@ -1,0 +1,86 @@
+{
+  "id": "50900408",
+  "nombre": "ROMERO IGNACIO",
+  "curso": "2°1°",
+  "dni": "50900408",
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "PLG": "TEP, , ",
+        "GGF": "TEA, 6, intensificó en dic",
+        "IGS": "TEA, 6, intensificó en dic ",
+        "EAR": "TEA, 8, ",
+        "CCD": "TEP, , ",
+        "MTM": "TEA, 8, ",
+        "BLG": "TEP, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "104",
+        "Inasistencias": "51"
+      },
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEP, , ",
+        "MTM": "TEA, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "1°1°",
+        "id": 1,
+        "materia": "CNT"
+      }
+    ]
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
