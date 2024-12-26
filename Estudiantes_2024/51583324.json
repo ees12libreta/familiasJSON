@@ -1,0 +1,36 @@
+{
+  "id": "51583324",
+  "turno": "TT",
+  "dni": "51583324",
+  "nombre": "TISEIRA ANTONIA JAZMIN PETRONA",
+  "curso": "1°3°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "CSC": "TEP, , ",
+        "MTM": "TEP, , ",
+        "CNT": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "EAR": "TEA, 10, "
+      },
+      "asistencia": {
+        "Inasistencias": "28",
+        "Hábiles": "175"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "CNT",
+    "CSC",
+    "EAR",
+    "EFI",
+    "IGS",
+    "MTM",
+    "PLG",
+    "CCD"
+  ]
+}
