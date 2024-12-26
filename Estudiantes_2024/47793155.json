@@ -1,0 +1,99 @@
+{
+  "id": "47793155",
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "SYA": "TEA, 8, ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "NTI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "EFI": "TED, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "TDO": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "58"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "26"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "TDO": "TEA, , ",
+        "SIC": "TEP, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "LIT": "TEA, , ",
+        "SYA": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TED, , ",
+        "IAF": "TEA, , ",
+        "NTI": "TEA, , ",
+        "MCS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "SYA": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "SIC": "TEP, , ",
+        "IAF": "TEP, , ",
+        "GGF": "TEP, , ",
+        "NTI": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "EFI": "TED, , ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "TDO": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "32"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°4°",
+        "materia": "BLG"
+      },
+      {
+        "curso": "3°4°",
+        "id": 2,
+        "materia": "IGS"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "PEREZ TOBIAS BENJAMIN",
+  "curso": "4°3°",
+  "dni": "47793155"
+}
