@@ -1,0 +1,34 @@
+{
+  "id": "47793137",
+  "dni": "47793137",
+  "curso": "6°1°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "IAF",
+        "curso": "4°1°",
+        "id": 1
+      },
+      {
+        "materia": "MTM",
+        "id": 2,
+        "curso": "3°1°"
+      }
+    ]
+  },
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "REALES LAUTARO GABRIEL",
+  "preceptor": "TRENCH ANDREA"
+}
