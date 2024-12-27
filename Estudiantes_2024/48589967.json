@@ -1,0 +1,93 @@
+{
+  "id": "48589967",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "curso": "5°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "4°2°"
+      }
+    ]
+  },
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "HTR": "TEP, , ",
+        "SIC": "TEA, 6, Intensificación Diciembre + Intensif. 1° periodo",
+        "LIT": "TEA, 7, Intensificación Diciembre",
+        "EFI": "TEA, 8, ",
+        "MCS": "TEA, 7, ",
+        "GOR": "TEA, 8, ",
+        "IAQ": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "PYC": "TEA, 7, ",
+        "EMM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "DER": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "DER": "TEA, , ",
+        "EMM": "TEP, , ",
+        "IAQ": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "GOR": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PYC": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "75"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "LIT": "TEP, , ",
+        "SIC": "TEP, , ",
+        "PYC": "TEA, 7, ",
+        "DER": "TEP, , ",
+        "IAQ": "TEA, 8, ",
+        "MCS": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "GOR": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "EMM": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "26",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "nombre": "REY VALENTINA MALENA",
+  "dni": "48589967",
+  "turno": "TM",
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
