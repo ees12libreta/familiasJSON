@@ -1,0 +1,97 @@
+{
+  "id": "48218069",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "GOR": "TEA, , ",
+        "IAQ": "TEP, , ",
+        "HTR": "TEP, , ",
+        "SIC": "TEP, , ",
+        "EFI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "DER": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "PYC": "TEP, , ",
+        "EMM": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "EFI": "TEP, , ",
+        "SIC": "TEA, 9, Intensificación Diciembre  ",
+        "GOR": "TEA, 7, ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IAQ": "TEA, 5, Intensificación Diciembre + 1° periodo",
+        "EMM": "TEP, , ",
+        "PYC": "TEA, 7, ",
+        "DER": "TEP, , ",
+        "LIT": "TEA, 7, Intensificación Diciembre ",
+        "MCS": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "IAQ": "TEP, , ",
+        "DER": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EMM": "TEP, , ",
+        "GOR": "TEA, 7, ",
+        "PYC": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "EMM",
+    "DER",
+    "GOR",
+    "SIC"
+  ],
+  "nombre": "SILVA EVELYN ABRIL",
+  "curso": "5°2°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°3°",
+        "materia": "IGS"
+      },
+      {
+        "curso": "4°4°",
+        "materia": "IGS",
+        "id": 2
+      }
+    ]
+  },
+  "turno": "TM",
+  "dni": "48218069",
+  "preceptor": "MENDEZ AVILA GABRIEL A"
+}
