@@ -1,0 +1,84 @@
+{
+  "id": "49359686",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "8"
+      },
+      "materias": {
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MCS": "TEP, , ",
+        "GGF": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "TDO": "TEA, , ",
+        "IAF": "TEA, , ",
+        "SIC": "TEA, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "175"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "SIC": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "SYA": "TEA, 7, ",
+        "LIT": "TEA, 8, ",
+        "HTR": "TEA, 9, ",
+        "NTI": "TEA, 9, ",
+        "IAF": "TEA, 9, ",
+        "TDO": "TEA, 9, ",
+        "IGS": "TEA, 8, "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "HTR": "TEA, 9, ",
+        "IGS": "TEA, 8, ",
+        "BLG": "TEP, , ",
+        "TDO": "TEA, 9, ",
+        "NTI": "TEA, 9, ",
+        "SYA": "TEA, 7, ",
+        "EFI": "TED, , ",
+        "LIT": "TEA, 8, ",
+        "IAF": "TEA, 9, ",
+        "SIC": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "turno": "TT",
+  "nombre": "LLANES MARIANO JOEL",
+  "preceptor": "SILVELA DANIELA",
+  "dni": "49359686",
+  "curso": "4°3°"
+}
