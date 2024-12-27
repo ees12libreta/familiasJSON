@@ -1,0 +1,91 @@
+{
+  "id": "49724902",
+  "nombre": "MOLINA FRANCISCO EZEQUIEL",
+  "preceptor": "RYBARCZYK VALERIA",
+  "curso": "3°4°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "2°4°",
+        "materia": "BLG"
+      },
+      {
+        "id": 2,
+        "curso": "2°4°",
+        "materia": "IGS"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EFI": "TED, , ",
+        "IGS": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "37"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEP, , ",
+        "EFI": "TED, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "EAR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TED, , ",
+        "FQA": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "dni": "49724902",
+  "turno": "TT"
+}
