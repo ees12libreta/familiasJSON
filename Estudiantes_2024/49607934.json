@@ -1,0 +1,64 @@
+{
+  "id": "49607934",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "SILVELA DANIELA",
+  "turno": "TT",
+  "curso": "4°3°",
+  "nombre": "TAGLIAFERRI VALENTIN",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "MCS": "TEA, 8, ",
+        "SIC": "TEA, 9, ",
+        "SYA": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "LIT": "TEA, 9, ",
+        "TDO": "TEA, 7, ",
+        "HTR": "TEA, 9, ",
+        "IAF": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "NTI": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "12"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TDO": "TEA, , ",
+        "SYA": "TEA, , ",
+        "SIC": "TEA, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEA, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "NTI": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "2"
+      }
+    }
+  },
+  "dni": "49607934"
+}
