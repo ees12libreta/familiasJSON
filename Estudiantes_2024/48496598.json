@@ -1,0 +1,84 @@
+{
+  "id": "48496598",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "nombre": "SANCHEZ GONZALEZ NICOLAS ARIEL",
+  "curso": "4°3°",
+  "dni": "48496598",
+  "turno": "TT",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "IAF": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "TDO": "TEA, 5, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "SYA": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "175"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "LIT": "TEP, , ",
+        "EFI": "TED, , ",
+        "HTR": "TEP, , ",
+        "IAF": "TEP, , ",
+        "BLG": "TED, , ",
+        "NTI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEP, , ",
+        "TDO": "TEA, , ",
+        "IGS": "TEP, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "SYA": "TEA, 8, ",
+        "IGS": "TEP, , ",
+        "GGF": "TEP, , ",
+        "LIT": "TEP, , ",
+        "NTI": "TEP, , ",
+        "MCS": "TEP, , ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "IAF": "TEP, , ",
+        "TDO": "TEP, , ",
+        "EFI": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "12"
+      }
+    }
+  },
+  "preceptor": "SILVELA DANIELA"
+}
