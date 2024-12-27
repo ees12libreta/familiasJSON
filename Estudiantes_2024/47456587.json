@@ -1,0 +1,34 @@
+{
+  "id": "47456587",
+  "curso": "6°1°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "47456587",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "id": 1,
+        "materia": "PLG",
+        "fecha": "23/06/2024",
+        "libro": "7",
+        "curso": "1°1°",
+        "calificacion": "4",
+        "folio": "7"
+      }
+    ]
+  },
+  "nombre": "VILLALVA NAHIARA NOELIA",
+  "preceptor": "TRENCH ANDREA",
+  "turno": "TM"
+}
