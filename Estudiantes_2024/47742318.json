@@ -1,0 +1,76 @@
+{
+  "id": "47742318",
+  "nombre": "WARD IGNACIO SEBASTIAN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "TRENCH ANDREA",
+  "curso": "6°1°",
+  "dni": "47742318",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "FIL": "TEP, , ",
+        "RTE": "TEP, 4, Intensificación Diciembre ",
+        "PIC": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEP, 4, Intensificación Diciembre ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, 6, Intensificación Diciembre ",
+        "IGS": "TED, , ",
+        "TYC": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "178",
+        "Inasistencias": "45"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "TYC": "TEA, , ",
+        "FIL": "TED, , ",
+        "HTR": "TEP, , ",
+        "RTE": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PIC": "TEP, , ",
+        "IGS": "TED, , ",
+        "MCS": "TEA, , ",
+        "LIT": "TEP, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "FIL": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PIC": "TEP, , ",
+        "RTE": "TEP, , ",
+        "LIT": "TEP, , ",
+        "GGF": "TEP, , ",
+        "TYC": "TEA, , ",
+        "IGS": "TED, , "
+      },
+      "asistencia": {
+        "Inasistencias": "27",
+        "Hábiles": "104"
+      }
+    }
+  },
+  "turno": "TM"
+}
