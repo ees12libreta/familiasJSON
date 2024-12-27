@@ -1,0 +1,40 @@
+{
+  "id": "46349107",
+  "preceptor": "TRENCH ANDREA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "ROSENTAL BIANCA CATARINA",
+  "curso": "6°1°",
+  "dni": "46349107",
+  "turno": "TM",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "126",
+        "Hábiles": "179"
+      },
+      "materias": {
+        "EFI": "TED, , ",
+        "FIL": "TED, , ",
+        "HTR": "TED, , ",
+        "PIC": "TED, , ",
+        "LIT": "TED, , ",
+        "TYC": "TEP, , ",
+        "MCS": "TED, , ",
+        "RTE": "TED, , ",
+        "IGS": "TED, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  }
+}
