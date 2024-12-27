@@ -1,0 +1,60 @@
+{
+  "id": "46355692",
+  "turno": "TM",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "dni": "46355692",
+  "curso": "6°1°",
+  "nombre": "ZABALETA MAXIMO AGUSTIN",
+  "preceptor": "TRENCH ANDREA",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "FIL": "TEA, , ",
+        "GGF": "TEP, , ",
+        "TYC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "PIC": "TEA, , ",
+        "IGS": "TED, , ",
+        "RTE": "TEP, , ",
+        "LIT": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "38",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "fecha": "23/06/2024",
+        "folio": "63",
+        "materia": "EPO",
+        "calificacion": "6",
+        "libro": "12",
+        "id": 1,
+        "curso": "5°1°"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "LIT",
+        "curso": "5°1°",
+        "id": 1
+      }
+    ]
+  }
+}
