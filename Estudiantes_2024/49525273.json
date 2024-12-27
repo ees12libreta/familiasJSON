@@ -1,0 +1,58 @@
+{
+  "id": "49525273",
+  "preceptor": "SILVELA DANIELA",
+  "curso": "4°3°",
+  "turno": "TT",
+  "dni": "49525273",
+  "nombre": "RODRIGUEZ LEONARDO MARTIN",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "TDO": "TEA, , ",
+        "EFI": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SYA": "TEA, , ",
+        "LIT": "TEP, , ",
+        "BLG": "TED, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEP, , ",
+        "IAF": "TEP, , ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "7"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "IGS",
+        "id": 1,
+        "curso": "2°3°"
+      },
+      {
+        "curso": "2°3°",
+        "materia": "MTM",
+        "id": 2
+      }
+    ]
+  }
+}
