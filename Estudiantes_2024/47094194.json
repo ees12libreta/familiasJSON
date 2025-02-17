@@ -1,0 +1,69 @@
+{
+  "id": "47094194",
+  "curso": "6°3°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "curso": "5°4°",
+        "id": 1,
+        "materia": "MCS"
+      },
+      {
+        "id": 2,
+        "curso": "5°4°",
+        "materia": "GGF"
+      }
+    ]
+  },
+  "dni": "47094194",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      },
+      "materias": {
+        "PRO": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FIL": "TEA, 10, ",
+        "TYC": "TEA, 7, ",
+        "RTE": "TEP, , ",
+        "EPO": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "FIL": "TEA, , ",
+        "LIT": "TEP, , ",
+        "RTE": "TEP, , ",
+        "PRO": "TEA, , ",
+        "EPO": "TEP, , ",
+        "MCS": "TEP, , ",
+        "TYC": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "nombre": "DE SOUSA GENARO",
+  "turno": "TT",
+  "preceptor": "NOVELLINO VERONICA"
+}
