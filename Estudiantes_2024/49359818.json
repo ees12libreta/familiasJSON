@@ -1,0 +1,99 @@
+{
+  "id": "49359818",
+  "turno": "TM",
+  "preceptor": "MENDEZ AVILA GABRIEL A",
+  "curso": "3°2°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "BLG": "TEA, 5, Intensificación Diciembre",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 4, Intensificación Diciembre",
+        "FQA": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "GGF": "TEA, 7, Intensificación durante 1° periodo  ",
+        "EFI": "TEA, 9, ",
+        "CCD": "TEA, 8, Intensificación durante 1° periodo  "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "GGF": "TEA, 7, ",
+        "FQA": "TEP, , ",
+        "MTM": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "28",
+        "Hábiles": "104"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "18"
+      },
+      "materias": {
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "PLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEA, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "CORNEJO UMA XIMENA LUJAN",
+  "dni": "49359818",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "materia": "CSC",
+        "folio": "4",
+        "libro": "7",
+        "calificacion": "7",
+        "fecha": "16/04/2024",
+        "id": 1,
+        "curso": "1°2°"
+      },
+      {
+        "fecha": "23/12/2024",
+        "libro": "7",
+        "curso": "1°2°",
+        "calificacion": "7",
+        "folio": "14",
+        "materia": "PLG",
+        "id": 2
+      }
+    ],
+    "Adeuda": []
+  }
+}
