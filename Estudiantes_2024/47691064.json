@@ -1,0 +1,55 @@
+{
+  "id": "47691064",
+  "dni": "47691064",
+  "turno": "TT",
+  "preceptor": "NOVELLINO VERONICA",
+  "curso": "6°3°",
+  "nombre": "AVEGGIO MILENA CELESTE",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "FIL": "TEA, 10, ",
+        "PRO": "TEA, 8, ",
+        "TYC": "TEA, 7, ",
+        "RTE": "TEP, , ",
+        "LIT": "TEP, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EPO": "TEP, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "RTE": "TEP, , ",
+        "EPO": "TEA, , ",
+        "PRO": "TEA, , ",
+        "LIT": "TEA, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "18",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ]
+}
