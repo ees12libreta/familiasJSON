@@ -1,0 +1,55 @@
+{
+  "id": "46281402",
+  "nombre": "AREVALO YAEL NATALIA",
+  "curso": "6°3°",
+  "dni": "46281402",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TEA, , ",
+        "TYC": "TEA, , ",
+        "EPO": "TEP, , ",
+        "LIT": "TEP, , ",
+        "RTE": "TEP, , ",
+        "MCS": "TEP, , ",
+        "FIL": "TEA, , ",
+        "PRO": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "22"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "IGS": "TEA, 7, ",
+        "EPO": "TEA, 7, ",
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , ",
+        "TYC": "TEA, 8, ",
+        "FIL": "TEA, 10, ",
+        "LIT": "TEP, , ",
+        "PRO": "TEA, 9, ",
+        "EFI": "TEA, 8, "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "103"
+      }
+    }
+  },
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "NOVELLINO VERONICA"
+}
