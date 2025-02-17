@@ -1,0 +1,55 @@
+{
+  "id": "47657016",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "FIL": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "PRO": "TEA, 8, ",
+        "EPO": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "TYC": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "RTE": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "PRO": "TEA, , ",
+        "FIL": "TEA, , ",
+        "RTE": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EPO": "TEA, , ",
+        "TYC": "TEA, , ",
+        "LIT": "TEA, , ",
+        "MCS": "TEA, , ",
+        "IGS": "TEA, , "
+      }
+    }
+  },
+  "dni": "47657016",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "curso": "6°3°",
+  "nombre": "CASTELAO MANUEL ELISEO ANDRES",
+  "preceptor": "NOVELLINO VERONICA",
+  "turno": "TT"
+}
