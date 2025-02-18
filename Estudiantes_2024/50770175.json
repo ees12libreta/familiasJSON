@@ -1,0 +1,80 @@
+{
+  "id": "50770175",
+  "curso": "3°4°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "dni": "50770175",
+  "nombre": "AGUDELO MILENA ISABELLA",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "103"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "CCD": "TEA, 9, ",
+        "PLG": "TEA, 9, ",
+        "BLG": "TEA, 10, ",
+        "EFI": "TEA, 7, ",
+        "MTM": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "IGS": "TEA, 10, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "29"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEA, , ",
+        "CCD": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "13"
+      }
+    }
+  }
+}
