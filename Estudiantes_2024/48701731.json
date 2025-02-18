@@ -1,0 +1,105 @@
+{
+  "id": "48701731",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "EFI": "TEP, 7, ",
+        "CCD": "TEA, 7, ",
+        "PLG": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "GGF": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "BLG": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "38"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "IGS": "TEA, , ",
+        "PLG": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "CCD": "TEA, , ",
+        "EFI": "TEP, , ",
+        "BLG": "TEA, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEP, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "curso": "3°4°",
+  "Pendientes": {
+    "Aprobadas": [
+      {
+        "folio": "18",
+        "calificacion": "7",
+        "fecha": "23/12/2024",
+        "curso": "2°3°",
+        "libro": "12",
+        "id": 1,
+        "materia": "EFI"
+      },
+      {
+        "curso": "2°3°",
+        "fecha": "23/12/2024",
+        "materia": "FQA",
+        "calificacion": "4",
+        "folio": "16",
+        "id": 2,
+        "libro": "12"
+      }
+    ],
+    "Adeuda": [
+      {
+        "materia": "BLG",
+        "id": 1,
+        "curso": "2°4°"
+      }
+    ]
+  },
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "OTRANTO AMBAR CAMILA",
+  "dni": "48701731"
+}
