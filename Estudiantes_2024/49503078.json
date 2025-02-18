@@ -1,0 +1,80 @@
+{
+  "id": "49503078",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "CCD": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "BLG": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "EAR": "TEA, 10, ",
+        "GGF": "TEA, 7, ",
+        "EFI": "TEA, 10, ",
+        "HTR": "TEA, 8, ",
+        "PLG": "TEA, 9, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "12",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "9"
+      },
+      "materias": {
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "CCD": "TEA, , "
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49503078",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": []
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "nombre": "CHAVEZ CARABAJAL VALENTINA BELEN",
+  "curso": "3°4°"
+}
