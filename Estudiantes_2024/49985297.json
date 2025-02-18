@@ -1,0 +1,80 @@
+{
+  "id": "49985297",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "103"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "11"
+      },
+      "materias": {
+        "BLG": "TEA, 9, ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "FQA": "TEA, 8, ",
+        "MTM": "TEA, 7, ",
+        "CCD": "TEA, 7, ",
+        "EAR": "TEA, 9, "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "5"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEA, , ",
+        "MTM": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": []
+  },
+  "turno": "TT",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "curso": "3°4°",
+  "nombre": "DEANTONIO ZOE AILIN",
+  "preceptor": "RYBARCZYK VALERIA",
+  "dni": "49985297"
+}
