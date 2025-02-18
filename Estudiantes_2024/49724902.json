@@ -1,0 +1,91 @@
+{
+  "id": "49724902",
+  "dni": "49724902",
+  "curso": "3°4°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "BLG",
+        "curso": "2°4°"
+      },
+      {
+        "id": 2,
+        "materia": "IGS",
+        "curso": "2°4°"
+      }
+    ]
+  },
+  "turno": "TT",
+  "nombre": "MOLINA FRANCISCO EZEQUIEL",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "21"
+      },
+      "materias": {
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TED, , ",
+        "EAR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TED, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "16",
+        "Hábiles": "103"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "37",
+        "Hábiles": "198"
+      },
+      "materias": {
+        "EFI": "TED, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, 8, ",
+        "FQA": "TEA, 7, ",
+        "MTM": "TEA, 7, ",
+        "EAR": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEP, 4, "
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA"
+}
