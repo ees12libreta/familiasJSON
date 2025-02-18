@@ -1,0 +1,86 @@
+{
+  "id": "48580154",
+  "dni": "48580154",
+  "curso": "3°4°",
+  "preceptor": "RYBARCZYK VALERIA",
+  "nombre": "COSTA TOMAS CLAUDIO",
+  "turno": "TT",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "MTM": "TEA, 7, ",
+        "EFI": "TEP, , ",
+        "EAR": "TEA, 10, ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEA, 9, ",
+        "CCD": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "FQA": "TEA, 8, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "45"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "PLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEP, , ",
+        "IGS": "TEP, , ",
+        "EAR": "TEA, , ",
+        "BLG": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "24",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "21",
+        "Hábiles": "95"
+      },
+      "materias": {
+        "GGF": "TEP, , ",
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "EFI": "TED, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEP, , "
+      }
+    }
+  },
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "curso": "2°4°",
+        "materia": "MTM",
+        "id": 1
+      }
+    ]
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
