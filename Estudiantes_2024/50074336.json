@@ -1,0 +1,99 @@
+{
+  "id": "50074336",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "turno": "TT",
+  "informes": {
+    "informe1": {
+      "asistencia": {
+        "Hábiles": "95",
+        "Inasistencias": "7"
+      },
+      "materias": {
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "EFI": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "198"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, 9, ",
+        "GGF": "TEP, , ",
+        "MTM": "TEP, , ",
+        "BLG": "TEA, 8, ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, 8, ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, 9, ",
+        "CCD": "TEA, 7, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "FQA": "TEA, , ",
+        "BLG": "TEA, , ",
+        "IGS": "TEP, , ",
+        "MTM": "TED, , ",
+        "PLG": "TEP, , ",
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "CCD": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "103"
+      }
+    }
+  },
+  "preceptor": "RYBARCZYK VALERIA",
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "folio": "1",
+        "materia": "CSC",
+        "libro": "7",
+        "fecha": "03/03/2024",
+        "calificacion": "4",
+        "curso": "1°3°",
+        "id": 1
+      },
+      {
+        "fecha": "22/12/2024",
+        "folio": "15",
+        "materia": "IGS",
+        "calificacion": "4",
+        "libro": "12",
+        "id": 2,
+        "curso": "1°3°"
+      }
+    ]
+  },
+  "dni": "50074336",
+  "curso": "3°4°",
+  "nombre": "CONDE ALMA CELENA"
+}
