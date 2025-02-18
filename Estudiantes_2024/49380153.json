@@ -1,0 +1,99 @@
+{
+  "id": "49380153",
+  "preceptor": "RYBARCZYK VALERIA",
+  "turno": "TT",
+  "curso": "3°4°",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "GGF": "TEP, , ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEA, 10, ",
+        "MTM": "TEA, 9, ",
+        "PLG": "TEP, , ",
+        "FQA": "TEA, 7, ",
+        "EAR": "TEA, 10, ",
+        "BLG": "TEA, 10, ",
+        "CCD": "TEA, 7, ",
+        "HTR": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "28"
+      }
+    },
+    "informe2": {
+      "materias": {
+        "EFI": "TEP, , ",
+        "BLG": "TEA, , ",
+        "EAR": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "GGF": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEA, , ",
+        "IGS": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "13"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "MTM": "TEA, , ",
+        "BLG": "TEA, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEP, , ",
+        "EFI": "TEP, , ",
+        "PLG": "TEP, , ",
+        "CCD": "TEA, , ",
+        "EAR": "TEA, , ",
+        "GGF": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "15",
+        "Hábiles": "95"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [],
+    "Aprobadas": [
+      {
+        "folio": "12",
+        "curso": "2°4°",
+        "calificacion": "4",
+        "materia": "BLG",
+        "libro": "12",
+        "id": 1,
+        "fecha": "21/10/2024"
+      },
+      {
+        "curso": "2°4°",
+        "libro": "12",
+        "id": 2,
+        "calificacion": "7",
+        "materia": "FQA",
+        "folio": "16",
+        "fecha": "22/10/2024"
+      }
+    ]
+  },
+  "nombre": "CEJAS BERENICE NOELIA",
+  "dni": "49380153",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
