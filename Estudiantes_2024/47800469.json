@@ -1,0 +1,91 @@
+{
+  "id": "47800469",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "preceptor": "NOVELLINO VERONICA",
+  "curso": "6°4°",
+  "nombre": "ROMERO FRANCO MICHEL",
+  "turno": "TT",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "materia": "PSI",
+        "curso": "4°4°",
+        "id": 1
+      },
+      {
+        "materia": "GGF",
+        "curso": "3°3°",
+        "id": 2
+      }
+    ]
+  },
+  "informes": {
+    "informe2": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "RTE": "TEA, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "MCS": "TEA, , ",
+        "TYC": "TEA, , ",
+        "FIL": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "PIC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "103"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "HTR": "TEA, , ",
+        "EFI": "TEA, , ",
+        "PIC": "TEA, , ",
+        "MCS": "TEA, , ",
+        "FIL": "TEA, , ",
+        "GGF": "TEP, , ",
+        "RTE": "TEA, , ",
+        "TYC": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "9",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "RTE": "TEA, 9, ",
+        "HTR": "TEA, 7, ",
+        "MCS": "TEA, 9, ",
+        "FIL": "TEA, 10, ",
+        "LIT": "TEP, 5, ",
+        "PIC": "TEA, 8, ",
+        "EFI": "TEA, 10, ",
+        "TYC": "TEA, 7, ",
+        "IGS": "TEA, 8, ",
+        "GGF": "TEA, 7, "
+      },
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "19"
+      }
+    }
+  },
+  "dni": "47800469"
+}
