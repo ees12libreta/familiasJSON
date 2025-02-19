@@ -1,0 +1,90 @@
+{
+  "id": "45627245",
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "GGF",
+    "HTR",
+    "PIC",
+    "RTE",
+    "FIL"
+  ],
+  "informes": {
+    "informe1": {
+      "materias": {
+        "EFI": "TED, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEP, , ",
+        "PIC": "TEP, , ",
+        "MCS": "TEA, , ",
+        "TYC": "TEP, , ",
+        "RTE": "TEA, , ",
+        "LIT": "TEP, , ",
+        "FIL": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "40",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "198",
+        "Inasistencias": "91"
+      },
+      "materias": {
+        "PIC": "TEP, 6, ",
+        "TYC": "TEP, , ",
+        "HTR": "TEP, , ",
+        "MCS": "TEP, 6, ",
+        "RTE": "TEA, 8, ",
+        "EFI": "TEP, 7, ",
+        "FIL": "TEA, 9, ",
+        "IGS": "TEA, 7, ",
+        "GGF": "TEP, 7, ",
+        "LIT": "TEP, 7, "
+      }
+    },
+    "informe2": {
+      "materias": {
+        "RTE": "TEA, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEA, , ",
+        "FIL": "TEA, , ",
+        "TYC": "TEP, , ",
+        "LIT": "TEA, , ",
+        "IGS": "TEA, , ",
+        "PIC": "TEP, , "
+      },
+      "asistencia": {
+        "Hábiles": "103",
+        "Inasistencias": "51"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "LIT",
+        "curso": "4°4°"
+      },
+      {
+        "materia": "LIT",
+        "curso": "5°4°",
+        "id": 2
+      }
+    ]
+  },
+  "dni": "45627245",
+  "nombre": "OLGUIN LUCIANA BELEN",
+  "curso": "6°4°",
+  "preceptor": "NOVELLINO VERONICA"
+}
