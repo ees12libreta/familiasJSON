@@ -1,0 +1,98 @@
+{
+  "id": "49525273",
+  "turno": "TT",
+  "preceptor": "SILVELA DANIELA",
+  "curso": "4°3°",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "materia": "IGS",
+        "curso": "2°3°"
+      },
+      {
+        "curso": "2°3°",
+        "materia": "MTM",
+        "id": 2
+      }
+    ]
+  },
+  "dni": "49525273",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "30"
+      },
+      "materias": {
+        "MCS": "TEP, , ",
+        "NTI": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, 7, ",
+        "SYA": "TEA, 9, ",
+        "TDO": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "BLG": "TEA, , ",
+        "IAF": "TEA, , ",
+        "EFI": "TEA, 7, ",
+        "HTR": "TEA, , "
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "7",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEA, , ",
+        "TDO": "TEA, , ",
+        "HTR": "TEP, , ",
+        "LIT": "TEP, , ",
+        "SIC": "TEA, , ",
+        "NTI": "TEA, , ",
+        "BLG": "TED, , ",
+        "IAF": "TEP, , ",
+        "GGF": "TEP, , ",
+        "SYA": "TEA, , ",
+        "MCS": "TEP, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "100"
+      },
+      "materias": {
+        "SIC": "TEA, 7, ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, , ",
+        "TDO": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "MCS": "TEP, 7, ",
+        "NTI": "TEP, , ",
+        "SYA": "TEA, 9, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "IAF": "TEP, , ",
+        "EFI": "TEA, 7, "
+      }
+    }
+  },
+  "nombre": "RODRIGUEZ LEONARDO MARTIN",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ]
+}
