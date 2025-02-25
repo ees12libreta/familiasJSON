@@ -1,0 +1,52 @@
+{
+  "id": "47094194",
+  "dni": "47094194",
+  "informes": {
+    "informe2": {
+      "materias": {
+        "LIT": "TEP, , ",
+        "PRO": "TEA, , ",
+        "TYC": "TEA, , ",
+        "RTE": "TEP, , ",
+        "IGS": "TEP, , ",
+        "MCS": "TEP, , ",
+        "FIL": "TEA, , ",
+        "EFI": "TEP, , ",
+        "EPO": "TEP, , "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "turno": "TT",
+  "curso": "6°3°",
+  "nombre": "DE SOUSA GENARO",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "TYC",
+    "PRO",
+    "EPO",
+    "RTE",
+    "FIL"
+  ],
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "MCS",
+        "curso": "5°4°",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "curso": "5°4°",
+        "materia": "GGF"
+      }
+    ]
+  },
+  "preceptor": "NOVELLINO VERONICA"
+}
