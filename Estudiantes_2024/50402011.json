@@ -1,0 +1,76 @@
+{
+  "id": "50402011",
+  "preceptor": "SANDOVAL GILDA",
+  "turno": "TM",
+  "dni": "50402011",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "22",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEP, , ",
+        "EFI": "TEA, , ",
+        "PLG": "TEP, , ",
+        "IGS": "TEA, , ",
+        "GGF": "TEP, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "PLG": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "EAR": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "CCD": "TEA, 4, Intensificó en dic ",
+        "MTM": "TEA, 5, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEP, , ",
+        "MTM": "TEP, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "PLG": "TEP, , ",
+        "GGF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEP, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "17",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "curso": "2°2°",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "CUENCA IBARRA CANDELA"
+}
