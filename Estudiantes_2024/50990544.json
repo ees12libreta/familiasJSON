@@ -1,0 +1,76 @@
+{
+  "id": "50990544",
+  "dni": "50990544",
+  "turno": "TM",
+  "informes": {
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "19",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "IGS": "TEP, , ",
+        "EFI": "TEP, , ",
+        "GGF": "TEA, , ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "FQA": "TEA, , ",
+        "CCD": "TEP, , ",
+        "EAR": "TEA, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "EAR": "TEA, , ",
+        "HTR": "TEP, , ",
+        "FQA": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EFI": "TEA, , ",
+        "CCD": "TEP, , ",
+        "BLG": "TEP, , ",
+        "MTM": "TEA, , ",
+        "PLG": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "10",
+        "Hábiles": "75"
+      }
+    },
+    "informe3": {
+      "asistencia": {
+        "Hábiles": "0",
+        "Inasistencias": "0"
+      },
+      "materias": {
+        "CCD": "TEA, 4, Intensif en feb. ",
+        "EFI": "TEP, , ",
+        "HTR": "TEP, , ",
+        "IGS": "TEA, 4, ",
+        "PLG": "TEA, 8, ",
+        "MTM": "TEA, 7, ",
+        "GGF": "TEA, 7, ",
+        "FQA": "TEA, 7, ",
+        "BLG": "TEA, 4, Intensif en feb.",
+        "EAR": "TEA, 7, "
+      }
+    }
+  },
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°2°",
+  "nombre": "CARDOZO BARBARA",
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ]
+}
