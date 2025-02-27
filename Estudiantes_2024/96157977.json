@@ -1,0 +1,77 @@
+{
+  "id": "96157977",
+  "informes": {
+    "informe1": {
+      "materias": {
+        "PLG": "TEA, , ",
+        "GGF": "TEA, , ",
+        "IGS": "TEA, , ",
+        "EAR": "TEA, , ",
+        "CCD": "TEA, , ",
+        "BLG": "TEA, , ",
+        "FQA": "TEA, , ",
+        "MTM": "TEA, , ",
+        "EFI": "TEA, , ",
+        "HTR": "TEA, , "
+      },
+      "asistencia": {
+        "Hábiles": "75",
+        "Inasistencias": "4"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Inasistencias": "5",
+        "Hábiles": "104"
+      },
+      "materias": {
+        "MTM": "TEA, , ",
+        "EAR": "TEA, , ",
+        "IGS": "TEA, , ",
+        "FQA": "TEA, , ",
+        "EFI": "TEA, , ",
+        "BLG": "TEA, , ",
+        "CCD": "TEA, , ",
+        "PLG": "TEA, , ",
+        "HTR": "TEA, , ",
+        "GGF": "TEA, , "
+      }
+    },
+    "informe3": {
+      "materias": {
+        "BLG": "TEA, 9, ",
+        "CCD": "TEA, 8, ",
+        "IGS": "TEA, 8, ",
+        "EFI": "TEA, 9, ",
+        "FQA": "TEA, 8, ",
+        "HTR": "TEA, 8, ",
+        "MTM": "TEA, 8, ",
+        "GGF": "TEA, 8, ",
+        "PLG": "TEA, 7, ",
+        "EAR": "TEA, 9, "
+      },
+      "asistencia": {
+        "Inasistencias": "0",
+        "Hábiles": "0"
+      }
+    }
+  },
+  "materias": [
+    "BLG",
+    "CCD",
+    "EAR",
+    "EFI",
+    "FQA",
+    "GGF",
+    "HTR",
+    "IGS",
+    "MTM",
+    "PLG"
+  ],
+  "nombre": "DE LA TORRE UGARTE TELLO SANTIAGO",
+  "dni": "96157977",
+  "Pendientes": {},
+  "turno": "TM",
+  "preceptor": "SANDOVAL GILDA",
+  "curso": "2°2°"
+}
