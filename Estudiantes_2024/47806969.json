@@ -1,0 +1,76 @@
+{
+  "id": "47806969",
+  "informes": {
+    "informe3": {
+      "asistencia": {
+        "Inasistencias": "53",
+        "Hábiles": "103"
+      },
+      "materias": {
+        "CCS": "TEP, , ",
+        "HTR": "TEA, 7, ",
+        "GGF": "TEP, 10, ",
+        "SOC": "TEA, 7, ",
+        "EPO": "TEP, , ",
+        "MCS": "TEA, 8, ",
+        "EFI": "TEA, 7, ",
+        "IAQ": "TED, , ",
+        "LIT": "TEP, , ",
+        "PYC": "TEP, , ",
+        "IGS": "TED, , "
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "105",
+        "Inasistencias": "37"
+      },
+      "materias": {
+        "CCS": "TEA, 6, ",
+        "SOC": "TEA, 7, ",
+        "LIT": "TEP, , ",
+        "EPO": "TEP, , ",
+        "MCS": "TEA, 8, ",
+        "PYC": "TEP, , ",
+        "IGS": "TED, , ",
+        "GGF": "TEA, 10, ",
+        "HTR": "TEA, 7, ",
+        "IAQ": "TED, , ",
+        "EFI": "TEA, 7, "
+      }
+    }
+  },
+  "curso": "5°4°",
+  "Pendientes": {
+    "Aprobadas": [],
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "4°4°",
+        "materia": "GGF"
+      },
+      {
+        "id": 2,
+        "materia": "BLG",
+        "curso": "4°4°"
+      }
+    ]
+  },
+  "dni": "47806969",
+  "nombre": "CAPORALE FIONA",
+  "preceptor": "LODEIRO LAURA",
+  "turno": "TT",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "PYC",
+    "IAQ",
+    "HTR",
+    "GGF",
+    "CCS",
+    "EPO",
+    "SOC"
+  ]
+}
