@@ -1,0 +1,99 @@
+{
+  "id": "48219764",
+  "nombre": "BOYER DYLAN SAMUEL",
+  "dni": "48219764",
+  "turno": "TT",
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "materia": "IGS",
+        "curso": "3°4°",
+        "id": 1
+      },
+      {
+        "curso": "3°4°",
+        "id": 2,
+        "materia": "GGF"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "informes": {
+    "informe2": {
+      "materias": {
+        "EFI": "TEA, 7, ",
+        "NTI": "TEA, 7, ",
+        "TDO": "TEP, , ",
+        "SIC": "TEA, 7, ",
+        "BLG": "TEP, , ",
+        "HTR": "TEP, , ",
+        "GGF": "TEP, , ",
+        "IGS": "TEP, , ",
+        "LIT": "TEP, , ",
+        "IAF": "TEP, , ",
+        "MCS": "TEP, , ",
+        "SYA": "TEA, 7, "
+      },
+      "asistencia": {
+        "Inasistencias": "14",
+        "Hábiles": "100"
+      }
+    },
+    "informe3": {
+      "materias": {
+        "MCS": "TEP, , ",
+        "NTI": "TEA, 7, ",
+        "SIC": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "GGF": "TEA, 5, ",
+        "IGS": "TEP, , ",
+        "LIT": "TEA, 7, ",
+        "HTR": "TEP, , ",
+        "BLG": "TEP, , ",
+        "TDO": "TEA, 5, ",
+        "SYA": "TEA, 7, ",
+        "IAF": "TEA, 4, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "20"
+      }
+    },
+    "informe1": {
+      "asistencia": {
+        "Inasistencias": "6",
+        "Hábiles": "75"
+      },
+      "materias": {
+        "IAF": "TEP, , ",
+        "EFI": "TEA, , ",
+        "GGF": "TEP, , ",
+        "BLG": "TEP, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEP, , ",
+        "TDO": "TEA, , ",
+        "LIT": "TEP, , ",
+        "MCS": "TEP, , ",
+        "HTR": "TEP, , ",
+        "NTI": "TEA, , ",
+        "SIC": "TEA, , "
+      }
+    }
+  },
+  "curso": "4°3°",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "preceptor": "SILVELA DANIELA"
+}
