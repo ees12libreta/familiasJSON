@@ -1,0 +1,94 @@
+{
+  "id": "49235880",
+  "preceptor": "SILVELA DANIELA",
+  "materias": [
+    "LIT",
+    "MCS",
+    "EFI",
+    "IGS",
+    "NTI",
+    "SYA",
+    "IAF",
+    "BLG",
+    "HTR",
+    "GGF",
+    "SIC",
+    "TDO"
+  ],
+  "turno": "TT",
+  "informes": {
+    "informe3": {
+      "materias": {
+        "HTR": "TEA, 7, ",
+        "BLG": "TEA, 8, ",
+        "IAF": "TEA, 7, ",
+        "EFI": "TEA, 7, ",
+        "MCS": "TEP, 4, ",
+        "NTI": "TEA, 7, ",
+        "SIC": "TEA, 10, ",
+        "GGF": "TEA, 8, ",
+        "IGS": "TEA, 7, ",
+        "LIT": "TEA, 8, ",
+        "SYA": "TEA, 8, ",
+        "TDO": "TEA, 9, "
+      },
+      "asistencia": {
+        "Hábiles": "175",
+        "Inasistencias": "10"
+      }
+    },
+    "informe2": {
+      "asistencia": {
+        "Hábiles": "100",
+        "Inasistencias": "9"
+      },
+      "materias": {
+        "GGF": "TEA, 8, ",
+        "SIC": "TEA, 10, ",
+        "EFI": "TEA, 7, ",
+        "IGS": "TEA, 7, ",
+        "IAF": "TEA, 7, ",
+        "SYA": "TEA, 8, ",
+        "BLG": "TEA, 8, ",
+        "MCS": "TEP, , ",
+        "NTI": "TEA, 7, ",
+        "LIT": "TEA, 8, ",
+        "TDO": "TEA, 9, ",
+        "HTR": "TEA, 7, "
+      }
+    },
+    "informe1": {
+      "materias": {
+        "HTR": "TEA, , ",
+        "GGF": "TEP, , ",
+        "SIC": "TEA, , ",
+        "MCS": "TEP, , ",
+        "IAF": "TEA, , ",
+        "BLG": "TEP, , ",
+        "EFI": "TEA, , ",
+        "LIT": "TEA, , ",
+        "NTI": "TEA, , ",
+        "SYA": "TEA, , ",
+        "IGS": "TEA, , ",
+        "TDO": "TEA, , "
+      },
+      "asistencia": {
+        "Inasistencias": "1",
+        "Hábiles": "75"
+      }
+    }
+  },
+  "Pendientes": {
+    "Adeuda": [
+      {
+        "id": 1,
+        "curso": "3°4°",
+        "materia": "MTM"
+      }
+    ],
+    "Aprobadas": []
+  },
+  "dni": "49235880",
+  "curso": "4°3°",
+  "nombre": "FREIRE JAZMIN AILEN"
+}
